@@ -1,0 +1,3388 @@
+Maximize
+f1 - f2 - f3
+
+Subject to
+f1 - 30y82 - 30y94 - 10y75 - 10y87 - 20y101 - 10y60 - 30y78 - 20y34 - 10y46 - 10y11 - 30y14 - 30y97 - 10y13 - 20y96 - 30y51 - 20y33 - 10y74 - 30y68 - 20y17 - 10y61 - 20y31 - 10y43 - 20y62 - 10y73 - 50y95 - 10y37 - 30y100 - 30y71 - 20y25 - 20y64 - 20y63 - 20y93 - 20y65 - 10y69 - 30y47 - 30y35 - 10y7 - 10y53 - 20y50 - 30y29 - 20y3 - 10y58 - 30y67 - 40y30 - 10y83 - 20y15 - 10y84 - 10y8 - 10y59 - 20y19 = 0
+f3 - 0.000000y82 - 1.800000y94 - 3.400000y75 - 1.600000y87 - 1.600000y101 - 0.600000y60 - 3.200000y78 - 1.200000y34 - 4.400000y46 - 0.800000y11 - 0.800000y14 - 4.800000y97 - 0.400000y13 - 3.600000y96 - 0.800000y51 - 2.200000y33 - 2.800000y74 - 1.800000y68 - 0.400000y17 - 2.000000y61 - 1.400000y31 - 7.200000y43 - 0.400000y62 - 1.200000y73 - 1.800000y95 - 2.400000y37 - 1.400000y100 - 1.800000y71 - 0.800000y25 - 0.000000y64 - 4.000000y63 - 0.600000y93 - 6.400000y65 - 2.400000y69 - 2.800000y47 - 5.200000y35 - 7.200000y7 - 0.400000y53 - 1.200000y50 - 1.200000y29 - 8.800000y3 - 7.200000y58 - 0.600000y67 - 8.000000y30 - 1.800000y83 - 5.200000y15 - 5.800000y84 - 1.600000y8 - 0.800000y59 - 7.000000y19 = 0
+f2 - 0.002268s82 - 0.002268s94 - 0.002268s75 - 0.002268s87 - 0.002268s101 - 0.002268s60 - 0.002268s78 - 0.002268s34 - 0.002268s46 - 0.002268s11 - 0.002268s14 - 0.002268s97 - 0.002268s13 - 0.002268s96 - 0.002268s51 - 0.002268s33 - 0.002268s74 - 0.002268s68 - 0.002268s17 - 0.002268s61 - 0.002268s31 - 0.002268s43 - 0.002268s62 - 0.002268s73 - 0.002268s95 - 0.002268s37 - 0.002268s100 - 0.002268s71 - 0.002268s25 - 0.002268s64 - 0.002268s63 - 0.002268s93 - 0.002268s65 - 0.002268s69 - 0.002268s47 - 0.002268s35 - 0.002268s7 - 0.002268s53 - 0.002268s50 - 0.002268s29 - 0.002268s3 - 0.002268s58 - 0.002268s67 - 0.002268s30 - 0.002268s83 - 0.002268s15 - 0.002268s84 - 0.002268s8 - 0.002268s59 - 0.002268s19  = 0
+
+x1x82x1 + x1x94x1 + x1x101x1 + x1x60x1 + x1x46x1 + x1x33x1 + x1x61x1 + x1x31x1 + x1x43x1 + x1x37x1 + x1x71x1 + x1x25x1 + x1x64x1 + x1x63x1 + x1x93x1 + x1x69x1 + x1x47x1 + x1x35x1 + x1x7x1 + x1x53x1 + x1x29x1 + x1x3x1 + x1x58x1 + x1x67x1 + x1x30x1 + x1x83x1 + x1x15x1 + x1x84x1 + x1x8x1 + x1x59x1 
+- x82x1x1 - x94x1x1 - x101x1x1 - x60x1x1 - x46x1x1 - x33x1x1 - x61x1x1 - x31x1x1 - x43x1x1 - x37x1x1 - x71x1x1 - x25x1x1 - x64x1x1 - x63x1x1 - x93x1x1 - x69x1x1 - x47x1x1 - x35x1x1 - x7x1x1 - x53x1x1 - x29x1x1 - x3x1x1 - x58x1x1 - x67x1x1 - x30x1x1 - x83x1x1 - x15x1x1 - x84x1x1 - x8x1x1 - x59x1x1 = 0
+x1x82x2 + x1x94x2 + x1x75x2 + x1x87x2 + x1x101x2 + x1x78x2 + x1x34x2 + x1x46x2 + x1x11x2 + x1x14x2 + x1x96x2 + x1x68x2 + x1x61x2 + x1x31x2 + x1x43x2 + x1x73x2 + x1x37x2 + x1x100x2 + x1x64x2 + x1x65x2 + x1x69x2 + x1x35x2 + x1x7x2 + x1x50x2 + x1x29x2 + x1x15x2 + x1x19x2 
+- x82x1x2 - x94x1x2 - x75x1x2 - x87x1x2 - x101x1x2 - x78x1x2 - x34x1x2 - x46x1x2 - x11x1x2 - x14x1x2 - x96x1x2 - x68x1x2 - x61x1x2 - x31x1x2 - x43x1x2 - x73x1x2 - x37x1x2 - x100x1x2 - x64x1x2 - x65x1x2 - x69x1x2 - x35x1x2 - x7x1x2 - x50x1x2 - x29x1x2 - x15x1x2 - x19x1x2 = 0
+x1x87x3 + x1x101x3 + x1x60x3 + x1x78x3 + x1x34x3 + x1x97x3 + x1x13x3 + x1x51x3 + x1x74x3 + x1x68x3 + x1x17x3 + x1x31x3 + x1x62x3 + x1x73x3 + x1x95x3 + x1x25x3 + x1x64x3 + x1x63x3 + x1x93x3 + x1x65x3 + x1x69x3 + x1x47x3 + x1x7x3 + x1x53x3 + x1x29x3 + x1x3x3 + x1x30x3 + x1x83x3 + x1x59x3 
+- x87x1x3 - x101x1x3 - x60x1x3 - x78x1x3 - x34x1x3 - x97x1x3 - x13x1x3 - x51x1x3 - x74x1x3 - x68x1x3 - x17x1x3 - x31x1x3 - x62x1x3 - x73x1x3 - x95x1x3 - x25x1x3 - x64x1x3 - x63x1x3 - x93x1x3 - x65x1x3 - x69x1x3 - x47x1x3 - x7x1x3 - x53x1x3 - x29x1x3 - x3x1x3 - x30x1x3 - x83x1x3 - x59x1x3 = 0
+
+x1x82x1 + x1x94x1 + x1x101x1 + x1x60x1 + x1x46x1 + x1x33x1 + x1x61x1 + x1x31x1 + x1x43x1 + x1x37x1 + x1x71x1 + x1x25x1 + x1x64x1 + x1x63x1 + x1x93x1 + x1x69x1 + x1x47x1 + x1x35x1 + x1x7x1 + x1x53x1 + x1x29x1 + x1x3x1 + x1x58x1 + x1x67x1 + x1x30x1 + x1x83x1 + x1x15x1 + x1x84x1 + x1x8x1 + x1x59x1 = 7
+x1x82x2 + x1x94x2 + x1x75x2 + x1x87x2 + x1x101x2 + x1x78x2 + x1x34x2 + x1x46x2 + x1x11x2 + x1x14x2 + x1x96x2 + x1x68x2 + x1x61x2 + x1x31x2 + x1x43x2 + x1x73x2 + x1x37x2 + x1x100x2 + x1x64x2 + x1x65x2 + x1x69x2 + x1x35x2 + x1x7x2 + x1x50x2 + x1x29x2 + x1x15x2 + x1x19x2 = 6
+x1x87x3 + x1x101x3 + x1x60x3 + x1x78x3 + x1x34x3 + x1x97x3 + x1x13x3 + x1x51x3 + x1x74x3 + x1x68x3 + x1x17x3 + x1x31x3 + x1x62x3 + x1x73x3 + x1x95x3 + x1x25x3 + x1x64x3 + x1x63x3 + x1x93x3 + x1x65x3 + x1x69x3 + x1x47x3 + x1x7x3 + x1x53x3 + x1x29x3 + x1x3x3 + x1x30x3 + x1x83x3 + x1x59x3 = 5
+
+x1x82x1 + x94x82x1 + x101x82x1 + x60x82x1 
+- x82x1x1 - x82x94x1 - x82x101x1 - x82x60x1 - x82x46x1 - x82x33x1 - x82x61x1 - x82x31x1 - x82x43x1 - x82x37x1 - x82x71x1 - x82x25x1 - x82x64x1 - x82x63x1 - x82x93x1 - x82x69x1 - x82x47x1 - x82x35x1 - x82x7x1 - x82x53x1 - x82x29x1 - x82x3x1 - x82x58x1 - x82x67x1 - x82x30x1 - x82x83x1 - x82x15x1 - x82x84x1 - x82x8x1 - x82x59x1 = 0
+x1x82x2 + x94x82x2 + x75x82x2 + x87x82x2 + x101x82x2 
+- x82x1x2 - x82x94x2 - x82x75x2 - x82x87x2 - x82x101x2 - x82x78x2 - x82x34x2 - x82x46x2 - x82x11x2 - x82x14x2 - x82x96x2 - x82x68x2 - x82x61x2 - x82x31x2 - x82x43x2 - x82x73x2 - x82x37x2 - x82x100x2 - x82x64x2 - x82x65x2 - x82x69x2 - x82x35x2 - x82x7x2 - x82x50x2 - x82x29x2 - x82x15x2 - x82x19x2 = 0
+
+
+x1x94x1 + x82x94x1 + x101x94x1 + x60x94x1 
+- x94x1x1 - x94x82x1 - x94x101x1 - x94x60x1 - x94x46x1 - x94x33x1 - x94x61x1 - x94x31x1 - x94x43x1 - x94x37x1 - x94x71x1 - x94x25x1 - x94x64x1 - x94x63x1 - x94x93x1 - x94x69x1 - x94x47x1 - x94x35x1 - x94x7x1 - x94x53x1 - x94x29x1 - x94x3x1 - x94x58x1 - x94x67x1 - x94x30x1 - x94x83x1 - x94x15x1 - x94x84x1 - x94x8x1 - x94x59x1 = 0
+x1x94x2 + x82x94x2 + x75x94x2 + x87x94x2 + x101x94x2 + x78x94x2 + x34x94x2 
+- x94x1x2 - x94x82x2 - x94x75x2 - x94x87x2 - x94x101x2 - x94x78x2 - x94x34x2 - x94x46x2 - x94x11x2 - x94x14x2 - x94x96x2 - x94x68x2 - x94x61x2 - x94x31x2 - x94x43x2 - x94x73x2 - x94x37x2 - x94x100x2 - x94x64x2 - x94x65x2 - x94x69x2 - x94x35x2 - x94x7x2 - x94x50x2 - x94x29x2 - x94x15x2 - x94x19x2 = 0
+
+
+
+x1x75x2 + x82x75x2 + x94x75x2 + x87x75x2 + x101x75x2 + x78x75x2 + x34x75x2 + x11x75x2 
+- x75x1x2 - x75x82x2 - x75x94x2 - x75x87x2 - x75x101x2 - x75x78x2 - x75x34x2 - x75x46x2 - x75x11x2 - x75x14x2 - x75x96x2 - x75x68x2 - x75x61x2 - x75x31x2 - x75x43x2 - x75x73x2 - x75x37x2 - x75x100x2 - x75x64x2 - x75x65x2 - x75x69x2 - x75x35x2 - x75x7x2 - x75x50x2 - x75x29x2 - x75x15x2 - x75x19x2 = 0
+
+
+
+x1x87x2 + x82x87x2 + x94x87x2 + x75x87x2 + x101x87x2 + x78x87x2 + x34x87x2 + x46x87x2 + x11x87x2 
+- x87x1x2 - x87x82x2 - x87x94x2 - x87x75x2 - x87x101x2 - x87x78x2 - x87x34x2 - x87x46x2 - x87x11x2 - x87x14x2 - x87x96x2 - x87x68x2 - x87x61x2 - x87x31x2 - x87x43x2 - x87x73x2 - x87x37x2 - x87x100x2 - x87x64x2 - x87x65x2 - x87x69x2 - x87x35x2 - x87x7x2 - x87x50x2 - x87x29x2 - x87x15x2 - x87x19x2 = 0
+x1x87x3 + x101x87x3 + x60x87x3 + x78x87x3 + x34x87x3 
+- x87x1x3 - x87x101x3 - x87x60x3 - x87x78x3 - x87x34x3 - x87x97x3 - x87x13x3 - x87x51x3 - x87x74x3 - x87x68x3 - x87x17x3 - x87x31x3 - x87x62x3 - x87x73x3 - x87x95x3 - x87x25x3 - x87x64x3 - x87x63x3 - x87x93x3 - x87x65x3 - x87x69x3 - x87x47x3 - x87x7x3 - x87x53x3 - x87x29x3 - x87x3x3 - x87x30x3 - x87x83x3 - x87x59x3 = 0
+
+x1x101x1 + x82x101x1 + x94x101x1 + x60x101x1 + x46x101x1 
+- x101x1x1 - x101x82x1 - x101x94x1 - x101x60x1 - x101x46x1 - x101x33x1 - x101x61x1 - x101x31x1 - x101x43x1 - x101x37x1 - x101x71x1 - x101x25x1 - x101x64x1 - x101x63x1 - x101x93x1 - x101x69x1 - x101x47x1 - x101x35x1 - x101x7x1 - x101x53x1 - x101x29x1 - x101x3x1 - x101x58x1 - x101x67x1 - x101x30x1 - x101x83x1 - x101x15x1 - x101x84x1 - x101x8x1 - x101x59x1 = 0
+x1x101x2 + x82x101x2 + x94x101x2 + x75x101x2 + x87x101x2 + x78x101x2 + x34x101x2 + x46x101x2 + x11x101x2 
+- x101x1x2 - x101x82x2 - x101x94x2 - x101x75x2 - x101x87x2 - x101x78x2 - x101x34x2 - x101x46x2 - x101x11x2 - x101x14x2 - x101x96x2 - x101x68x2 - x101x61x2 - x101x31x2 - x101x43x2 - x101x73x2 - x101x37x2 - x101x100x2 - x101x64x2 - x101x65x2 - x101x69x2 - x101x35x2 - x101x7x2 - x101x50x2 - x101x29x2 - x101x15x2 - x101x19x2 = 0
+x1x101x3 + x87x101x3 + x60x101x3 + x78x101x3 + x34x101x3 
+- x101x1x3 - x101x87x3 - x101x60x3 - x101x78x3 - x101x34x3 - x101x97x3 - x101x13x3 - x101x51x3 - x101x74x3 - x101x68x3 - x101x17x3 - x101x31x3 - x101x62x3 - x101x73x3 - x101x95x3 - x101x25x3 - x101x64x3 - x101x63x3 - x101x93x3 - x101x65x3 - x101x69x3 - x101x47x3 - x101x7x3 - x101x53x3 - x101x29x3 - x101x3x3 - x101x30x3 - x101x83x3 - x101x59x3 = 0
+
+x1x60x1 + x82x60x1 + x94x60x1 + x101x60x1 + x46x60x1 
+- x60x1x1 - x60x82x1 - x60x94x1 - x60x101x1 - x60x46x1 - x60x33x1 - x60x61x1 - x60x31x1 - x60x43x1 - x60x37x1 - x60x71x1 - x60x25x1 - x60x64x1 - x60x63x1 - x60x93x1 - x60x69x1 - x60x47x1 - x60x35x1 - x60x7x1 - x60x53x1 - x60x29x1 - x60x3x1 - x60x58x1 - x60x67x1 - x60x30x1 - x60x83x1 - x60x15x1 - x60x84x1 - x60x8x1 - x60x59x1 = 0
+
+x1x60x3 + x87x60x3 + x101x60x3 + x78x60x3 + x34x60x3 
+- x60x1x3 - x60x87x3 - x60x101x3 - x60x78x3 - x60x34x3 - x60x97x3 - x60x13x3 - x60x51x3 - x60x74x3 - x60x68x3 - x60x17x3 - x60x31x3 - x60x62x3 - x60x73x3 - x60x95x3 - x60x25x3 - x60x64x3 - x60x63x3 - x60x93x3 - x60x65x3 - x60x69x3 - x60x47x3 - x60x7x3 - x60x53x3 - x60x29x3 - x60x3x3 - x60x30x3 - x60x83x3 - x60x59x3 = 0
+
+
+x1x78x2 + x82x78x2 + x94x78x2 + x75x78x2 + x87x78x2 + x101x78x2 + x34x78x2 + x46x78x2 + x11x78x2 + x14x78x2 
+- x78x1x2 - x78x94x2 - x78x75x2 - x78x87x2 - x78x101x2 - x78x34x2 - x78x46x2 - x78x11x2 - x78x14x2 - x78x96x2 - x78x68x2 - x78x61x2 - x78x31x2 - x78x43x2 - x78x73x2 - x78x37x2 - x78x100x2 - x78x64x2 - x78x65x2 - x78x69x2 - x78x35x2 - x78x7x2 - x78x50x2 - x78x29x2 - x78x15x2 - x78x19x2 = 0
+x1x78x3 + x87x78x3 + x101x78x3 + x60x78x3 + x34x78x3 
+- x78x1x3 - x78x87x3 - x78x101x3 - x78x60x3 - x78x34x3 - x78x97x3 - x78x13x3 - x78x51x3 - x78x74x3 - x78x68x3 - x78x17x3 - x78x31x3 - x78x62x3 - x78x73x3 - x78x95x3 - x78x25x3 - x78x64x3 - x78x63x3 - x78x93x3 - x78x65x3 - x78x69x3 - x78x47x3 - x78x7x3 - x78x53x3 - x78x29x3 - x78x3x3 - x78x30x3 - x78x83x3 - x78x59x3 = 0
+
+
+x1x34x2 + x82x34x2 + x94x34x2 + x75x34x2 + x87x34x2 + x101x34x2 + x78x34x2 + x46x34x2 + x11x34x2 + x14x34x2 
+- x34x1x2 - x34x94x2 - x34x75x2 - x34x87x2 - x34x101x2 - x34x78x2 - x34x46x2 - x34x11x2 - x34x14x2 - x34x96x2 - x34x68x2 - x34x61x2 - x34x31x2 - x34x43x2 - x34x73x2 - x34x37x2 - x34x100x2 - x34x64x2 - x34x65x2 - x34x69x2 - x34x35x2 - x34x7x2 - x34x50x2 - x34x29x2 - x34x15x2 - x34x19x2 = 0
+x1x34x3 + x87x34x3 + x101x34x3 + x60x34x3 + x78x34x3 + x13x34x3 
+- x34x1x3 - x34x87x3 - x34x101x3 - x34x60x3 - x34x78x3 - x34x97x3 - x34x13x3 - x34x51x3 - x34x74x3 - x34x68x3 - x34x17x3 - x34x31x3 - x34x62x3 - x34x73x3 - x34x95x3 - x34x25x3 - x34x64x3 - x34x63x3 - x34x93x3 - x34x65x3 - x34x69x3 - x34x47x3 - x34x7x3 - x34x53x3 - x34x29x3 - x34x3x3 - x34x30x3 - x34x83x3 - x34x59x3 = 0
+
+x1x46x1 + x82x46x1 + x94x46x1 + x101x46x1 + x60x46x1 
+- x46x1x1 - x46x101x1 - x46x60x1 - x46x33x1 - x46x61x1 - x46x31x1 - x46x43x1 - x46x37x1 - x46x71x1 - x46x25x1 - x46x64x1 - x46x63x1 - x46x93x1 - x46x69x1 - x46x47x1 - x46x35x1 - x46x7x1 - x46x53x1 - x46x29x1 - x46x3x1 - x46x58x1 - x46x67x1 - x46x30x1 - x46x83x1 - x46x15x1 - x46x84x1 - x46x8x1 - x46x59x1 = 0
+x1x46x2 + x82x46x2 + x94x46x2 + x75x46x2 + x87x46x2 + x101x46x2 + x78x46x2 + x34x46x2 + x11x46x2 + x14x46x2 
+- x46x1x2 - x46x87x2 - x46x101x2 - x46x78x2 - x46x34x2 - x46x11x2 - x46x14x2 - x46x96x2 - x46x68x2 - x46x61x2 - x46x31x2 - x46x43x2 - x46x73x2 - x46x37x2 - x46x100x2 - x46x64x2 - x46x65x2 - x46x69x2 - x46x35x2 - x46x7x2 - x46x50x2 - x46x29x2 - x46x15x2 - x46x19x2 = 0
+
+
+
+x1x11x2 + x82x11x2 + x94x11x2 + x75x11x2 + x87x11x2 + x101x11x2 + x78x11x2 + x34x11x2 + x46x11x2 + x14x11x2 
+- x11x1x2 - x11x75x2 - x11x87x2 - x11x101x2 - x11x78x2 - x11x34x2 - x11x46x2 - x11x14x2 - x11x96x2 - x11x68x2 - x11x61x2 - x11x31x2 - x11x43x2 - x11x73x2 - x11x37x2 - x11x100x2 - x11x64x2 - x11x65x2 - x11x69x2 - x11x35x2 - x11x7x2 - x11x50x2 - x11x29x2 - x11x15x2 - x11x19x2 = 0
+
+
+
+x1x14x2 + x82x14x2 + x94x14x2 + x75x14x2 + x87x14x2 + x101x14x2 + x78x14x2 + x34x14x2 + x46x14x2 + x11x14x2 + x96x14x2 
+- x14x1x2 - x14x78x2 - x14x34x2 - x14x46x2 - x14x11x2 - x14x96x2 - x14x68x2 - x14x61x2 - x14x31x2 - x14x43x2 - x14x73x2 - x14x37x2 - x14x100x2 - x14x64x2 - x14x65x2 - x14x69x2 - x14x35x2 - x14x7x2 - x14x50x2 - x14x29x2 - x14x15x2 - x14x19x2 = 0
+
+
+
+
+x1x97x3 + x87x97x3 + x101x97x3 + x60x97x3 + x78x97x3 + x34x97x3 + x13x97x3 
+- x97x1x3 - x97x13x3 - x97x51x3 - x97x74x3 - x97x68x3 - x97x17x3 - x97x31x3 - x97x62x3 - x97x73x3 - x97x95x3 - x97x25x3 - x97x64x3 - x97x63x3 - x97x93x3 - x97x65x3 - x97x69x3 - x97x47x3 - x97x7x3 - x97x53x3 - x97x29x3 - x97x3x3 - x97x30x3 - x97x83x3 - x97x59x3 = 0
+
+
+
+x1x13x3 + x87x13x3 + x101x13x3 + x60x13x3 + x78x13x3 + x34x13x3 + x97x13x3 + x51x13x3 
+- x13x1x3 - x13x34x3 - x13x97x3 - x13x51x3 - x13x74x3 - x13x68x3 - x13x17x3 - x13x31x3 - x13x62x3 - x13x73x3 - x13x95x3 - x13x25x3 - x13x64x3 - x13x63x3 - x13x93x3 - x13x65x3 - x13x69x3 - x13x47x3 - x13x7x3 - x13x53x3 - x13x29x3 - x13x3x3 - x13x30x3 - x13x83x3 - x13x59x3 = 0
+
+
+x1x96x2 + x82x96x2 + x94x96x2 + x75x96x2 + x87x96x2 + x101x96x2 + x78x96x2 + x34x96x2 + x46x96x2 + x11x96x2 + x14x96x2 
+- x96x1x2 - x96x14x2 - x96x68x2 - x96x61x2 - x96x31x2 - x96x43x2 - x96x73x2 - x96x37x2 - x96x100x2 - x96x64x2 - x96x65x2 - x96x69x2 - x96x35x2 - x96x7x2 - x96x50x2 - x96x29x2 - x96x15x2 - x96x19x2 = 0
+
+
+
+
+x1x51x3 + x87x51x3 + x101x51x3 + x60x51x3 + x78x51x3 + x34x51x3 + x97x51x3 + x13x51x3 + x74x51x3 
+- x51x1x3 - x51x13x3 - x51x74x3 - x51x68x3 - x51x17x3 - x51x31x3 - x51x62x3 - x51x73x3 - x51x95x3 - x51x25x3 - x51x64x3 - x51x63x3 - x51x93x3 - x51x65x3 - x51x69x3 - x51x47x3 - x51x7x3 - x51x53x3 - x51x29x3 - x51x3x3 - x51x30x3 - x51x83x3 - x51x59x3 = 0
+
+x1x33x1 + x82x33x1 + x94x33x1 + x101x33x1 + x60x33x1 + x46x33x1 
+- x33x1x1 - x33x61x1 - x33x31x1 - x33x43x1 - x33x37x1 - x33x71x1 - x33x25x1 - x33x64x1 - x33x63x1 - x33x93x1 - x33x69x1 - x33x47x1 - x33x35x1 - x33x7x1 - x33x53x1 - x33x29x1 - x33x3x1 - x33x58x1 - x33x67x1 - x33x30x1 - x33x83x1 - x33x15x1 - x33x84x1 - x33x8x1 - x33x59x1 = 0
+
+
+
+
+
+x1x74x3 + x87x74x3 + x101x74x3 + x60x74x3 + x78x74x3 + x34x74x3 + x97x74x3 + x13x74x3 + x51x74x3 
+- x74x1x3 - x74x51x3 - x74x68x3 - x74x17x3 - x74x31x3 - x74x62x3 - x74x73x3 - x74x95x3 - x74x25x3 - x74x64x3 - x74x63x3 - x74x93x3 - x74x65x3 - x74x69x3 - x74x47x3 - x74x7x3 - x74x53x3 - x74x29x3 - x74x3x3 - x74x30x3 - x74x83x3 - x74x59x3 = 0
+
+
+x1x68x2 + x82x68x2 + x94x68x2 + x75x68x2 + x87x68x2 + x101x68x2 + x78x68x2 + x34x68x2 + x46x68x2 + x11x68x2 + x14x68x2 + x96x68x2 
+- x68x1x2 - x68x61x2 - x68x31x2 - x68x43x2 - x68x73x2 - x68x37x2 - x68x100x2 - x68x64x2 - x68x65x2 - x68x69x2 - x68x35x2 - x68x7x2 - x68x50x2 - x68x29x2 - x68x15x2 - x68x19x2 = 0
+x1x68x3 + x87x68x3 + x101x68x3 + x60x68x3 + x78x68x3 + x34x68x3 + x97x68x3 + x13x68x3 + x51x68x3 + x74x68x3 
+- x68x1x3 - x68x17x3 - x68x31x3 - x68x62x3 - x68x73x3 - x68x95x3 - x68x25x3 - x68x64x3 - x68x63x3 - x68x93x3 - x68x65x3 - x68x69x3 - x68x47x3 - x68x7x3 - x68x53x3 - x68x29x3 - x68x3x3 - x68x30x3 - x68x83x3 - x68x59x3 = 0
+
+
+
+x1x17x3 + x87x17x3 + x101x17x3 + x60x17x3 + x78x17x3 + x34x17x3 + x97x17x3 + x13x17x3 + x51x17x3 + x74x17x3 + x68x17x3 
+- x17x1x3 - x17x31x3 - x17x62x3 - x17x73x3 - x17x95x3 - x17x25x3 - x17x64x3 - x17x63x3 - x17x93x3 - x17x65x3 - x17x69x3 - x17x47x3 - x17x7x3 - x17x53x3 - x17x29x3 - x17x3x3 - x17x30x3 - x17x83x3 - x17x59x3 = 0
+
+x1x61x1 + x82x61x1 + x94x61x1 + x101x61x1 + x60x61x1 + x46x61x1 + x33x61x1 + x31x61x1 
+- x61x1x1 - x61x31x1 - x61x37x1 - x61x71x1 - x61x25x1 - x61x64x1 - x61x63x1 - x61x93x1 - x61x69x1 - x61x47x1 - x61x35x1 - x61x7x1 - x61x53x1 - x61x29x1 - x61x3x1 - x61x58x1 - x61x67x1 - x61x30x1 - x61x83x1 - x61x15x1 - x61x84x1 - x61x8x1 - x61x59x1 = 0
+x1x61x2 + x82x61x2 + x94x61x2 + x75x61x2 + x87x61x2 + x101x61x2 + x78x61x2 + x34x61x2 + x46x61x2 + x11x61x2 + x14x61x2 + x96x61x2 + x68x61x2 + x31x61x2 + x73x61x2 
+- x61x1x2 - x61x31x2 - x61x73x2 - x61x37x2 - x61x100x2 - x61x64x2 - x61x65x2 - x61x69x2 - x61x35x2 - x61x7x2 - x61x50x2 - x61x29x2 - x61x15x2 - x61x19x2 = 0
+
+
+x1x31x1 + x82x31x1 + x94x31x1 + x101x31x1 + x60x31x1 + x46x31x1 + x33x31x1 + x61x31x1 
+- x31x1x1 - x31x61x1 - x31x37x1 - x31x71x1 - x31x25x1 - x31x64x1 - x31x63x1 - x31x93x1 - x31x69x1 - x31x47x1 - x31x35x1 - x31x7x1 - x31x53x1 - x31x29x1 - x31x3x1 - x31x58x1 - x31x67x1 - x31x30x1 - x31x83x1 - x31x15x1 - x31x84x1 - x31x8x1 - x31x59x1 = 0
+x1x31x2 + x82x31x2 + x94x31x2 + x75x31x2 + x87x31x2 + x101x31x2 + x78x31x2 + x34x31x2 + x46x31x2 + x11x31x2 + x14x31x2 + x96x31x2 + x68x31x2 + x61x31x2 + x73x31x2 
+- x31x1x2 - x31x61x2 - x31x73x2 - x31x37x2 - x31x100x2 - x31x64x2 - x31x65x2 - x31x69x2 - x31x35x2 - x31x7x2 - x31x50x2 - x31x29x2 - x31x15x2 - x31x19x2 = 0
+x1x31x3 + x87x31x3 + x101x31x3 + x60x31x3 + x78x31x3 + x34x31x3 + x97x31x3 + x13x31x3 + x51x31x3 + x74x31x3 + x68x31x3 + x17x31x3 + x62x31x3 + x73x31x3 + x95x31x3 
+- x31x1x3 - x31x62x3 - x31x73x3 - x31x95x3 - x31x25x3 - x31x64x3 - x31x63x3 - x31x93x3 - x31x65x3 - x31x69x3 - x31x47x3 - x31x7x3 - x31x53x3 - x31x29x3 - x31x3x3 - x31x30x3 - x31x83x3 - x31x59x3 = 0
+
+x1x43x1 + x82x43x1 + x94x43x1 + x101x43x1 + x60x43x1 + x46x43x1 + x33x43x1 
+- x43x1x1 - x43x37x1 - x43x71x1 - x43x25x1 - x43x64x1 - x43x63x1 - x43x93x1 - x43x69x1 - x43x47x1 - x43x35x1 - x43x7x1 - x43x53x1 - x43x29x1 - x43x3x1 - x43x58x1 - x43x67x1 - x43x30x1 - x43x83x1 - x43x15x1 - x43x84x1 - x43x8x1 - x43x59x1 = 0
+x1x43x2 + x82x43x2 + x94x43x2 + x75x43x2 + x87x43x2 + x101x43x2 + x78x43x2 + x34x43x2 + x46x43x2 + x11x43x2 + x14x43x2 + x96x43x2 + x68x43x2 
+- x43x1x2 - x43x73x2 - x43x37x2 - x43x100x2 - x43x64x2 - x43x69x2 - x43x35x2 - x43x7x2 - x43x50x2 - x43x29x2 - x43x15x2 - x43x19x2 = 0
+
+
+
+
+x1x62x3 + x87x62x3 + x101x62x3 + x60x62x3 + x78x62x3 + x34x62x3 + x97x62x3 + x13x62x3 + x51x62x3 + x74x62x3 + x68x62x3 + x17x62x3 + x31x62x3 + x73x62x3 + x95x62x3 + x25x62x3 
+- x62x1x3 - x62x31x3 - x62x73x3 - x62x95x3 - x62x25x3 - x62x64x3 - x62x63x3 - x62x93x3 - x62x65x3 - x62x69x3 - x62x47x3 - x62x7x3 - x62x53x3 - x62x29x3 - x62x3x3 - x62x30x3 - x62x83x3 - x62x59x3 = 0
+
+
+x1x73x2 + x82x73x2 + x94x73x2 + x75x73x2 + x87x73x2 + x101x73x2 + x78x73x2 + x34x73x2 + x46x73x2 + x11x73x2 + x14x73x2 + x96x73x2 + x68x73x2 + x61x73x2 + x31x73x2 + x43x73x2 + x37x73x2 
+- x73x1x2 - x73x61x2 - x73x31x2 - x73x37x2 - x73x100x2 - x73x64x2 - x73x65x2 - x73x69x2 - x73x35x2 - x73x7x2 - x73x50x2 - x73x29x2 - x73x15x2 - x73x19x2 = 0
+x1x73x3 + x87x73x3 + x101x73x3 + x60x73x3 + x78x73x3 + x34x73x3 + x97x73x3 + x13x73x3 + x51x73x3 + x74x73x3 + x68x73x3 + x17x73x3 + x31x73x3 + x62x73x3 + x95x73x3 + x25x73x3 
+- x73x1x3 - x73x31x3 - x73x62x3 - x73x95x3 - x73x25x3 - x73x64x3 - x73x63x3 - x73x93x3 - x73x65x3 - x73x69x3 - x73x47x3 - x73x7x3 - x73x53x3 - x73x29x3 - x73x3x3 - x73x30x3 - x73x83x3 - x73x59x3 = 0
+
+
+
+x1x95x3 + x87x95x3 + x101x95x3 + x60x95x3 + x78x95x3 + x34x95x3 + x97x95x3 + x13x95x3 + x51x95x3 + x74x95x3 + x68x95x3 + x17x95x3 + x31x95x3 + x62x95x3 + x73x95x3 
+- x95x1x3 - x95x31x3 - x95x62x3 - x95x73x3 - x95x25x3 - x95x64x3 - x95x63x3 - x95x93x3 - x95x65x3 - x95x69x3 - x95x47x3 - x95x7x3 - x95x53x3 - x95x29x3 - x95x3x3 - x95x30x3 - x95x83x3 - x95x59x3 = 0
+
+x1x37x1 + x82x37x1 + x94x37x1 + x101x37x1 + x60x37x1 + x46x37x1 + x33x37x1 + x61x37x1 + x31x37x1 + x43x37x1 + x25x37x1 + x63x37x1 
+- x37x1x1 - x37x71x1 - x37x25x1 - x37x64x1 - x37x63x1 - x37x93x1 - x37x69x1 - x37x47x1 - x37x35x1 - x37x7x1 - x37x53x1 - x37x29x1 - x37x3x1 - x37x58x1 - x37x67x1 - x37x30x1 - x37x83x1 - x37x15x1 - x37x84x1 - x37x8x1 - x37x59x1 = 0
+x1x37x2 + x82x37x2 + x94x37x2 + x75x37x2 + x87x37x2 + x101x37x2 + x78x37x2 + x34x37x2 + x46x37x2 + x11x37x2 + x14x37x2 + x96x37x2 + x68x37x2 + x61x37x2 + x31x37x2 + x43x37x2 + x73x37x2 + x100x37x2 
+- x37x1x2 - x37x73x2 - x37x100x2 - x37x64x2 - x37x65x2 - x37x69x2 - x37x35x2 - x37x7x2 - x37x50x2 - x37x29x2 - x37x15x2 - x37x19x2 = 0
+
+
+
+x1x100x2 + x82x100x2 + x94x100x2 + x75x100x2 + x87x100x2 + x101x100x2 + x78x100x2 + x34x100x2 + x46x100x2 + x11x100x2 + x14x100x2 + x96x100x2 + x68x100x2 + x61x100x2 + x31x100x2 + x43x100x2 + x73x100x2 + x37x100x2 + x64x100x2 + x69x100x2 
+- x100x1x2 - x100x37x2 - x100x64x2 - x100x65x2 - x100x69x2 - x100x35x2 - x100x7x2 - x100x50x2 - x100x29x2 - x100x15x2 - x100x19x2 = 0
+
+
+x1x71x1 + x82x71x1 + x94x71x1 + x101x71x1 + x60x71x1 + x46x71x1 + x33x71x1 + x61x71x1 + x31x71x1 + x43x71x1 + x37x71x1 + x25x71x1 + x64x71x1 + x93x71x1 + x69x71x1 + x47x71x1 
+- x71x1x1 - x71x25x1 - x71x64x1 - x71x63x1 - x71x93x1 - x71x69x1 - x71x47x1 - x71x35x1 - x71x7x1 - x71x53x1 - x71x29x1 - x71x3x1 - x71x58x1 - x71x67x1 - x71x30x1 - x71x83x1 - x71x15x1 - x71x84x1 - x71x8x1 - x71x59x1 = 0
+
+
+
+x1x25x1 + x82x25x1 + x94x25x1 + x101x25x1 + x60x25x1 + x46x25x1 + x33x25x1 + x61x25x1 + x31x25x1 + x43x25x1 + x37x25x1 + x71x25x1 + x64x25x1 + x63x25x1 + x93x25x1 
+- x25x1x1 - x25x37x1 - x25x71x1 - x25x64x1 - x25x63x1 - x25x93x1 - x25x69x1 - x25x47x1 - x25x35x1 - x25x7x1 - x25x53x1 - x25x29x1 - x25x3x1 - x25x58x1 - x25x67x1 - x25x30x1 - x25x83x1 - x25x15x1 - x25x84x1 - x25x8x1 - x25x59x1 = 0
+
+x1x25x3 + x87x25x3 + x101x25x3 + x60x25x3 + x78x25x3 + x34x25x3 + x97x25x3 + x13x25x3 + x51x25x3 + x74x25x3 + x68x25x3 + x17x25x3 + x31x25x3 + x62x25x3 + x73x25x3 + x95x25x3 + x64x25x3 + x63x25x3 + x93x25x3 
+- x25x1x3 - x25x62x3 - x25x73x3 - x25x64x3 - x25x63x3 - x25x93x3 - x25x65x3 - x25x69x3 - x25x47x3 - x25x7x3 - x25x53x3 - x25x29x3 - x25x3x3 - x25x30x3 - x25x83x3 - x25x59x3 = 0
+
+x1x64x1 + x82x64x1 + x94x64x1 + x101x64x1 + x60x64x1 + x46x64x1 + x33x64x1 + x61x64x1 + x31x64x1 + x43x64x1 + x37x64x1 + x71x64x1 + x25x64x1 + x63x64x1 + x93x64x1 + x69x64x1 + x47x64x1 + x53x64x1 
+- x64x1x1 - x64x71x1 - x64x25x1 - x64x63x1 - x64x93x1 - x64x69x1 - x64x47x1 - x64x35x1 - x64x7x1 - x64x53x1 - x64x29x1 - x64x3x1 - x64x58x1 - x64x67x1 - x64x30x1 - x64x83x1 - x64x15x1 - x64x84x1 - x64x8x1 - x64x59x1 = 0
+x1x64x2 + x82x64x2 + x94x64x2 + x75x64x2 + x87x64x2 + x101x64x2 + x78x64x2 + x34x64x2 + x46x64x2 + x11x64x2 + x14x64x2 + x96x64x2 + x68x64x2 + x61x64x2 + x31x64x2 + x43x64x2 + x73x64x2 + x37x64x2 + x100x64x2 + x69x64x2 + x50x64x2 
+- x64x1x2 - x64x100x2 - x64x69x2 - x64x35x2 - x64x7x2 - x64x50x2 - x64x29x2 - x64x15x2 - x64x19x2 = 0
+x1x64x3 + x87x64x3 + x101x64x3 + x60x64x3 + x78x64x3 + x34x64x3 + x97x64x3 + x13x64x3 + x51x64x3 + x74x64x3 + x68x64x3 + x17x64x3 + x31x64x3 + x62x64x3 + x73x64x3 + x95x64x3 + x25x64x3 + x63x64x3 + x93x64x3 + x69x64x3 + x47x64x3 + x53x64x3 
+- x64x1x3 - x64x25x3 - x64x63x3 - x64x93x3 - x64x69x3 - x64x47x3 - x64x7x3 - x64x53x3 - x64x29x3 - x64x3x3 - x64x30x3 - x64x83x3 - x64x59x3 = 0
+
+x1x63x1 + x82x63x1 + x94x63x1 + x101x63x1 + x60x63x1 + x46x63x1 + x33x63x1 + x61x63x1 + x31x63x1 + x43x63x1 + x37x63x1 + x71x63x1 + x25x63x1 + x64x63x1 
+- x63x1x1 - x63x37x1 - x63x25x1 - x63x64x1 - x63x93x1 - x63x7x1 - x63x53x1 - x63x29x1 - x63x3x1 - x63x67x1 - x63x30x1 - x63x83x1 - x63x15x1 - x63x84x1 - x63x8x1 - x63x59x1 = 0
+
+x1x63x3 + x87x63x3 + x101x63x3 + x60x63x3 + x78x63x3 + x34x63x3 + x97x63x3 + x13x63x3 + x51x63x3 + x74x63x3 + x68x63x3 + x17x63x3 + x31x63x3 + x62x63x3 + x73x63x3 + x95x63x3 + x25x63x3 + x64x63x3 
+- x63x1x3 - x63x25x3 - x63x64x3 - x63x93x3 - x63x7x3 - x63x53x3 - x63x29x3 - x63x3x3 - x63x30x3 - x63x83x3 - x63x59x3 = 0
+
+x1x93x1 + x82x93x1 + x94x93x1 + x101x93x1 + x60x93x1 + x46x93x1 + x33x93x1 + x61x93x1 + x31x93x1 + x43x93x1 + x37x93x1 + x71x93x1 + x25x93x1 + x64x93x1 + x63x93x1 + x69x93x1 + x47x93x1 + x53x93x1 
+- x93x1x1 - x93x71x1 - x93x25x1 - x93x64x1 - x93x69x1 - x93x47x1 - x93x35x1 - x93x53x1 - x93x29x1 - x93x3x1 - x93x58x1 - x93x67x1 - x93x30x1 - x93x83x1 - x93x15x1 - x93x84x1 - x93x8x1 - x93x59x1 = 0
+
+x1x93x3 + x87x93x3 + x101x93x3 + x60x93x3 + x78x93x3 + x34x93x3 + x97x93x3 + x13x93x3 + x51x93x3 + x74x93x3 + x68x93x3 + x17x93x3 + x31x93x3 + x62x93x3 + x73x93x3 + x95x93x3 + x25x93x3 + x64x93x3 + x63x93x3 + x69x93x3 + x47x93x3 + x53x93x3 
+- x93x1x3 - x93x25x3 - x93x64x3 - x93x69x3 - x93x47x3 - x93x53x3 - x93x29x3 - x93x3x3 - x93x30x3 - x93x83x3 - x93x59x3 = 0
+
+
+x1x65x2 + x82x65x2 + x94x65x2 + x75x65x2 + x87x65x2 + x101x65x2 + x78x65x2 + x34x65x2 + x46x65x2 + x11x65x2 + x14x65x2 + x96x65x2 + x68x65x2 + x61x65x2 + x31x65x2 + x73x65x2 + x37x65x2 + x100x65x2 + x69x65x2 + x35x65x2 
+- x65x1x2 - x65x69x2 - x65x35x2 - x65x50x2 - x65x29x2 - x65x19x2 = 0
+x1x65x3 + x87x65x3 + x101x65x3 + x60x65x3 + x78x65x3 + x34x65x3 + x97x65x3 + x13x65x3 + x51x65x3 + x74x65x3 + x68x65x3 + x17x65x3 + x31x65x3 + x62x65x3 + x73x65x3 + x95x65x3 + x25x65x3 + x69x65x3 + x47x65x3 
+- x65x1x3 - x65x69x3 - x65x47x3 - x65x53x3 - x65x29x3 - x65x83x3 - x65x59x3 = 0
+
+x1x69x1 + x82x69x1 + x94x69x1 + x101x69x1 + x60x69x1 + x46x69x1 + x33x69x1 + x61x69x1 + x31x69x1 + x43x69x1 + x37x69x1 + x71x69x1 + x25x69x1 + x64x69x1 + x93x69x1 + x47x69x1 + x35x69x1 + x53x69x1 
+- x69x1x1 - x69x71x1 - x69x64x1 - x69x93x1 - x69x47x1 - x69x35x1 - x69x53x1 - x69x29x1 - x69x58x1 - x69x67x1 - x69x83x1 - x69x15x1 - x69x84x1 - x69x8x1 - x69x59x1 = 0
+x1x69x2 + x82x69x2 + x94x69x2 + x75x69x2 + x87x69x2 + x101x69x2 + x78x69x2 + x34x69x2 + x46x69x2 + x11x69x2 + x14x69x2 + x96x69x2 + x68x69x2 + x61x69x2 + x31x69x2 + x43x69x2 + x73x69x2 + x37x69x2 + x100x69x2 + x64x69x2 + x65x69x2 + x35x69x2 + x50x69x2 
+- x69x1x2 - x69x100x2 - x69x64x2 - x69x65x2 - x69x35x2 - x69x50x2 - x69x29x2 - x69x15x2 - x69x19x2 = 0
+x1x69x3 + x87x69x3 + x101x69x3 + x60x69x3 + x78x69x3 + x34x69x3 + x97x69x3 + x13x69x3 + x51x69x3 + x74x69x3 + x68x69x3 + x17x69x3 + x31x69x3 + x62x69x3 + x73x69x3 + x95x69x3 + x25x69x3 + x64x69x3 + x93x69x3 + x65x69x3 + x47x69x3 + x53x69x3 
+- x69x1x3 - x69x64x3 - x69x93x3 - x69x65x3 - x69x47x3 - x69x53x3 - x69x29x3 - x69x83x3 - x69x59x3 = 0
+
+x1x47x1 + x82x47x1 + x94x47x1 + x101x47x1 + x60x47x1 + x46x47x1 + x33x47x1 + x61x47x1 + x31x47x1 + x43x47x1 + x37x47x1 + x71x47x1 + x25x47x1 + x64x47x1 + x93x47x1 + x69x47x1 + x35x47x1 + x53x47x1 
+- x47x1x1 - x47x71x1 - x47x64x1 - x47x93x1 - x47x69x1 - x47x35x1 - x47x53x1 - x47x29x1 - x47x58x1 - x47x67x1 - x47x83x1 - x47x15x1 - x47x84x1 - x47x8x1 - x47x59x1 = 0
+
+x1x47x3 + x87x47x3 + x101x47x3 + x60x47x3 + x78x47x3 + x34x47x3 + x97x47x3 + x13x47x3 + x51x47x3 + x74x47x3 + x68x47x3 + x17x47x3 + x31x47x3 + x62x47x3 + x73x47x3 + x95x47x3 + x25x47x3 + x64x47x3 + x93x47x3 + x65x47x3 + x69x47x3 + x53x47x3 
+- x47x1x3 - x47x64x3 - x47x93x3 - x47x65x3 - x47x69x3 - x47x53x3 - x47x29x3 - x47x83x3 - x47x59x3 = 0
+
+x1x35x1 + x82x35x1 + x94x35x1 + x101x35x1 + x60x35x1 + x46x35x1 + x33x35x1 + x61x35x1 + x31x35x1 + x43x35x1 + x37x35x1 + x71x35x1 + x25x35x1 + x64x35x1 + x93x35x1 + x69x35x1 + x47x35x1 
+- x35x1x1 - x35x69x1 - x35x47x1 - x35x53x1 - x35x29x1 - x35x58x1 - x35x67x1 - x35x83x1 - x35x8x1 - x35x59x1 = 0
+x1x35x2 + x82x35x2 + x94x35x2 + x75x35x2 + x87x35x2 + x101x35x2 + x78x35x2 + x34x35x2 + x46x35x2 + x11x35x2 + x14x35x2 + x96x35x2 + x68x35x2 + x61x35x2 + x31x35x2 + x43x35x2 + x73x35x2 + x37x35x2 + x100x35x2 + x64x35x2 + x65x35x2 + x69x35x2 + x50x35x2 
+- x35x1x2 - x35x65x2 - x35x69x2 - x35x50x2 - x35x29x2 - x35x19x2 = 0
+
+
+x1x7x1 + x82x7x1 + x94x7x1 + x101x7x1 + x60x7x1 + x46x7x1 + x33x7x1 + x61x7x1 + x31x7x1 + x43x7x1 + x37x7x1 + x71x7x1 + x25x7x1 + x64x7x1 + x63x7x1 + x3x7x1 
+- x7x1x1 - x7x29x1 - x7x3x1 - x7x30x1 - x7x15x1 - x7x84x1 - x7x8x1 - x7x59x1 = 0
+x1x7x2 + x82x7x2 + x94x7x2 + x75x7x2 + x87x7x2 + x101x7x2 + x78x7x2 + x34x7x2 + x46x7x2 + x11x7x2 + x14x7x2 + x96x7x2 + x68x7x2 + x61x7x2 + x31x7x2 + x43x7x2 + x73x7x2 + x37x7x2 + x100x7x2 + x64x7x2 
+- x7x1x2 - x7x29x2 - x7x15x2 = 0
+x1x7x3 + x87x7x3 + x101x7x3 + x60x7x3 + x78x7x3 + x34x7x3 + x97x7x3 + x13x7x3 + x51x7x3 + x74x7x3 + x68x7x3 + x17x7x3 + x31x7x3 + x62x7x3 + x73x7x3 + x95x7x3 + x25x7x3 + x64x7x3 + x63x7x3 + x3x7x3 
+- x7x1x3 - x7x29x3 - x7x3x3 - x7x30x3 - x7x59x3 = 0
+
+x1x53x1 + x82x53x1 + x94x53x1 + x101x53x1 + x60x53x1 + x46x53x1 + x33x53x1 + x61x53x1 + x31x53x1 + x43x53x1 + x37x53x1 + x71x53x1 + x25x53x1 + x64x53x1 + x63x53x1 + x93x53x1 + x69x53x1 + x47x53x1 + x35x53x1 + x29x53x1 + x67x53x1 
+- x53x1x1 - x53x64x1 - x53x93x1 - x53x69x1 - x53x47x1 - x53x29x1 - x53x58x1 - x53x67x1 - x53x83x1 - x53x15x1 - x53x84x1 - x53x8x1 - x53x59x1 = 0
+
+x1x53x3 + x87x53x3 + x101x53x3 + x60x53x3 + x78x53x3 + x34x53x3 + x97x53x3 + x13x53x3 + x51x53x3 + x74x53x3 + x68x53x3 + x17x53x3 + x31x53x3 + x62x53x3 + x73x53x3 + x95x53x3 + x25x53x3 + x64x53x3 + x63x53x3 + x93x53x3 + x65x53x3 + x69x53x3 + x47x53x3 + x29x53x3 
+- x53x1x3 - x53x64x3 - x53x93x3 - x53x69x3 - x53x47x3 - x53x29x3 - x53x83x3 - x53x59x3 = 0
+
+
+x1x50x2 + x82x50x2 + x94x50x2 + x75x50x2 + x87x50x2 + x101x50x2 + x78x50x2 + x34x50x2 + x46x50x2 + x11x50x2 + x14x50x2 + x96x50x2 + x68x50x2 + x61x50x2 + x31x50x2 + x43x50x2 + x73x50x2 + x37x50x2 + x100x50x2 + x64x50x2 + x65x50x2 + x69x50x2 + x35x50x2 + x29x50x2 
+- x50x1x2 - x50x64x2 - x50x69x2 - x50x35x2 - x50x29x2 - x50x15x2 - x50x19x2 = 0
+
+
+x1x29x1 + x82x29x1 + x94x29x1 + x101x29x1 + x60x29x1 + x46x29x1 + x33x29x1 + x61x29x1 + x31x29x1 + x43x29x1 + x37x29x1 + x71x29x1 + x25x29x1 + x64x29x1 + x63x29x1 + x93x29x1 + x69x29x1 + x47x29x1 + x35x29x1 + x7x29x1 + x53x29x1 + x67x29x1 
+- x29x1x1 - x29x53x1 - x29x67x1 - x29x83x1 - x29x15x1 - x29x84x1 - x29x8x1 - x29x59x1 = 0
+x1x29x2 + x82x29x2 + x94x29x2 + x75x29x2 + x87x29x2 + x101x29x2 + x78x29x2 + x34x29x2 + x46x29x2 + x11x29x2 + x14x29x2 + x96x29x2 + x68x29x2 + x61x29x2 + x31x29x2 + x43x29x2 + x73x29x2 + x37x29x2 + x100x29x2 + x64x29x2 + x65x29x2 + x69x29x2 + x35x29x2 + x7x29x2 + x50x29x2 
+- x29x1x2 - x29x50x2 - x29x15x2 = 0
+x1x29x3 + x87x29x3 + x101x29x3 + x60x29x3 + x78x29x3 + x34x29x3 + x97x29x3 + x13x29x3 + x51x29x3 + x74x29x3 + x68x29x3 + x17x29x3 + x31x29x3 + x62x29x3 + x73x29x3 + x95x29x3 + x25x29x3 + x64x29x3 + x63x29x3 + x93x29x3 + x65x29x3 + x69x29x3 + x47x29x3 + x7x29x3 + x53x29x3 
+- x29x1x3 - x29x53x3 - x29x83x3 - x29x59x3 = 0
+
+x1x3x1 + x82x3x1 + x94x3x1 + x101x3x1 + x60x3x1 + x46x3x1 + x33x3x1 + x61x3x1 + x31x3x1 + x43x3x1 + x37x3x1 + x71x3x1 + x25x3x1 + x64x3x1 + x63x3x1 + x93x3x1 + x7x3x1 + x30x3x1 
+- x3x1x1 - x3x7x1 - x3x30x1 - x3x15x1 - x3x84x1 = 0
+
+x1x3x3 + x87x3x3 + x101x3x3 + x60x3x3 + x78x3x3 + x34x3x3 + x97x3x3 + x13x3x3 + x51x3x3 + x74x3x3 + x68x3x3 + x17x3x3 + x31x3x3 + x62x3x3 + x73x3x3 + x95x3x3 + x25x3x3 + x64x3x3 + x63x3x3 + x93x3x3 + x7x3x3 + x30x3x3 
+- x3x1x3 - x3x7x3 - x3x30x3 = 0
+
+x1x58x1 + x82x58x1 + x94x58x1 + x101x58x1 + x60x58x1 + x46x58x1 + x33x58x1 + x61x58x1 + x31x58x1 + x43x58x1 + x37x58x1 + x71x58x1 + x25x58x1 + x64x58x1 + x93x58x1 + x69x58x1 + x47x58x1 + x35x58x1 + x53x58x1 
+- x58x1x1 - x58x83x1 - x58x8x1 - x58x59x1 = 0
+
+
+
+x1x67x1 + x82x67x1 + x94x67x1 + x101x67x1 + x60x67x1 + x46x67x1 + x33x67x1 + x61x67x1 + x31x67x1 + x43x67x1 + x37x67x1 + x71x67x1 + x25x67x1 + x64x67x1 + x63x67x1 + x93x67x1 + x69x67x1 + x47x67x1 + x35x67x1 + x53x67x1 + x29x67x1 + x83x67x1 + x8x67x1 + x59x67x1 
+- x67x1x1 - x67x53x1 - x67x29x1 - x67x83x1 - x67x84x1 - x67x8x1 - x67x59x1 = 0
+
+
+
+x1x30x1 + x82x30x1 + x94x30x1 + x101x30x1 + x60x30x1 + x46x30x1 + x33x30x1 + x61x30x1 + x31x30x1 + x43x30x1 + x37x30x1 + x71x30x1 + x25x30x1 + x64x30x1 + x63x30x1 + x93x30x1 + x7x30x1 + x3x30x1 + x15x30x1 + x84x30x1 
+- x30x1x1 - x30x3x1 - x30x15x1 - x30x84x1 = 0
+
+x1x30x3 + x87x30x3 + x101x30x3 + x60x30x3 + x78x30x3 + x34x30x3 + x97x30x3 + x13x30x3 + x51x30x3 + x74x30x3 + x68x30x3 + x17x30x3 + x31x30x3 + x62x30x3 + x73x30x3 + x95x30x3 + x25x30x3 + x64x30x3 + x63x30x3 + x93x30x3 + x7x30x3 + x3x30x3 
+- x30x1x3 - x30x3x3 = 0
+
+x1x83x1 + x82x83x1 + x94x83x1 + x101x83x1 + x60x83x1 + x46x83x1 + x33x83x1 + x61x83x1 + x31x83x1 + x43x83x1 + x37x83x1 + x71x83x1 + x25x83x1 + x64x83x1 + x63x83x1 + x93x83x1 + x69x83x1 + x47x83x1 + x35x83x1 + x53x83x1 + x29x83x1 + x58x83x1 + x67x83x1 + x8x83x1 + x59x83x1 
+- x83x1x1 - x83x67x1 - x83x8x1 - x83x59x1 = 0
+
+x1x83x3 + x87x83x3 + x101x83x3 + x60x83x3 + x78x83x3 + x34x83x3 + x97x83x3 + x13x83x3 + x51x83x3 + x74x83x3 + x68x83x3 + x17x83x3 + x31x83x3 + x62x83x3 + x73x83x3 + x95x83x3 + x25x83x3 + x64x83x3 + x63x83x3 + x93x83x3 + x65x83x3 + x69x83x3 + x47x83x3 + x53x83x3 + x29x83x3 + x59x83x3 
+- x83x1x3 - x83x59x3 = 0
+
+x1x15x1 + x82x15x1 + x94x15x1 + x101x15x1 + x60x15x1 + x46x15x1 + x33x15x1 + x61x15x1 + x31x15x1 + x43x15x1 + x37x15x1 + x71x15x1 + x25x15x1 + x64x15x1 + x63x15x1 + x93x15x1 + x69x15x1 + x47x15x1 + x7x15x1 + x53x15x1 + x29x15x1 + x3x15x1 + x30x15x1 + x84x15x1 
+- x15x1x1 - x15x30x1 - x15x84x1 = 0
+x1x15x2 + x82x15x2 + x94x15x2 + x75x15x2 + x87x15x2 + x101x15x2 + x78x15x2 + x34x15x2 + x46x15x2 + x11x15x2 + x14x15x2 + x96x15x2 + x68x15x2 + x61x15x2 + x31x15x2 + x43x15x2 + x73x15x2 + x37x15x2 + x100x15x2 + x64x15x2 + x69x15x2 + x7x15x2 + x50x15x2 + x29x15x2 
+- x15x1x2 = 0
+
+
+x1x84x1 + x82x84x1 + x94x84x1 + x101x84x1 + x60x84x1 + x46x84x1 + x33x84x1 + x61x84x1 + x31x84x1 + x43x84x1 + x37x84x1 + x71x84x1 + x25x84x1 + x64x84x1 + x63x84x1 + x93x84x1 + x69x84x1 + x47x84x1 + x7x84x1 + x53x84x1 + x29x84x1 + x3x84x1 + x67x84x1 + x30x84x1 + x15x84x1 
+- x84x1x1 - x84x30x1 - x84x15x1 = 0
+
+
+
+x1x8x1 + x82x8x1 + x94x8x1 + x101x8x1 + x60x8x1 + x46x8x1 + x33x8x1 + x61x8x1 + x31x8x1 + x43x8x1 + x37x8x1 + x71x8x1 + x25x8x1 + x64x8x1 + x63x8x1 + x93x8x1 + x69x8x1 + x47x8x1 + x35x8x1 + x7x8x1 + x53x8x1 + x29x8x1 + x58x8x1 + x67x8x1 + x83x8x1 + x59x8x1 
+- x8x1x1 - x8x67x1 - x8x83x1 - x8x59x1 = 0
+
+
+
+x1x59x1 + x82x59x1 + x94x59x1 + x101x59x1 + x60x59x1 + x46x59x1 + x33x59x1 + x61x59x1 + x31x59x1 + x43x59x1 + x37x59x1 + x71x59x1 + x25x59x1 + x64x59x1 + x63x59x1 + x93x59x1 + x69x59x1 + x47x59x1 + x35x59x1 + x7x59x1 + x53x59x1 + x29x59x1 + x58x59x1 + x67x59x1 + x83x59x1 + x8x59x1 
+- x59x1x1 - x59x67x1 - x59x83x1 - x59x8x1 = 0
+
+x1x59x3 + x87x59x3 + x101x59x3 + x60x59x3 + x78x59x3 + x34x59x3 + x97x59x3 + x13x59x3 + x51x59x3 + x74x59x3 + x68x59x3 + x17x59x3 + x31x59x3 + x62x59x3 + x73x59x3 + x95x59x3 + x25x59x3 + x64x59x3 + x63x59x3 + x93x59x3 + x65x59x3 + x69x59x3 + x47x59x3 + x7x59x3 + x53x59x3 + x29x59x3 + x83x59x3 
+- x59x1x3 - x59x83x3 = 0
+
+
+x1x19x2 + x82x19x2 + x94x19x2 + x75x19x2 + x87x19x2 + x101x19x2 + x78x19x2 + x34x19x2 + x46x19x2 + x11x19x2 + x14x19x2 + x96x19x2 + x68x19x2 + x61x19x2 + x31x19x2 + x43x19x2 + x73x19x2 + x37x19x2 + x100x19x2 + x64x19x2 + x65x19x2 + x69x19x2 + x35x19x2 + x50x19x2 
+- x19x1x2 = 0
+
+
+1y82 - x1x82x1 - x94x82x1 - x101x82x1 - x60x82x1 = 0
+1y82 - x1x82x2 - x94x82x2 - x75x82x2 - x87x82x2 - x101x82x2 = 0
+1y94 - x1x94x1 - x82x94x1 - x101x94x1 - x60x94x1 = 0
+1y94 - x1x94x2 - x82x94x2 - x75x94x2 - x87x94x2 - x101x94x2 - x78x94x2 - x34x94x2 = 0
+2y75 - x1x75x2 - x82x75x2 - x94x75x2 - x87x75x2 - x101x75x2 - x78x75x2 - x34x75x2 - x11x75x2 = 0
+1y87 - x1x87x2 - x82x87x2 - x94x87x2 - x75x87x2 - x101x87x2 - x78x87x2 - x34x87x2 - x46x87x2 - x11x87x2 = 0
+1y87 - x1x87x3 - x101x87x3 - x60x87x3 - x78x87x3 - x34x87x3 = 0
+1y101 - x1x101x1 - x82x101x1 - x94x101x1 - x60x101x1 - x46x101x1 = 0
+1y101 - x1x101x2 - x82x101x2 - x94x101x2 - x75x101x2 - x87x101x2 - x78x101x2 - x34x101x2 - x46x101x2 - x11x101x2 = 0
+1y101 - x1x101x3 - x87x101x3 - x60x101x3 - x78x101x3 - x34x101x3 = 0
+1y60 - x1x60x1 - x82x60x1 - x94x60x1 - x101x60x1 - x46x60x1 = 0
+1y60 - x1x60x3 - x87x60x3 - x101x60x3 - x78x60x3 - x34x60x3 = 0
+1y78 - x1x78x2 - x82x78x2 - x94x78x2 - x75x78x2 - x87x78x2 - x101x78x2 - x34x78x2 - x46x78x2 - x11x78x2 - x14x78x2 = 0
+1y78 - x1x78x3 - x87x78x3 - x101x78x3 - x60x78x3 - x34x78x3 = 0
+1y34 - x1x34x2 - x82x34x2 - x94x34x2 - x75x34x2 - x87x34x2 - x101x34x2 - x78x34x2 - x46x34x2 - x11x34x2 - x14x34x2 = 0
+1y34 - x1x34x3 - x87x34x3 - x101x34x3 - x60x34x3 - x78x34x3 - x13x34x3 = 0
+1y46 - x1x46x1 - x82x46x1 - x94x46x1 - x101x46x1 - x60x46x1 = 0
+1y46 - x1x46x2 - x82x46x2 - x94x46x2 - x75x46x2 - x87x46x2 - x101x46x2 - x78x46x2 - x34x46x2 - x11x46x2 - x14x46x2 = 0
+2y11 - x1x11x2 - x82x11x2 - x94x11x2 - x75x11x2 - x87x11x2 - x101x11x2 - x78x11x2 - x34x11x2 - x46x11x2 - x14x11x2 = 0
+2y14 - x1x14x2 - x82x14x2 - x94x14x2 - x75x14x2 - x87x14x2 - x101x14x2 - x78x14x2 - x34x14x2 - x46x14x2 - x11x14x2 - x96x14x2 = 0
+2y97 - x1x97x3 - x87x97x3 - x101x97x3 - x60x97x3 - x78x97x3 - x34x97x3 - x13x97x3 = 0
+2y13 - x1x13x3 - x87x13x3 - x101x13x3 - x60x13x3 - x78x13x3 - x34x13x3 - x97x13x3 - x51x13x3 = 0
+2y96 - x1x96x2 - x82x96x2 - x94x96x2 - x75x96x2 - x87x96x2 - x101x96x2 - x78x96x2 - x34x96x2 - x46x96x2 - x11x96x2 - x14x96x2 = 0
+2y51 - x1x51x3 - x87x51x3 - x101x51x3 - x60x51x3 - x78x51x3 - x34x51x3 - x97x51x3 - x13x51x3 - x74x51x3 = 0
+2y33 - x1x33x1 - x82x33x1 - x94x33x1 - x101x33x1 - x60x33x1 - x46x33x1 = 0
+2y74 - x1x74x3 - x87x74x3 - x101x74x3 - x60x74x3 - x78x74x3 - x34x74x3 - x97x74x3 - x13x74x3 - x51x74x3 = 0
+1y68 - x1x68x2 - x82x68x2 - x94x68x2 - x75x68x2 - x87x68x2 - x101x68x2 - x78x68x2 - x34x68x2 - x46x68x2 - x11x68x2 - x14x68x2 - x96x68x2 = 0
+1y68 - x1x68x3 - x87x68x3 - x101x68x3 - x60x68x3 - x78x68x3 - x34x68x3 - x97x68x3 - x13x68x3 - x51x68x3 - x74x68x3 = 0
+2y17 - x1x17x3 - x87x17x3 - x101x17x3 - x60x17x3 - x78x17x3 - x34x17x3 - x97x17x3 - x13x17x3 - x51x17x3 - x74x17x3 - x68x17x3 = 0
+1y61 - x1x61x1 - x82x61x1 - x94x61x1 - x101x61x1 - x60x61x1 - x46x61x1 - x33x61x1 - x31x61x1 = 0
+1y61 - x1x61x2 - x82x61x2 - x94x61x2 - x75x61x2 - x87x61x2 - x101x61x2 - x78x61x2 - x34x61x2 - x46x61x2 - x11x61x2 - x14x61x2 - x96x61x2 - x68x61x2 - x31x61x2 - x73x61x2 = 0
+1y31 - x1x31x1 - x82x31x1 - x94x31x1 - x101x31x1 - x60x31x1 - x46x31x1 - x33x31x1 - x61x31x1 = 0
+1y31 - x1x31x2 - x82x31x2 - x94x31x2 - x75x31x2 - x87x31x2 - x101x31x2 - x78x31x2 - x34x31x2 - x46x31x2 - x11x31x2 - x14x31x2 - x96x31x2 - x68x31x2 - x61x31x2 - x73x31x2 = 0
+1y31 - x1x31x3 - x87x31x3 - x101x31x3 - x60x31x3 - x78x31x3 - x34x31x3 - x97x31x3 - x13x31x3 - x51x31x3 - x74x31x3 - x68x31x3 - x17x31x3 - x62x31x3 - x73x31x3 - x95x31x3 = 0
+1y43 - x1x43x1 - x82x43x1 - x94x43x1 - x101x43x1 - x60x43x1 - x46x43x1 - x33x43x1 = 0
+1y43 - x1x43x2 - x82x43x2 - x94x43x2 - x75x43x2 - x87x43x2 - x101x43x2 - x78x43x2 - x34x43x2 - x46x43x2 - x11x43x2 - x14x43x2 - x96x43x2 - x68x43x2 = 0
+2y62 - x1x62x3 - x87x62x3 - x101x62x3 - x60x62x3 - x78x62x3 - x34x62x3 - x97x62x3 - x13x62x3 - x51x62x3 - x74x62x3 - x68x62x3 - x17x62x3 - x31x62x3 - x73x62x3 - x95x62x3 - x25x62x3 = 0
+1y73 - x1x73x2 - x82x73x2 - x94x73x2 - x75x73x2 - x87x73x2 - x101x73x2 - x78x73x2 - x34x73x2 - x46x73x2 - x11x73x2 - x14x73x2 - x96x73x2 - x68x73x2 - x61x73x2 - x31x73x2 - x43x73x2 - x37x73x2 = 0
+1y73 - x1x73x3 - x87x73x3 - x101x73x3 - x60x73x3 - x78x73x3 - x34x73x3 - x97x73x3 - x13x73x3 - x51x73x3 - x74x73x3 - x68x73x3 - x17x73x3 - x31x73x3 - x62x73x3 - x95x73x3 - x25x73x3 = 0
+2y95 - x1x95x3 - x87x95x3 - x101x95x3 - x60x95x3 - x78x95x3 - x34x95x3 - x97x95x3 - x13x95x3 - x51x95x3 - x74x95x3 - x68x95x3 - x17x95x3 - x31x95x3 - x62x95x3 - x73x95x3 = 0
+1y37 - x1x37x1 - x82x37x1 - x94x37x1 - x101x37x1 - x60x37x1 - x46x37x1 - x33x37x1 - x61x37x1 - x31x37x1 - x43x37x1 - x25x37x1 - x63x37x1 = 0
+1y37 - x1x37x2 - x82x37x2 - x94x37x2 - x75x37x2 - x87x37x2 - x101x37x2 - x78x37x2 - x34x37x2 - x46x37x2 - x11x37x2 - x14x37x2 - x96x37x2 - x68x37x2 - x61x37x2 - x31x37x2 - x43x37x2 - x73x37x2 - x100x37x2 = 0
+2y100 - x1x100x2 - x82x100x2 - x94x100x2 - x75x100x2 - x87x100x2 - x101x100x2 - x78x100x2 - x34x100x2 - x46x100x2 - x11x100x2 - x14x100x2 - x96x100x2 - x68x100x2 - x61x100x2 - x31x100x2 - x43x100x2 - x73x100x2 - x37x100x2 - x64x100x2 - x69x100x2 = 0
+2y71 - x1x71x1 - x82x71x1 - x94x71x1 - x101x71x1 - x60x71x1 - x46x71x1 - x33x71x1 - x61x71x1 - x31x71x1 - x43x71x1 - x37x71x1 - x25x71x1 - x64x71x1 - x93x71x1 - x69x71x1 - x47x71x1 = 0
+1y25 - x1x25x1 - x82x25x1 - x94x25x1 - x101x25x1 - x60x25x1 - x46x25x1 - x33x25x1 - x61x25x1 - x31x25x1 - x43x25x1 - x37x25x1 - x71x25x1 - x64x25x1 - x63x25x1 - x93x25x1 = 0
+1y25 - x1x25x3 - x87x25x3 - x101x25x3 - x60x25x3 - x78x25x3 - x34x25x3 - x97x25x3 - x13x25x3 - x51x25x3 - x74x25x3 - x68x25x3 - x17x25x3 - x31x25x3 - x62x25x3 - x73x25x3 - x95x25x3 - x64x25x3 - x63x25x3 - x93x25x3 = 0
+1y64 - x1x64x1 - x82x64x1 - x94x64x1 - x101x64x1 - x60x64x1 - x46x64x1 - x33x64x1 - x61x64x1 - x31x64x1 - x43x64x1 - x37x64x1 - x71x64x1 - x25x64x1 - x63x64x1 - x93x64x1 - x69x64x1 - x47x64x1 - x53x64x1 = 0
+1y64 - x1x64x2 - x82x64x2 - x94x64x2 - x75x64x2 - x87x64x2 - x101x64x2 - x78x64x2 - x34x64x2 - x46x64x2 - x11x64x2 - x14x64x2 - x96x64x2 - x68x64x2 - x61x64x2 - x31x64x2 - x43x64x2 - x73x64x2 - x37x64x2 - x100x64x2 - x69x64x2 - x50x64x2 = 0
+1y64 - x1x64x3 - x87x64x3 - x101x64x3 - x60x64x3 - x78x64x3 - x34x64x3 - x97x64x3 - x13x64x3 - x51x64x3 - x74x64x3 - x68x64x3 - x17x64x3 - x31x64x3 - x62x64x3 - x73x64x3 - x95x64x3 - x25x64x3 - x63x64x3 - x93x64x3 - x69x64x3 - x47x64x3 - x53x64x3 = 0
+1y63 - x1x63x1 - x82x63x1 - x94x63x1 - x101x63x1 - x60x63x1 - x46x63x1 - x33x63x1 - x61x63x1 - x31x63x1 - x43x63x1 - x37x63x1 - x71x63x1 - x25x63x1 - x64x63x1 = 0
+1y63 - x1x63x3 - x87x63x3 - x101x63x3 - x60x63x3 - x78x63x3 - x34x63x3 - x97x63x3 - x13x63x3 - x51x63x3 - x74x63x3 - x68x63x3 - x17x63x3 - x31x63x3 - x62x63x3 - x73x63x3 - x95x63x3 - x25x63x3 - x64x63x3 = 0
+1y93 - x1x93x1 - x82x93x1 - x94x93x1 - x101x93x1 - x60x93x1 - x46x93x1 - x33x93x1 - x61x93x1 - x31x93x1 - x43x93x1 - x37x93x1 - x71x93x1 - x25x93x1 - x64x93x1 - x63x93x1 - x69x93x1 - x47x93x1 - x53x93x1 = 0
+1y93 - x1x93x3 - x87x93x3 - x101x93x3 - x60x93x3 - x78x93x3 - x34x93x3 - x97x93x3 - x13x93x3 - x51x93x3 - x74x93x3 - x68x93x3 - x17x93x3 - x31x93x3 - x62x93x3 - x73x93x3 - x95x93x3 - x25x93x3 - x64x93x3 - x63x93x3 - x69x93x3 - x47x93x3 - x53x93x3 = 0
+1y65 - x1x65x2 - x82x65x2 - x94x65x2 - x75x65x2 - x87x65x2 - x101x65x2 - x78x65x2 - x34x65x2 - x46x65x2 - x11x65x2 - x14x65x2 - x96x65x2 - x68x65x2 - x61x65x2 - x31x65x2 - x73x65x2 - x37x65x2 - x100x65x2 - x69x65x2 - x35x65x2 = 0
+1y65 - x1x65x3 - x87x65x3 - x101x65x3 - x60x65x3 - x78x65x3 - x34x65x3 - x97x65x3 - x13x65x3 - x51x65x3 - x74x65x3 - x68x65x3 - x17x65x3 - x31x65x3 - x62x65x3 - x73x65x3 - x95x65x3 - x25x65x3 - x69x65x3 - x47x65x3 = 0
+1y69 - x1x69x1 - x82x69x1 - x94x69x1 - x101x69x1 - x60x69x1 - x46x69x1 - x33x69x1 - x61x69x1 - x31x69x1 - x43x69x1 - x37x69x1 - x71x69x1 - x25x69x1 - x64x69x1 - x93x69x1 - x47x69x1 - x35x69x1 - x53x69x1 = 0
+1y69 - x1x69x2 - x82x69x2 - x94x69x2 - x75x69x2 - x87x69x2 - x101x69x2 - x78x69x2 - x34x69x2 - x46x69x2 - x11x69x2 - x14x69x2 - x96x69x2 - x68x69x2 - x61x69x2 - x31x69x2 - x43x69x2 - x73x69x2 - x37x69x2 - x100x69x2 - x64x69x2 - x65x69x2 - x35x69x2 - x50x69x2 = 0
+1y69 - x1x69x3 - x87x69x3 - x101x69x3 - x60x69x3 - x78x69x3 - x34x69x3 - x97x69x3 - x13x69x3 - x51x69x3 - x74x69x3 - x68x69x3 - x17x69x3 - x31x69x3 - x62x69x3 - x73x69x3 - x95x69x3 - x25x69x3 - x64x69x3 - x93x69x3 - x65x69x3 - x47x69x3 - x53x69x3 = 0
+1y47 - x1x47x1 - x82x47x1 - x94x47x1 - x101x47x1 - x60x47x1 - x46x47x1 - x33x47x1 - x61x47x1 - x31x47x1 - x43x47x1 - x37x47x1 - x71x47x1 - x25x47x1 - x64x47x1 - x93x47x1 - x69x47x1 - x35x47x1 - x53x47x1 = 0
+1y47 - x1x47x3 - x87x47x3 - x101x47x3 - x60x47x3 - x78x47x3 - x34x47x3 - x97x47x3 - x13x47x3 - x51x47x3 - x74x47x3 - x68x47x3 - x17x47x3 - x31x47x3 - x62x47x3 - x73x47x3 - x95x47x3 - x25x47x3 - x64x47x3 - x93x47x3 - x65x47x3 - x69x47x3 - x53x47x3 = 0
+1y35 - x1x35x1 - x82x35x1 - x94x35x1 - x101x35x1 - x60x35x1 - x46x35x1 - x33x35x1 - x61x35x1 - x31x35x1 - x43x35x1 - x37x35x1 - x71x35x1 - x25x35x1 - x64x35x1 - x93x35x1 - x69x35x1 - x47x35x1 = 0
+1y35 - x1x35x2 - x82x35x2 - x94x35x2 - x75x35x2 - x87x35x2 - x101x35x2 - x78x35x2 - x34x35x2 - x46x35x2 - x11x35x2 - x14x35x2 - x96x35x2 - x68x35x2 - x61x35x2 - x31x35x2 - x43x35x2 - x73x35x2 - x37x35x2 - x100x35x2 - x64x35x2 - x65x35x2 - x69x35x2 - x50x35x2 = 0
+1y7 - x1x7x1 - x82x7x1 - x94x7x1 - x101x7x1 - x60x7x1 - x46x7x1 - x33x7x1 - x61x7x1 - x31x7x1 - x43x7x1 - x37x7x1 - x71x7x1 - x25x7x1 - x64x7x1 - x63x7x1 - x3x7x1 = 0
+1y7 - x1x7x2 - x82x7x2 - x94x7x2 - x75x7x2 - x87x7x2 - x101x7x2 - x78x7x2 - x34x7x2 - x46x7x2 - x11x7x2 - x14x7x2 - x96x7x2 - x68x7x2 - x61x7x2 - x31x7x2 - x43x7x2 - x73x7x2 - x37x7x2 - x100x7x2 - x64x7x2 = 0
+1y7 - x1x7x3 - x87x7x3 - x101x7x3 - x60x7x3 - x78x7x3 - x34x7x3 - x97x7x3 - x13x7x3 - x51x7x3 - x74x7x3 - x68x7x3 - x17x7x3 - x31x7x3 - x62x7x3 - x73x7x3 - x95x7x3 - x25x7x3 - x64x7x3 - x63x7x3 - x3x7x3 = 0
+1y53 - x1x53x1 - x82x53x1 - x94x53x1 - x101x53x1 - x60x53x1 - x46x53x1 - x33x53x1 - x61x53x1 - x31x53x1 - x43x53x1 - x37x53x1 - x71x53x1 - x25x53x1 - x64x53x1 - x63x53x1 - x93x53x1 - x69x53x1 - x47x53x1 - x35x53x1 - x29x53x1 - x67x53x1 = 0
+1y53 - x1x53x3 - x87x53x3 - x101x53x3 - x60x53x3 - x78x53x3 - x34x53x3 - x97x53x3 - x13x53x3 - x51x53x3 - x74x53x3 - x68x53x3 - x17x53x3 - x31x53x3 - x62x53x3 - x73x53x3 - x95x53x3 - x25x53x3 - x64x53x3 - x63x53x3 - x93x53x3 - x65x53x3 - x69x53x3 - x47x53x3 - x29x53x3 = 0
+2y50 - x1x50x2 - x82x50x2 - x94x50x2 - x75x50x2 - x87x50x2 - x101x50x2 - x78x50x2 - x34x50x2 - x46x50x2 - x11x50x2 - x14x50x2 - x96x50x2 - x68x50x2 - x61x50x2 - x31x50x2 - x43x50x2 - x73x50x2 - x37x50x2 - x100x50x2 - x64x50x2 - x65x50x2 - x69x50x2 - x35x50x2 - x29x50x2 = 0
+1y29 - x1x29x1 - x82x29x1 - x94x29x1 - x101x29x1 - x60x29x1 - x46x29x1 - x33x29x1 - x61x29x1 - x31x29x1 - x43x29x1 - x37x29x1 - x71x29x1 - x25x29x1 - x64x29x1 - x63x29x1 - x93x29x1 - x69x29x1 - x47x29x1 - x35x29x1 - x7x29x1 - x53x29x1 - x67x29x1 = 0
+1y29 - x1x29x2 - x82x29x2 - x94x29x2 - x75x29x2 - x87x29x2 - x101x29x2 - x78x29x2 - x34x29x2 - x46x29x2 - x11x29x2 - x14x29x2 - x96x29x2 - x68x29x2 - x61x29x2 - x31x29x2 - x43x29x2 - x73x29x2 - x37x29x2 - x100x29x2 - x64x29x2 - x65x29x2 - x69x29x2 - x35x29x2 - x7x29x2 - x50x29x2 = 0
+1y29 - x1x29x3 - x87x29x3 - x101x29x3 - x60x29x3 - x78x29x3 - x34x29x3 - x97x29x3 - x13x29x3 - x51x29x3 - x74x29x3 - x68x29x3 - x17x29x3 - x31x29x3 - x62x29x3 - x73x29x3 - x95x29x3 - x25x29x3 - x64x29x3 - x63x29x3 - x93x29x3 - x65x29x3 - x69x29x3 - x47x29x3 - x7x29x3 - x53x29x3 = 0
+1y3 - x1x3x1 - x82x3x1 - x94x3x1 - x101x3x1 - x60x3x1 - x46x3x1 - x33x3x1 - x61x3x1 - x31x3x1 - x43x3x1 - x37x3x1 - x71x3x1 - x25x3x1 - x64x3x1 - x63x3x1 - x93x3x1 - x7x3x1 - x30x3x1 = 0
+1y3 - x1x3x3 - x87x3x3 - x101x3x3 - x60x3x3 - x78x3x3 - x34x3x3 - x97x3x3 - x13x3x3 - x51x3x3 - x74x3x3 - x68x3x3 - x17x3x3 - x31x3x3 - x62x3x3 - x73x3x3 - x95x3x3 - x25x3x3 - x64x3x3 - x63x3x3 - x93x3x3 - x7x3x3 - x30x3x3 = 0
+2y58 - x1x58x1 - x82x58x1 - x94x58x1 - x101x58x1 - x60x58x1 - x46x58x1 - x33x58x1 - x61x58x1 - x31x58x1 - x43x58x1 - x37x58x1 - x71x58x1 - x25x58x1 - x64x58x1 - x93x58x1 - x69x58x1 - x47x58x1 - x35x58x1 - x53x58x1 = 0
+2y67 - x1x67x1 - x82x67x1 - x94x67x1 - x101x67x1 - x60x67x1 - x46x67x1 - x33x67x1 - x61x67x1 - x31x67x1 - x43x67x1 - x37x67x1 - x71x67x1 - x25x67x1 - x64x67x1 - x63x67x1 - x93x67x1 - x69x67x1 - x47x67x1 - x35x67x1 - x53x67x1 - x29x67x1 - x83x67x1 - x8x67x1 - x59x67x1 = 0
+1y30 - x1x30x1 - x82x30x1 - x94x30x1 - x101x30x1 - x60x30x1 - x46x30x1 - x33x30x1 - x61x30x1 - x31x30x1 - x43x30x1 - x37x30x1 - x71x30x1 - x25x30x1 - x64x30x1 - x63x30x1 - x93x30x1 - x7x30x1 - x3x30x1 - x15x30x1 - x84x30x1 = 0
+1y30 - x1x30x3 - x87x30x3 - x101x30x3 - x60x30x3 - x78x30x3 - x34x30x3 - x97x30x3 - x13x30x3 - x51x30x3 - x74x30x3 - x68x30x3 - x17x30x3 - x31x30x3 - x62x30x3 - x73x30x3 - x95x30x3 - x25x30x3 - x64x30x3 - x63x30x3 - x93x30x3 - x7x30x3 - x3x30x3 = 0
+1y83 - x1x83x1 - x82x83x1 - x94x83x1 - x101x83x1 - x60x83x1 - x46x83x1 - x33x83x1 - x61x83x1 - x31x83x1 - x43x83x1 - x37x83x1 - x71x83x1 - x25x83x1 - x64x83x1 - x63x83x1 - x93x83x1 - x69x83x1 - x47x83x1 - x35x83x1 - x53x83x1 - x29x83x1 - x58x83x1 - x67x83x1 - x8x83x1 - x59x83x1 = 0
+1y83 - x1x83x3 - x87x83x3 - x101x83x3 - x60x83x3 - x78x83x3 - x34x83x3 - x97x83x3 - x13x83x3 - x51x83x3 - x74x83x3 - x68x83x3 - x17x83x3 - x31x83x3 - x62x83x3 - x73x83x3 - x95x83x3 - x25x83x3 - x64x83x3 - x63x83x3 - x93x83x3 - x65x83x3 - x69x83x3 - x47x83x3 - x53x83x3 - x29x83x3 - x59x83x3 = 0
+1y15 - x1x15x1 - x82x15x1 - x94x15x1 - x101x15x1 - x60x15x1 - x46x15x1 - x33x15x1 - x61x15x1 - x31x15x1 - x43x15x1 - x37x15x1 - x71x15x1 - x25x15x1 - x64x15x1 - x63x15x1 - x93x15x1 - x69x15x1 - x47x15x1 - x7x15x1 - x53x15x1 - x29x15x1 - x3x15x1 - x30x15x1 - x84x15x1 = 0
+1y15 - x1x15x2 - x82x15x2 - x94x15x2 - x75x15x2 - x87x15x2 - x101x15x2 - x78x15x2 - x34x15x2 - x46x15x2 - x11x15x2 - x14x15x2 - x96x15x2 - x68x15x2 - x61x15x2 - x31x15x2 - x43x15x2 - x73x15x2 - x37x15x2 - x100x15x2 - x64x15x2 - x69x15x2 - x7x15x2 - x50x15x2 - x29x15x2 = 0
+2y84 - x1x84x1 - x82x84x1 - x94x84x1 - x101x84x1 - x60x84x1 - x46x84x1 - x33x84x1 - x61x84x1 - x31x84x1 - x43x84x1 - x37x84x1 - x71x84x1 - x25x84x1 - x64x84x1 - x63x84x1 - x93x84x1 - x69x84x1 - x47x84x1 - x7x84x1 - x53x84x1 - x29x84x1 - x3x84x1 - x67x84x1 - x30x84x1 - x15x84x1 = 0
+2y8 - x1x8x1 - x82x8x1 - x94x8x1 - x101x8x1 - x60x8x1 - x46x8x1 - x33x8x1 - x61x8x1 - x31x8x1 - x43x8x1 - x37x8x1 - x71x8x1 - x25x8x1 - x64x8x1 - x63x8x1 - x93x8x1 - x69x8x1 - x47x8x1 - x35x8x1 - x7x8x1 - x53x8x1 - x29x8x1 - x58x8x1 - x67x8x1 - x83x8x1 - x59x8x1 = 0
+1y59 - x1x59x1 - x82x59x1 - x94x59x1 - x101x59x1 - x60x59x1 - x46x59x1 - x33x59x1 - x61x59x1 - x31x59x1 - x43x59x1 - x37x59x1 - x71x59x1 - x25x59x1 - x64x59x1 - x63x59x1 - x93x59x1 - x69x59x1 - x47x59x1 - x35x59x1 - x7x59x1 - x53x59x1 - x29x59x1 - x58x59x1 - x67x59x1 - x83x59x1 - x8x59x1 = 0
+1y59 - x1x59x3 - x87x59x3 - x101x59x3 - x60x59x3 - x78x59x3 - x34x59x3 - x97x59x3 - x13x59x3 - x51x59x3 - x74x59x3 - x68x59x3 - x17x59x3 - x31x59x3 - x62x59x3 - x73x59x3 - x95x59x3 - x25x59x3 - x64x59x3 - x63x59x3 - x93x59x3 - x65x59x3 - x69x59x3 - x47x59x3 - x7x59x3 - x53x59x3 - x29x59x3 - x83x59x3 = 0
+2y19 - x1x19x2 - x82x19x2 - x94x19x2 - x75x19x2 - x87x19x2 - x101x19x2 - x78x19x2 - x34x19x2 - x46x19x2 - x11x19x2 - x14x19x2 - x96x19x2 - x68x19x2 - x61x19x2 - x31x19x2 - x43x19x2 - x73x19x2 - x37x19x2 - x100x19x2 - x64x19x2 - x65x19x2 - x69x19x2 - x35x19x2 - x50x19x2 = 0
+
+x1x82x1 - 1z1z82z1 <= 0
+x1x82x2 - 1z1z82z2 <= 0
+x1x94x1 - 1z1z94z1 <= 0
+x1x94x2 - 1z1z94z2 <= 0
+x1x75x2 - 2z1z75z2 <= 0
+x1x87x2 - 1z1z87z2 <= 0
+x1x87x3 - 1z1z87z3 <= 0
+x1x101x1 - 1z1z101z1 <= 0
+x1x101x2 - 1z1z101z2 <= 0
+x1x101x3 - 1z1z101z3 <= 0
+x1x60x1 - 1z1z60z1 <= 0
+x1x60x3 - 1z1z60z3 <= 0
+x1x78x2 - 1z1z78z2 <= 0
+x1x78x3 - 1z1z78z3 <= 0
+x1x34x2 - 1z1z34z2 <= 0
+x1x34x3 - 1z1z34z3 <= 0
+x1x46x1 - 1z1z46z1 <= 0
+x1x46x2 - 1z1z46z2 <= 0
+x1x11x2 - 2z1z11z2 <= 0
+x1x14x2 - 2z1z14z2 <= 0
+x1x97x3 - 2z1z97z3 <= 0
+x1x13x3 - 2z1z13z3 <= 0
+x1x96x2 - 2z1z96z2 <= 0
+x1x51x3 - 2z1z51z3 <= 0
+x1x33x1 - 2z1z33z1 <= 0
+x1x74x3 - 2z1z74z3 <= 0
+x1x68x2 - 1z1z68z2 <= 0
+x1x68x3 - 1z1z68z3 <= 0
+x1x17x3 - 2z1z17z3 <= 0
+x1x61x1 - 1z1z61z1 <= 0
+x1x61x2 - 1z1z61z2 <= 0
+x1x31x1 - 1z1z31z1 <= 0
+x1x31x2 - 1z1z31z2 <= 0
+x1x31x3 - 1z1z31z3 <= 0
+x1x43x1 - 1z1z43z1 <= 0
+x1x43x2 - 1z1z43z2 <= 0
+x1x62x3 - 2z1z62z3 <= 0
+x1x73x2 - 1z1z73z2 <= 0
+x1x73x3 - 1z1z73z3 <= 0
+x1x95x3 - 2z1z95z3 <= 0
+x1x37x1 - 1z1z37z1 <= 0
+x1x37x2 - 1z1z37z2 <= 0
+x1x100x2 - 2z1z100z2 <= 0
+x1x71x1 - 2z1z71z1 <= 0
+x1x25x1 - 1z1z25z1 <= 0
+x1x25x3 - 1z1z25z3 <= 0
+x1x64x1 - 1z1z64z1 <= 0
+x1x64x2 - 1z1z64z2 <= 0
+x1x64x3 - 1z1z64z3 <= 0
+x1x63x1 - 1z1z63z1 <= 0
+x1x63x3 - 1z1z63z3 <= 0
+x1x93x1 - 1z1z93z1 <= 0
+x1x93x3 - 1z1z93z3 <= 0
+x1x65x2 - 1z1z65z2 <= 0
+x1x65x3 - 1z1z65z3 <= 0
+x1x69x1 - 1z1z69z1 <= 0
+x1x69x2 - 1z1z69z2 <= 0
+x1x69x3 - 1z1z69z3 <= 0
+x1x47x1 - 1z1z47z1 <= 0
+x1x47x3 - 1z1z47z3 <= 0
+x1x35x1 - 1z1z35z1 <= 0
+x1x35x2 - 1z1z35z2 <= 0
+x1x7x1 - 1z1z7z1 <= 0
+x1x7x2 - 1z1z7z2 <= 0
+x1x7x3 - 1z1z7z3 <= 0
+x1x53x1 - 1z1z53z1 <= 0
+x1x53x3 - 1z1z53z3 <= 0
+x1x50x2 - 2z1z50z2 <= 0
+x1x29x1 - 1z1z29z1 <= 0
+x1x29x2 - 1z1z29z2 <= 0
+x1x29x3 - 1z1z29z3 <= 0
+x1x3x1 - 1z1z3z1 <= 0
+x1x3x3 - 1z1z3z3 <= 0
+x1x58x1 - 2z1z58z1 <= 0
+x1x67x1 - 2z1z67z1 <= 0
+x1x30x1 - 1z1z30z1 <= 0
+x1x30x3 - 1z1z30z3 <= 0
+x1x83x1 - 1z1z83z1 <= 0
+x1x83x3 - 1z1z83z3 <= 0
+x1x15x1 - 1z1z15z1 <= 0
+x1x15x2 - 1z1z15z2 <= 0
+x1x84x1 - 2z1z84z1 <= 0
+x1x8x1 - 2z1z8z1 <= 0
+x1x59x1 - 1z1z59z1 <= 0
+x1x59x3 - 1z1z59z3 <= 0
+x1x19x2 - 2z1z19z2 <= 0
+x82x1x1 - 1z82z1z1 <= 0
+x82x1x2 - 1z82z1z2 <= 0
+x82x94x1 - 1z82z94z1 <= 0
+x82x94x2 - 1z82z94z2 <= 0
+x82x75x2 - 1z82z75z2 <= 0
+x82x87x2 - 1z82z87z2 <= 0
+x82x101x1 - 1z82z101z1 <= 0
+x82x101x2 - 1z82z101z2 <= 0
+x82x60x1 - 1z82z60z1 <= 0
+x82x78x2 - 1z82z78z2 <= 0
+x82x34x2 - 1z82z34z2 <= 0
+x82x46x1 - 1z82z46z1 <= 0
+x82x46x2 - 1z82z46z2 <= 0
+x82x11x2 - 1z82z11z2 <= 0
+x82x14x2 - 1z82z14z2 <= 0
+x82x96x2 - 1z82z96z2 <= 0
+x82x33x1 - 1z82z33z1 <= 0
+x82x68x2 - 1z82z68z2 <= 0
+x82x61x1 - 1z82z61z1 <= 0
+x82x61x2 - 1z82z61z2 <= 0
+x82x31x1 - 1z82z31z1 <= 0
+x82x31x2 - 1z82z31z2 <= 0
+x82x43x1 - 1z82z43z1 <= 0
+x82x43x2 - 1z82z43z2 <= 0
+x82x73x2 - 1z82z73z2 <= 0
+x82x37x1 - 1z82z37z1 <= 0
+x82x37x2 - 1z82z37z2 <= 0
+x82x100x2 - 1z82z100z2 <= 0
+x82x71x1 - 1z82z71z1 <= 0
+x82x25x1 - 1z82z25z1 <= 0
+x82x64x1 - 1z82z64z1 <= 0
+x82x64x2 - 1z82z64z2 <= 0
+x82x63x1 - 1z82z63z1 <= 0
+x82x93x1 - 1z82z93z1 <= 0
+x82x65x2 - 1z82z65z2 <= 0
+x82x69x1 - 1z82z69z1 <= 0
+x82x69x2 - 1z82z69z2 <= 0
+x82x47x1 - 1z82z47z1 <= 0
+x82x35x1 - 1z82z35z1 <= 0
+x82x35x2 - 1z82z35z2 <= 0
+x82x7x1 - 1z82z7z1 <= 0
+x82x7x2 - 1z82z7z2 <= 0
+x82x53x1 - 1z82z53z1 <= 0
+x82x50x2 - 1z82z50z2 <= 0
+x82x29x1 - 1z82z29z1 <= 0
+x82x29x2 - 1z82z29z2 <= 0
+x82x3x1 - 1z82z3z1 <= 0
+x82x58x1 - 1z82z58z1 <= 0
+x82x67x1 - 1z82z67z1 <= 0
+x82x30x1 - 1z82z30z1 <= 0
+x82x83x1 - 1z82z83z1 <= 0
+x82x15x1 - 1z82z15z1 <= 0
+x82x15x2 - 1z82z15z2 <= 0
+x82x84x1 - 1z82z84z1 <= 0
+x82x8x1 - 1z82z8z1 <= 0
+x82x59x1 - 1z82z59z1 <= 0
+x82x19x2 - 1z82z19z2 <= 0
+x94x1x1 - 1z94z1z1 <= 0
+x94x1x2 - 1z94z1z2 <= 0
+x94x82x1 - 1z94z82z1 <= 0
+x94x82x2 - 1z94z82z2 <= 0
+x94x75x2 - 1z94z75z2 <= 0
+x94x87x2 - 1z94z87z2 <= 0
+x94x101x1 - 1z94z101z1 <= 0
+x94x101x2 - 1z94z101z2 <= 0
+x94x60x1 - 1z94z60z1 <= 0
+x94x78x2 - 1z94z78z2 <= 0
+x94x34x2 - 1z94z34z2 <= 0
+x94x46x1 - 1z94z46z1 <= 0
+x94x46x2 - 1z94z46z2 <= 0
+x94x11x2 - 1z94z11z2 <= 0
+x94x14x2 - 1z94z14z2 <= 0
+x94x96x2 - 1z94z96z2 <= 0
+x94x33x1 - 1z94z33z1 <= 0
+x94x68x2 - 1z94z68z2 <= 0
+x94x61x1 - 1z94z61z1 <= 0
+x94x61x2 - 1z94z61z2 <= 0
+x94x31x1 - 1z94z31z1 <= 0
+x94x31x2 - 1z94z31z2 <= 0
+x94x43x1 - 1z94z43z1 <= 0
+x94x43x2 - 1z94z43z2 <= 0
+x94x73x2 - 1z94z73z2 <= 0
+x94x37x1 - 1z94z37z1 <= 0
+x94x37x2 - 1z94z37z2 <= 0
+x94x100x2 - 1z94z100z2 <= 0
+x94x71x1 - 1z94z71z1 <= 0
+x94x25x1 - 1z94z25z1 <= 0
+x94x64x1 - 1z94z64z1 <= 0
+x94x64x2 - 1z94z64z2 <= 0
+x94x63x1 - 1z94z63z1 <= 0
+x94x93x1 - 1z94z93z1 <= 0
+x94x65x2 - 1z94z65z2 <= 0
+x94x69x1 - 1z94z69z1 <= 0
+x94x69x2 - 1z94z69z2 <= 0
+x94x47x1 - 1z94z47z1 <= 0
+x94x35x1 - 1z94z35z1 <= 0
+x94x35x2 - 1z94z35z2 <= 0
+x94x7x1 - 1z94z7z1 <= 0
+x94x7x2 - 1z94z7z2 <= 0
+x94x53x1 - 1z94z53z1 <= 0
+x94x50x2 - 1z94z50z2 <= 0
+x94x29x1 - 1z94z29z1 <= 0
+x94x29x2 - 1z94z29z2 <= 0
+x94x3x1 - 1z94z3z1 <= 0
+x94x58x1 - 1z94z58z1 <= 0
+x94x67x1 - 1z94z67z1 <= 0
+x94x30x1 - 1z94z30z1 <= 0
+x94x83x1 - 1z94z83z1 <= 0
+x94x15x1 - 1z94z15z1 <= 0
+x94x15x2 - 1z94z15z2 <= 0
+x94x84x1 - 1z94z84z1 <= 0
+x94x8x1 - 1z94z8z1 <= 0
+x94x59x1 - 1z94z59z1 <= 0
+x94x19x2 - 1z94z19z2 <= 0
+x75x1x2 - 2z75z1z2 <= 0
+x75x82x2 - 1z75z82z2 <= 0
+x75x94x2 - 1z75z94z2 <= 0
+x75x87x2 - 1z75z87z2 <= 0
+x75x101x2 - 1z75z101z2 <= 0
+x75x78x2 - 1z75z78z2 <= 0
+x75x34x2 - 1z75z34z2 <= 0
+x75x46x2 - 1z75z46z2 <= 0
+x75x11x2 - 2z75z11z2 <= 0
+x75x14x2 - 2z75z14z2 <= 0
+x75x96x2 - 2z75z96z2 <= 0
+x75x68x2 - 1z75z68z2 <= 0
+x75x61x2 - 1z75z61z2 <= 0
+x75x31x2 - 1z75z31z2 <= 0
+x75x43x2 - 1z75z43z2 <= 0
+x75x73x2 - 1z75z73z2 <= 0
+x75x37x2 - 1z75z37z2 <= 0
+x75x100x2 - 2z75z100z2 <= 0
+x75x64x2 - 1z75z64z2 <= 0
+x75x65x2 - 1z75z65z2 <= 0
+x75x69x2 - 1z75z69z2 <= 0
+x75x35x2 - 1z75z35z2 <= 0
+x75x7x2 - 1z75z7z2 <= 0
+x75x50x2 - 2z75z50z2 <= 0
+x75x29x2 - 1z75z29z2 <= 0
+x75x15x2 - 1z75z15z2 <= 0
+x75x19x2 - 2z75z19z2 <= 0
+x87x1x2 - 1z87z1z2 <= 0
+x87x1x3 - 1z87z1z3 <= 0
+x87x82x2 - 1z87z82z2 <= 0
+x87x94x2 - 1z87z94z2 <= 0
+x87x75x2 - 1z87z75z2 <= 0
+x87x101x2 - 1z87z101z2 <= 0
+x87x101x3 - 1z87z101z3 <= 0
+x87x60x3 - 1z87z60z3 <= 0
+x87x78x2 - 1z87z78z2 <= 0
+x87x78x3 - 1z87z78z3 <= 0
+x87x34x2 - 1z87z34z2 <= 0
+x87x34x3 - 1z87z34z3 <= 0
+x87x46x2 - 1z87z46z2 <= 0
+x87x11x2 - 1z87z11z2 <= 0
+x87x14x2 - 1z87z14z2 <= 0
+x87x97x3 - 1z87z97z3 <= 0
+x87x13x3 - 1z87z13z3 <= 0
+x87x96x2 - 1z87z96z2 <= 0
+x87x51x3 - 1z87z51z3 <= 0
+x87x74x3 - 1z87z74z3 <= 0
+x87x68x2 - 1z87z68z2 <= 0
+x87x68x3 - 1z87z68z3 <= 0
+x87x17x3 - 1z87z17z3 <= 0
+x87x61x2 - 1z87z61z2 <= 0
+x87x31x2 - 1z87z31z2 <= 0
+x87x31x3 - 1z87z31z3 <= 0
+x87x43x2 - 1z87z43z2 <= 0
+x87x62x3 - 1z87z62z3 <= 0
+x87x73x2 - 1z87z73z2 <= 0
+x87x73x3 - 1z87z73z3 <= 0
+x87x95x3 - 1z87z95z3 <= 0
+x87x37x2 - 1z87z37z2 <= 0
+x87x100x2 - 1z87z100z2 <= 0
+x87x25x3 - 1z87z25z3 <= 0
+x87x64x2 - 1z87z64z2 <= 0
+x87x64x3 - 1z87z64z3 <= 0
+x87x63x3 - 1z87z63z3 <= 0
+x87x93x3 - 1z87z93z3 <= 0
+x87x65x2 - 1z87z65z2 <= 0
+x87x65x3 - 1z87z65z3 <= 0
+x87x69x2 - 1z87z69z2 <= 0
+x87x69x3 - 1z87z69z3 <= 0
+x87x47x3 - 1z87z47z3 <= 0
+x87x35x2 - 1z87z35z2 <= 0
+x87x7x2 - 1z87z7z2 <= 0
+x87x7x3 - 1z87z7z3 <= 0
+x87x53x3 - 1z87z53z3 <= 0
+x87x50x2 - 1z87z50z2 <= 0
+x87x29x2 - 1z87z29z2 <= 0
+x87x29x3 - 1z87z29z3 <= 0
+x87x3x3 - 1z87z3z3 <= 0
+x87x30x3 - 1z87z30z3 <= 0
+x87x83x3 - 1z87z83z3 <= 0
+x87x15x2 - 1z87z15z2 <= 0
+x87x59x3 - 1z87z59z3 <= 0
+x87x19x2 - 1z87z19z2 <= 0
+x101x1x1 - 1z101z1z1 <= 0
+x101x1x2 - 1z101z1z2 <= 0
+x101x1x3 - 1z101z1z3 <= 0
+x101x82x1 - 1z101z82z1 <= 0
+x101x82x2 - 1z101z82z2 <= 0
+x101x94x1 - 1z101z94z1 <= 0
+x101x94x2 - 1z101z94z2 <= 0
+x101x75x2 - 1z101z75z2 <= 0
+x101x87x2 - 1z101z87z2 <= 0
+x101x87x3 - 1z101z87z3 <= 0
+x101x60x1 - 1z101z60z1 <= 0
+x101x60x3 - 1z101z60z3 <= 0
+x101x78x2 - 1z101z78z2 <= 0
+x101x78x3 - 1z101z78z3 <= 0
+x101x34x2 - 1z101z34z2 <= 0
+x101x34x3 - 1z101z34z3 <= 0
+x101x46x1 - 1z101z46z1 <= 0
+x101x46x2 - 1z101z46z2 <= 0
+x101x11x2 - 1z101z11z2 <= 0
+x101x14x2 - 1z101z14z2 <= 0
+x101x97x3 - 1z101z97z3 <= 0
+x101x13x3 - 1z101z13z3 <= 0
+x101x96x2 - 1z101z96z2 <= 0
+x101x51x3 - 1z101z51z3 <= 0
+x101x33x1 - 1z101z33z1 <= 0
+x101x74x3 - 1z101z74z3 <= 0
+x101x68x2 - 1z101z68z2 <= 0
+x101x68x3 - 1z101z68z3 <= 0
+x101x17x3 - 1z101z17z3 <= 0
+x101x61x1 - 1z101z61z1 <= 0
+x101x61x2 - 1z101z61z2 <= 0
+x101x31x1 - 1z101z31z1 <= 0
+x101x31x2 - 1z101z31z2 <= 0
+x101x31x3 - 1z101z31z3 <= 0
+x101x43x1 - 1z101z43z1 <= 0
+x101x43x2 - 1z101z43z2 <= 0
+x101x62x3 - 1z101z62z3 <= 0
+x101x73x2 - 1z101z73z2 <= 0
+x101x73x3 - 1z101z73z3 <= 0
+x101x95x3 - 1z101z95z3 <= 0
+x101x37x1 - 1z101z37z1 <= 0
+x101x37x2 - 1z101z37z2 <= 0
+x101x100x2 - 1z101z100z2 <= 0
+x101x71x1 - 1z101z71z1 <= 0
+x101x25x1 - 1z101z25z1 <= 0
+x101x25x3 - 1z101z25z3 <= 0
+x101x64x1 - 1z101z64z1 <= 0
+x101x64x2 - 1z101z64z2 <= 0
+x101x64x3 - 1z101z64z3 <= 0
+x101x63x1 - 1z101z63z1 <= 0
+x101x63x3 - 1z101z63z3 <= 0
+x101x93x1 - 1z101z93z1 <= 0
+x101x93x3 - 1z101z93z3 <= 0
+x101x65x2 - 1z101z65z2 <= 0
+x101x65x3 - 1z101z65z3 <= 0
+x101x69x1 - 1z101z69z1 <= 0
+x101x69x2 - 1z101z69z2 <= 0
+x101x69x3 - 1z101z69z3 <= 0
+x101x47x1 - 1z101z47z1 <= 0
+x101x47x3 - 1z101z47z3 <= 0
+x101x35x1 - 1z101z35z1 <= 0
+x101x35x2 - 1z101z35z2 <= 0
+x101x7x1 - 1z101z7z1 <= 0
+x101x7x2 - 1z101z7z2 <= 0
+x101x7x3 - 1z101z7z3 <= 0
+x101x53x1 - 1z101z53z1 <= 0
+x101x53x3 - 1z101z53z3 <= 0
+x101x50x2 - 1z101z50z2 <= 0
+x101x29x1 - 1z101z29z1 <= 0
+x101x29x2 - 1z101z29z2 <= 0
+x101x29x3 - 1z101z29z3 <= 0
+x101x3x1 - 1z101z3z1 <= 0
+x101x3x3 - 1z101z3z3 <= 0
+x101x58x1 - 1z101z58z1 <= 0
+x101x67x1 - 1z101z67z1 <= 0
+x101x30x1 - 1z101z30z1 <= 0
+x101x30x3 - 1z101z30z3 <= 0
+x101x83x1 - 1z101z83z1 <= 0
+x101x83x3 - 1z101z83z3 <= 0
+x101x15x1 - 1z101z15z1 <= 0
+x101x15x2 - 1z101z15z2 <= 0
+x101x84x1 - 1z101z84z1 <= 0
+x101x8x1 - 1z101z8z1 <= 0
+x101x59x1 - 1z101z59z1 <= 0
+x101x59x3 - 1z101z59z3 <= 0
+x101x19x2 - 1z101z19z2 <= 0
+x60x1x1 - 1z60z1z1 <= 0
+x60x1x3 - 1z60z1z3 <= 0
+x60x82x1 - 1z60z82z1 <= 0
+x60x94x1 - 1z60z94z1 <= 0
+x60x87x3 - 1z60z87z3 <= 0
+x60x101x1 - 1z60z101z1 <= 0
+x60x101x3 - 1z60z101z3 <= 0
+x60x78x3 - 1z60z78z3 <= 0
+x60x34x3 - 1z60z34z3 <= 0
+x60x46x1 - 1z60z46z1 <= 0
+x60x97x3 - 1z60z97z3 <= 0
+x60x13x3 - 1z60z13z3 <= 0
+x60x51x3 - 1z60z51z3 <= 0
+x60x33x1 - 1z60z33z1 <= 0
+x60x74x3 - 1z60z74z3 <= 0
+x60x68x3 - 1z60z68z3 <= 0
+x60x17x3 - 1z60z17z3 <= 0
+x60x61x1 - 1z60z61z1 <= 0
+x60x31x1 - 1z60z31z1 <= 0
+x60x31x3 - 1z60z31z3 <= 0
+x60x43x1 - 1z60z43z1 <= 0
+x60x62x3 - 1z60z62z3 <= 0
+x60x73x3 - 1z60z73z3 <= 0
+x60x95x3 - 1z60z95z3 <= 0
+x60x37x1 - 1z60z37z1 <= 0
+x60x71x1 - 1z60z71z1 <= 0
+x60x25x1 - 1z60z25z1 <= 0
+x60x25x3 - 1z60z25z3 <= 0
+x60x64x1 - 1z60z64z1 <= 0
+x60x64x3 - 1z60z64z3 <= 0
+x60x63x1 - 1z60z63z1 <= 0
+x60x63x3 - 1z60z63z3 <= 0
+x60x93x1 - 1z60z93z1 <= 0
+x60x93x3 - 1z60z93z3 <= 0
+x60x65x3 - 1z60z65z3 <= 0
+x60x69x1 - 1z60z69z1 <= 0
+x60x69x3 - 1z60z69z3 <= 0
+x60x47x1 - 1z60z47z1 <= 0
+x60x47x3 - 1z60z47z3 <= 0
+x60x35x1 - 1z60z35z1 <= 0
+x60x7x1 - 1z60z7z1 <= 0
+x60x7x3 - 1z60z7z3 <= 0
+x60x53x1 - 1z60z53z1 <= 0
+x60x53x3 - 1z60z53z3 <= 0
+x60x29x1 - 1z60z29z1 <= 0
+x60x29x3 - 1z60z29z3 <= 0
+x60x3x1 - 1z60z3z1 <= 0
+x60x3x3 - 1z60z3z3 <= 0
+x60x58x1 - 1z60z58z1 <= 0
+x60x67x1 - 1z60z67z1 <= 0
+x60x30x1 - 1z60z30z1 <= 0
+x60x30x3 - 1z60z30z3 <= 0
+x60x83x1 - 1z60z83z1 <= 0
+x60x83x3 - 1z60z83z3 <= 0
+x60x15x1 - 1z60z15z1 <= 0
+x60x84x1 - 1z60z84z1 <= 0
+x60x8x1 - 1z60z8z1 <= 0
+x60x59x1 - 1z60z59z1 <= 0
+x60x59x3 - 1z60z59z3 <= 0
+x78x1x2 - 1z78z1z2 <= 0
+x78x1x3 - 1z78z1z3 <= 0
+x78x94x2 - 1z78z94z2 <= 0
+x78x75x2 - 1z78z75z2 <= 0
+x78x87x2 - 1z78z87z2 <= 0
+x78x87x3 - 1z78z87z3 <= 0
+x78x101x2 - 1z78z101z2 <= 0
+x78x101x3 - 1z78z101z3 <= 0
+x78x60x3 - 1z78z60z3 <= 0
+x78x34x2 - 1z78z34z2 <= 0
+x78x34x3 - 1z78z34z3 <= 0
+x78x46x2 - 1z78z46z2 <= 0
+x78x11x2 - 1z78z11z2 <= 0
+x78x14x2 - 1z78z14z2 <= 0
+x78x97x3 - 1z78z97z3 <= 0
+x78x13x3 - 1z78z13z3 <= 0
+x78x96x2 - 1z78z96z2 <= 0
+x78x51x3 - 1z78z51z3 <= 0
+x78x74x3 - 1z78z74z3 <= 0
+x78x68x2 - 1z78z68z2 <= 0
+x78x68x3 - 1z78z68z3 <= 0
+x78x17x3 - 1z78z17z3 <= 0
+x78x61x2 - 1z78z61z2 <= 0
+x78x31x2 - 1z78z31z2 <= 0
+x78x31x3 - 1z78z31z3 <= 0
+x78x43x2 - 1z78z43z2 <= 0
+x78x62x3 - 1z78z62z3 <= 0
+x78x73x2 - 1z78z73z2 <= 0
+x78x73x3 - 1z78z73z3 <= 0
+x78x95x3 - 1z78z95z3 <= 0
+x78x37x2 - 1z78z37z2 <= 0
+x78x100x2 - 1z78z100z2 <= 0
+x78x25x3 - 1z78z25z3 <= 0
+x78x64x2 - 1z78z64z2 <= 0
+x78x64x3 - 1z78z64z3 <= 0
+x78x63x3 - 1z78z63z3 <= 0
+x78x93x3 - 1z78z93z3 <= 0
+x78x65x2 - 1z78z65z2 <= 0
+x78x65x3 - 1z78z65z3 <= 0
+x78x69x2 - 1z78z69z2 <= 0
+x78x69x3 - 1z78z69z3 <= 0
+x78x47x3 - 1z78z47z3 <= 0
+x78x35x2 - 1z78z35z2 <= 0
+x78x7x2 - 1z78z7z2 <= 0
+x78x7x3 - 1z78z7z3 <= 0
+x78x53x3 - 1z78z53z3 <= 0
+x78x50x2 - 1z78z50z2 <= 0
+x78x29x2 - 1z78z29z2 <= 0
+x78x29x3 - 1z78z29z3 <= 0
+x78x3x3 - 1z78z3z3 <= 0
+x78x30x3 - 1z78z30z3 <= 0
+x78x83x3 - 1z78z83z3 <= 0
+x78x15x2 - 1z78z15z2 <= 0
+x78x59x3 - 1z78z59z3 <= 0
+x78x19x2 - 1z78z19z2 <= 0
+x34x1x2 - 1z34z1z2 <= 0
+x34x1x3 - 1z34z1z3 <= 0
+x34x94x2 - 1z34z94z2 <= 0
+x34x75x2 - 1z34z75z2 <= 0
+x34x87x2 - 1z34z87z2 <= 0
+x34x87x3 - 1z34z87z3 <= 0
+x34x101x2 - 1z34z101z2 <= 0
+x34x101x3 - 1z34z101z3 <= 0
+x34x60x3 - 1z34z60z3 <= 0
+x34x78x2 - 1z34z78z2 <= 0
+x34x78x3 - 1z34z78z3 <= 0
+x34x46x2 - 1z34z46z2 <= 0
+x34x11x2 - 1z34z11z2 <= 0
+x34x14x2 - 1z34z14z2 <= 0
+x34x97x3 - 1z34z97z3 <= 0
+x34x13x3 - 1z34z13z3 <= 0
+x34x96x2 - 1z34z96z2 <= 0
+x34x51x3 - 1z34z51z3 <= 0
+x34x74x3 - 1z34z74z3 <= 0
+x34x68x2 - 1z34z68z2 <= 0
+x34x68x3 - 1z34z68z3 <= 0
+x34x17x3 - 1z34z17z3 <= 0
+x34x61x2 - 1z34z61z2 <= 0
+x34x31x2 - 1z34z31z2 <= 0
+x34x31x3 - 1z34z31z3 <= 0
+x34x43x2 - 1z34z43z2 <= 0
+x34x62x3 - 1z34z62z3 <= 0
+x34x73x2 - 1z34z73z2 <= 0
+x34x73x3 - 1z34z73z3 <= 0
+x34x95x3 - 1z34z95z3 <= 0
+x34x37x2 - 1z34z37z2 <= 0
+x34x100x2 - 1z34z100z2 <= 0
+x34x25x3 - 1z34z25z3 <= 0
+x34x64x2 - 1z34z64z2 <= 0
+x34x64x3 - 1z34z64z3 <= 0
+x34x63x3 - 1z34z63z3 <= 0
+x34x93x3 - 1z34z93z3 <= 0
+x34x65x2 - 1z34z65z2 <= 0
+x34x65x3 - 1z34z65z3 <= 0
+x34x69x2 - 1z34z69z2 <= 0
+x34x69x3 - 1z34z69z3 <= 0
+x34x47x3 - 1z34z47z3 <= 0
+x34x35x2 - 1z34z35z2 <= 0
+x34x7x2 - 1z34z7z2 <= 0
+x34x7x3 - 1z34z7z3 <= 0
+x34x53x3 - 1z34z53z3 <= 0
+x34x50x2 - 1z34z50z2 <= 0
+x34x29x2 - 1z34z29z2 <= 0
+x34x29x3 - 1z34z29z3 <= 0
+x34x3x3 - 1z34z3z3 <= 0
+x34x30x3 - 1z34z30z3 <= 0
+x34x83x3 - 1z34z83z3 <= 0
+x34x15x2 - 1z34z15z2 <= 0
+x34x59x3 - 1z34z59z3 <= 0
+x34x19x2 - 1z34z19z2 <= 0
+x46x1x1 - 1z46z1z1 <= 0
+x46x1x2 - 1z46z1z2 <= 0
+x46x87x2 - 1z46z87z2 <= 0
+x46x101x1 - 1z46z101z1 <= 0
+x46x101x2 - 1z46z101z2 <= 0
+x46x60x1 - 1z46z60z1 <= 0
+x46x78x2 - 1z46z78z2 <= 0
+x46x34x2 - 1z46z34z2 <= 0
+x46x11x2 - 1z46z11z2 <= 0
+x46x14x2 - 1z46z14z2 <= 0
+x46x96x2 - 1z46z96z2 <= 0
+x46x33x1 - 1z46z33z1 <= 0
+x46x68x2 - 1z46z68z2 <= 0
+x46x61x1 - 1z46z61z1 <= 0
+x46x61x2 - 1z46z61z2 <= 0
+x46x31x1 - 1z46z31z1 <= 0
+x46x31x2 - 1z46z31z2 <= 0
+x46x43x1 - 1z46z43z1 <= 0
+x46x43x2 - 1z46z43z2 <= 0
+x46x73x2 - 1z46z73z2 <= 0
+x46x37x1 - 1z46z37z1 <= 0
+x46x37x2 - 1z46z37z2 <= 0
+x46x100x2 - 1z46z100z2 <= 0
+x46x71x1 - 1z46z71z1 <= 0
+x46x25x1 - 1z46z25z1 <= 0
+x46x64x1 - 1z46z64z1 <= 0
+x46x64x2 - 1z46z64z2 <= 0
+x46x63x1 - 1z46z63z1 <= 0
+x46x93x1 - 1z46z93z1 <= 0
+x46x65x2 - 1z46z65z2 <= 0
+x46x69x1 - 1z46z69z1 <= 0
+x46x69x2 - 1z46z69z2 <= 0
+x46x47x1 - 1z46z47z1 <= 0
+x46x35x1 - 1z46z35z1 <= 0
+x46x35x2 - 1z46z35z2 <= 0
+x46x7x1 - 1z46z7z1 <= 0
+x46x7x2 - 1z46z7z2 <= 0
+x46x53x1 - 1z46z53z1 <= 0
+x46x50x2 - 1z46z50z2 <= 0
+x46x29x1 - 1z46z29z1 <= 0
+x46x29x2 - 1z46z29z2 <= 0
+x46x3x1 - 1z46z3z1 <= 0
+x46x58x1 - 1z46z58z1 <= 0
+x46x67x1 - 1z46z67z1 <= 0
+x46x30x1 - 1z46z30z1 <= 0
+x46x83x1 - 1z46z83z1 <= 0
+x46x15x1 - 1z46z15z1 <= 0
+x46x15x2 - 1z46z15z2 <= 0
+x46x84x1 - 1z46z84z1 <= 0
+x46x8x1 - 1z46z8z1 <= 0
+x46x59x1 - 1z46z59z1 <= 0
+x46x19x2 - 1z46z19z2 <= 0
+x11x1x2 - 2z11z1z2 <= 0
+x11x75x2 - 2z11z75z2 <= 0
+x11x87x2 - 1z11z87z2 <= 0
+x11x101x2 - 1z11z101z2 <= 0
+x11x78x2 - 1z11z78z2 <= 0
+x11x34x2 - 1z11z34z2 <= 0
+x11x46x2 - 1z11z46z2 <= 0
+x11x14x2 - 2z11z14z2 <= 0
+x11x96x2 - 2z11z96z2 <= 0
+x11x68x2 - 1z11z68z2 <= 0
+x11x61x2 - 1z11z61z2 <= 0
+x11x31x2 - 1z11z31z2 <= 0
+x11x43x2 - 1z11z43z2 <= 0
+x11x73x2 - 1z11z73z2 <= 0
+x11x37x2 - 1z11z37z2 <= 0
+x11x100x2 - 2z11z100z2 <= 0
+x11x64x2 - 1z11z64z2 <= 0
+x11x65x2 - 1z11z65z2 <= 0
+x11x69x2 - 1z11z69z2 <= 0
+x11x35x2 - 1z11z35z2 <= 0
+x11x7x2 - 1z11z7z2 <= 0
+x11x50x2 - 2z11z50z2 <= 0
+x11x29x2 - 1z11z29z2 <= 0
+x11x15x2 - 1z11z15z2 <= 0
+x11x19x2 - 2z11z19z2 <= 0
+x14x1x2 - 2z14z1z2 <= 0
+x14x78x2 - 1z14z78z2 <= 0
+x14x34x2 - 1z14z34z2 <= 0
+x14x46x2 - 1z14z46z2 <= 0
+x14x11x2 - 2z14z11z2 <= 0
+x14x96x2 - 2z14z96z2 <= 0
+x14x68x2 - 1z14z68z2 <= 0
+x14x61x2 - 1z14z61z2 <= 0
+x14x31x2 - 1z14z31z2 <= 0
+x14x43x2 - 1z14z43z2 <= 0
+x14x73x2 - 1z14z73z2 <= 0
+x14x37x2 - 1z14z37z2 <= 0
+x14x100x2 - 2z14z100z2 <= 0
+x14x64x2 - 1z14z64z2 <= 0
+x14x65x2 - 1z14z65z2 <= 0
+x14x69x2 - 1z14z69z2 <= 0
+x14x35x2 - 1z14z35z2 <= 0
+x14x7x2 - 1z14z7z2 <= 0
+x14x50x2 - 2z14z50z2 <= 0
+x14x29x2 - 1z14z29z2 <= 0
+x14x15x2 - 1z14z15z2 <= 0
+x14x19x2 - 2z14z19z2 <= 0
+x97x1x3 - 2z97z1z3 <= 0
+x97x13x3 - 2z97z13z3 <= 0
+x97x51x3 - 2z97z51z3 <= 0
+x97x74x3 - 2z97z74z3 <= 0
+x97x68x3 - 1z97z68z3 <= 0
+x97x17x3 - 2z97z17z3 <= 0
+x97x31x3 - 1z97z31z3 <= 0
+x97x62x3 - 2z97z62z3 <= 0
+x97x73x3 - 1z97z73z3 <= 0
+x97x95x3 - 2z97z95z3 <= 0
+x97x25x3 - 1z97z25z3 <= 0
+x97x64x3 - 1z97z64z3 <= 0
+x97x63x3 - 1z97z63z3 <= 0
+x97x93x3 - 1z97z93z3 <= 0
+x97x65x3 - 1z97z65z3 <= 0
+x97x69x3 - 1z97z69z3 <= 0
+x97x47x3 - 1z97z47z3 <= 0
+x97x7x3 - 1z97z7z3 <= 0
+x97x53x3 - 1z97z53z3 <= 0
+x97x29x3 - 1z97z29z3 <= 0
+x97x3x3 - 1z97z3z3 <= 0
+x97x30x3 - 1z97z30z3 <= 0
+x97x83x3 - 1z97z83z3 <= 0
+x97x59x3 - 1z97z59z3 <= 0
+x13x1x3 - 2z13z1z3 <= 0
+x13x34x3 - 1z13z34z3 <= 0
+x13x97x3 - 2z13z97z3 <= 0
+x13x51x3 - 2z13z51z3 <= 0
+x13x74x3 - 2z13z74z3 <= 0
+x13x68x3 - 1z13z68z3 <= 0
+x13x17x3 - 2z13z17z3 <= 0
+x13x31x3 - 1z13z31z3 <= 0
+x13x62x3 - 2z13z62z3 <= 0
+x13x73x3 - 1z13z73z3 <= 0
+x13x95x3 - 2z13z95z3 <= 0
+x13x25x3 - 1z13z25z3 <= 0
+x13x64x3 - 1z13z64z3 <= 0
+x13x63x3 - 1z13z63z3 <= 0
+x13x93x3 - 1z13z93z3 <= 0
+x13x65x3 - 1z13z65z3 <= 0
+x13x69x3 - 1z13z69z3 <= 0
+x13x47x3 - 1z13z47z3 <= 0
+x13x7x3 - 1z13z7z3 <= 0
+x13x53x3 - 1z13z53z3 <= 0
+x13x29x3 - 1z13z29z3 <= 0
+x13x3x3 - 1z13z3z3 <= 0
+x13x30x3 - 1z13z30z3 <= 0
+x13x83x3 - 1z13z83z3 <= 0
+x13x59x3 - 1z13z59z3 <= 0
+x96x1x2 - 2z96z1z2 <= 0
+x96x14x2 - 2z96z14z2 <= 0
+x96x68x2 - 1z96z68z2 <= 0
+x96x61x2 - 1z96z61z2 <= 0
+x96x31x2 - 1z96z31z2 <= 0
+x96x43x2 - 1z96z43z2 <= 0
+x96x73x2 - 1z96z73z2 <= 0
+x96x37x2 - 1z96z37z2 <= 0
+x96x100x2 - 2z96z100z2 <= 0
+x96x64x2 - 1z96z64z2 <= 0
+x96x65x2 - 1z96z65z2 <= 0
+x96x69x2 - 1z96z69z2 <= 0
+x96x35x2 - 1z96z35z2 <= 0
+x96x7x2 - 1z96z7z2 <= 0
+x96x50x2 - 2z96z50z2 <= 0
+x96x29x2 - 1z96z29z2 <= 0
+x96x15x2 - 1z96z15z2 <= 0
+x96x19x2 - 2z96z19z2 <= 0
+x51x1x3 - 2z51z1z3 <= 0
+x51x13x3 - 2z51z13z3 <= 0
+x51x74x3 - 2z51z74z3 <= 0
+x51x68x3 - 1z51z68z3 <= 0
+x51x17x3 - 2z51z17z3 <= 0
+x51x31x3 - 1z51z31z3 <= 0
+x51x62x3 - 2z51z62z3 <= 0
+x51x73x3 - 1z51z73z3 <= 0
+x51x95x3 - 2z51z95z3 <= 0
+x51x25x3 - 1z51z25z3 <= 0
+x51x64x3 - 1z51z64z3 <= 0
+x51x63x3 - 1z51z63z3 <= 0
+x51x93x3 - 1z51z93z3 <= 0
+x51x65x3 - 1z51z65z3 <= 0
+x51x69x3 - 1z51z69z3 <= 0
+x51x47x3 - 1z51z47z3 <= 0
+x51x7x3 - 1z51z7z3 <= 0
+x51x53x3 - 1z51z53z3 <= 0
+x51x29x3 - 1z51z29z3 <= 0
+x51x3x3 - 1z51z3z3 <= 0
+x51x30x3 - 1z51z30z3 <= 0
+x51x83x3 - 1z51z83z3 <= 0
+x51x59x3 - 1z51z59z3 <= 0
+x33x1x1 - 2z33z1z1 <= 0
+x33x61x1 - 1z33z61z1 <= 0
+x33x31x1 - 1z33z31z1 <= 0
+x33x43x1 - 1z33z43z1 <= 0
+x33x37x1 - 1z33z37z1 <= 0
+x33x71x1 - 2z33z71z1 <= 0
+x33x25x1 - 1z33z25z1 <= 0
+x33x64x1 - 1z33z64z1 <= 0
+x33x63x1 - 1z33z63z1 <= 0
+x33x93x1 - 1z33z93z1 <= 0
+x33x69x1 - 1z33z69z1 <= 0
+x33x47x1 - 1z33z47z1 <= 0
+x33x35x1 - 1z33z35z1 <= 0
+x33x7x1 - 1z33z7z1 <= 0
+x33x53x1 - 1z33z53z1 <= 0
+x33x29x1 - 1z33z29z1 <= 0
+x33x3x1 - 1z33z3z1 <= 0
+x33x58x1 - 2z33z58z1 <= 0
+x33x67x1 - 2z33z67z1 <= 0
+x33x30x1 - 1z33z30z1 <= 0
+x33x83x1 - 1z33z83z1 <= 0
+x33x15x1 - 1z33z15z1 <= 0
+x33x84x1 - 2z33z84z1 <= 0
+x33x8x1 - 2z33z8z1 <= 0
+x33x59x1 - 1z33z59z1 <= 0
+x74x1x3 - 2z74z1z3 <= 0
+x74x51x3 - 2z74z51z3 <= 0
+x74x68x3 - 1z74z68z3 <= 0
+x74x17x3 - 2z74z17z3 <= 0
+x74x31x3 - 1z74z31z3 <= 0
+x74x62x3 - 2z74z62z3 <= 0
+x74x73x3 - 1z74z73z3 <= 0
+x74x95x3 - 2z74z95z3 <= 0
+x74x25x3 - 1z74z25z3 <= 0
+x74x64x3 - 1z74z64z3 <= 0
+x74x63x3 - 1z74z63z3 <= 0
+x74x93x3 - 1z74z93z3 <= 0
+x74x65x3 - 1z74z65z3 <= 0
+x74x69x3 - 1z74z69z3 <= 0
+x74x47x3 - 1z74z47z3 <= 0
+x74x7x3 - 1z74z7z3 <= 0
+x74x53x3 - 1z74z53z3 <= 0
+x74x29x3 - 1z74z29z3 <= 0
+x74x3x3 - 1z74z3z3 <= 0
+x74x30x3 - 1z74z30z3 <= 0
+x74x83x3 - 1z74z83z3 <= 0
+x74x59x3 - 1z74z59z3 <= 0
+x68x1x2 - 1z68z1z2 <= 0
+x68x1x3 - 1z68z1z3 <= 0
+x68x17x3 - 1z68z17z3 <= 0
+x68x61x2 - 1z68z61z2 <= 0
+x68x31x2 - 1z68z31z2 <= 0
+x68x31x3 - 1z68z31z3 <= 0
+x68x43x2 - 1z68z43z2 <= 0
+x68x62x3 - 1z68z62z3 <= 0
+x68x73x2 - 1z68z73z2 <= 0
+x68x73x3 - 1z68z73z3 <= 0
+x68x95x3 - 1z68z95z3 <= 0
+x68x37x2 - 1z68z37z2 <= 0
+x68x100x2 - 1z68z100z2 <= 0
+x68x25x3 - 1z68z25z3 <= 0
+x68x64x2 - 1z68z64z2 <= 0
+x68x64x3 - 1z68z64z3 <= 0
+x68x63x3 - 1z68z63z3 <= 0
+x68x93x3 - 1z68z93z3 <= 0
+x68x65x2 - 1z68z65z2 <= 0
+x68x65x3 - 1z68z65z3 <= 0
+x68x69x2 - 1z68z69z2 <= 0
+x68x69x3 - 1z68z69z3 <= 0
+x68x47x3 - 1z68z47z3 <= 0
+x68x35x2 - 1z68z35z2 <= 0
+x68x7x2 - 1z68z7z2 <= 0
+x68x7x3 - 1z68z7z3 <= 0
+x68x53x3 - 1z68z53z3 <= 0
+x68x50x2 - 1z68z50z2 <= 0
+x68x29x2 - 1z68z29z2 <= 0
+x68x29x3 - 1z68z29z3 <= 0
+x68x3x3 - 1z68z3z3 <= 0
+x68x30x3 - 1z68z30z3 <= 0
+x68x83x3 - 1z68z83z3 <= 0
+x68x15x2 - 1z68z15z2 <= 0
+x68x59x3 - 1z68z59z3 <= 0
+x68x19x2 - 1z68z19z2 <= 0
+x17x1x3 - 2z17z1z3 <= 0
+x17x31x3 - 1z17z31z3 <= 0
+x17x62x3 - 2z17z62z3 <= 0
+x17x73x3 - 1z17z73z3 <= 0
+x17x95x3 - 2z17z95z3 <= 0
+x17x25x3 - 1z17z25z3 <= 0
+x17x64x3 - 1z17z64z3 <= 0
+x17x63x3 - 1z17z63z3 <= 0
+x17x93x3 - 1z17z93z3 <= 0
+x17x65x3 - 1z17z65z3 <= 0
+x17x69x3 - 1z17z69z3 <= 0
+x17x47x3 - 1z17z47z3 <= 0
+x17x7x3 - 1z17z7z3 <= 0
+x17x53x3 - 1z17z53z3 <= 0
+x17x29x3 - 1z17z29z3 <= 0
+x17x3x3 - 1z17z3z3 <= 0
+x17x30x3 - 1z17z30z3 <= 0
+x17x83x3 - 1z17z83z3 <= 0
+x17x59x3 - 1z17z59z3 <= 0
+x61x1x1 - 1z61z1z1 <= 0
+x61x1x2 - 1z61z1z2 <= 0
+x61x31x1 - 1z61z31z1 <= 0
+x61x31x2 - 1z61z31z2 <= 0
+x61x73x2 - 1z61z73z2 <= 0
+x61x37x1 - 1z61z37z1 <= 0
+x61x37x2 - 1z61z37z2 <= 0
+x61x100x2 - 1z61z100z2 <= 0
+x61x71x1 - 1z61z71z1 <= 0
+x61x25x1 - 1z61z25z1 <= 0
+x61x64x1 - 1z61z64z1 <= 0
+x61x64x2 - 1z61z64z2 <= 0
+x61x63x1 - 1z61z63z1 <= 0
+x61x93x1 - 1z61z93z1 <= 0
+x61x65x2 - 1z61z65z2 <= 0
+x61x69x1 - 1z61z69z1 <= 0
+x61x69x2 - 1z61z69z2 <= 0
+x61x47x1 - 1z61z47z1 <= 0
+x61x35x1 - 1z61z35z1 <= 0
+x61x35x2 - 1z61z35z2 <= 0
+x61x7x1 - 1z61z7z1 <= 0
+x61x7x2 - 1z61z7z2 <= 0
+x61x53x1 - 1z61z53z1 <= 0
+x61x50x2 - 1z61z50z2 <= 0
+x61x29x1 - 1z61z29z1 <= 0
+x61x29x2 - 1z61z29z2 <= 0
+x61x3x1 - 1z61z3z1 <= 0
+x61x58x1 - 1z61z58z1 <= 0
+x61x67x1 - 1z61z67z1 <= 0
+x61x30x1 - 1z61z30z1 <= 0
+x61x83x1 - 1z61z83z1 <= 0
+x61x15x1 - 1z61z15z1 <= 0
+x61x15x2 - 1z61z15z2 <= 0
+x61x84x1 - 1z61z84z1 <= 0
+x61x8x1 - 1z61z8z1 <= 0
+x61x59x1 - 1z61z59z1 <= 0
+x61x19x2 - 1z61z19z2 <= 0
+x31x1x1 - 1z31z1z1 <= 0
+x31x1x2 - 1z31z1z2 <= 0
+x31x1x3 - 1z31z1z3 <= 0
+x31x61x1 - 1z31z61z1 <= 0
+x31x61x2 - 1z31z61z2 <= 0
+x31x62x3 - 1z31z62z3 <= 0
+x31x73x2 - 1z31z73z2 <= 0
+x31x73x3 - 1z31z73z3 <= 0
+x31x95x3 - 1z31z95z3 <= 0
+x31x37x1 - 1z31z37z1 <= 0
+x31x37x2 - 1z31z37z2 <= 0
+x31x100x2 - 1z31z100z2 <= 0
+x31x71x1 - 1z31z71z1 <= 0
+x31x25x1 - 1z31z25z1 <= 0
+x31x25x3 - 1z31z25z3 <= 0
+x31x64x1 - 1z31z64z1 <= 0
+x31x64x2 - 1z31z64z2 <= 0
+x31x64x3 - 1z31z64z3 <= 0
+x31x63x1 - 1z31z63z1 <= 0
+x31x63x3 - 1z31z63z3 <= 0
+x31x93x1 - 1z31z93z1 <= 0
+x31x93x3 - 1z31z93z3 <= 0
+x31x65x2 - 1z31z65z2 <= 0
+x31x65x3 - 1z31z65z3 <= 0
+x31x69x1 - 1z31z69z1 <= 0
+x31x69x2 - 1z31z69z2 <= 0
+x31x69x3 - 1z31z69z3 <= 0
+x31x47x1 - 1z31z47z1 <= 0
+x31x47x3 - 1z31z47z3 <= 0
+x31x35x1 - 1z31z35z1 <= 0
+x31x35x2 - 1z31z35z2 <= 0
+x31x7x1 - 1z31z7z1 <= 0
+x31x7x2 - 1z31z7z2 <= 0
+x31x7x3 - 1z31z7z3 <= 0
+x31x53x1 - 1z31z53z1 <= 0
+x31x53x3 - 1z31z53z3 <= 0
+x31x50x2 - 1z31z50z2 <= 0
+x31x29x1 - 1z31z29z1 <= 0
+x31x29x2 - 1z31z29z2 <= 0
+x31x29x3 - 1z31z29z3 <= 0
+x31x3x1 - 1z31z3z1 <= 0
+x31x3x3 - 1z31z3z3 <= 0
+x31x58x1 - 1z31z58z1 <= 0
+x31x67x1 - 1z31z67z1 <= 0
+x31x30x1 - 1z31z30z1 <= 0
+x31x30x3 - 1z31z30z3 <= 0
+x31x83x1 - 1z31z83z1 <= 0
+x31x83x3 - 1z31z83z3 <= 0
+x31x15x1 - 1z31z15z1 <= 0
+x31x15x2 - 1z31z15z2 <= 0
+x31x84x1 - 1z31z84z1 <= 0
+x31x8x1 - 1z31z8z1 <= 0
+x31x59x1 - 1z31z59z1 <= 0
+x31x59x3 - 1z31z59z3 <= 0
+x31x19x2 - 1z31z19z2 <= 0
+x43x1x1 - 1z43z1z1 <= 0
+x43x1x2 - 1z43z1z2 <= 0
+x43x73x2 - 1z43z73z2 <= 0
+x43x37x1 - 1z43z37z1 <= 0
+x43x37x2 - 1z43z37z2 <= 0
+x43x100x2 - 1z43z100z2 <= 0
+x43x71x1 - 1z43z71z1 <= 0
+x43x25x1 - 1z43z25z1 <= 0
+x43x64x1 - 1z43z64z1 <= 0
+x43x64x2 - 1z43z64z2 <= 0
+x43x63x1 - 1z43z63z1 <= 0
+x43x93x1 - 1z43z93z1 <= 0
+x43x69x1 - 1z43z69z1 <= 0
+x43x69x2 - 1z43z69z2 <= 0
+x43x47x1 - 1z43z47z1 <= 0
+x43x35x1 - 1z43z35z1 <= 0
+x43x35x2 - 1z43z35z2 <= 0
+x43x7x1 - 1z43z7z1 <= 0
+x43x7x2 - 1z43z7z2 <= 0
+x43x53x1 - 1z43z53z1 <= 0
+x43x50x2 - 1z43z50z2 <= 0
+x43x29x1 - 1z43z29z1 <= 0
+x43x29x2 - 1z43z29z2 <= 0
+x43x3x1 - 1z43z3z1 <= 0
+x43x58x1 - 1z43z58z1 <= 0
+x43x67x1 - 1z43z67z1 <= 0
+x43x30x1 - 1z43z30z1 <= 0
+x43x83x1 - 1z43z83z1 <= 0
+x43x15x1 - 1z43z15z1 <= 0
+x43x15x2 - 1z43z15z2 <= 0
+x43x84x1 - 1z43z84z1 <= 0
+x43x8x1 - 1z43z8z1 <= 0
+x43x59x1 - 1z43z59z1 <= 0
+x43x19x2 - 1z43z19z2 <= 0
+x62x1x3 - 2z62z1z3 <= 0
+x62x31x3 - 1z62z31z3 <= 0
+x62x73x3 - 1z62z73z3 <= 0
+x62x95x3 - 2z62z95z3 <= 0
+x62x25x3 - 1z62z25z3 <= 0
+x62x64x3 - 1z62z64z3 <= 0
+x62x63x3 - 1z62z63z3 <= 0
+x62x93x3 - 1z62z93z3 <= 0
+x62x65x3 - 1z62z65z3 <= 0
+x62x69x3 - 1z62z69z3 <= 0
+x62x47x3 - 1z62z47z3 <= 0
+x62x7x3 - 1z62z7z3 <= 0
+x62x53x3 - 1z62z53z3 <= 0
+x62x29x3 - 1z62z29z3 <= 0
+x62x3x3 - 1z62z3z3 <= 0
+x62x30x3 - 1z62z30z3 <= 0
+x62x83x3 - 1z62z83z3 <= 0
+x62x59x3 - 1z62z59z3 <= 0
+x73x1x2 - 1z73z1z2 <= 0
+x73x1x3 - 1z73z1z3 <= 0
+x73x61x2 - 1z73z61z2 <= 0
+x73x31x2 - 1z73z31z2 <= 0
+x73x31x3 - 1z73z31z3 <= 0
+x73x62x3 - 1z73z62z3 <= 0
+x73x95x3 - 1z73z95z3 <= 0
+x73x37x2 - 1z73z37z2 <= 0
+x73x100x2 - 1z73z100z2 <= 0
+x73x25x3 - 1z73z25z3 <= 0
+x73x64x2 - 1z73z64z2 <= 0
+x73x64x3 - 1z73z64z3 <= 0
+x73x63x3 - 1z73z63z3 <= 0
+x73x93x3 - 1z73z93z3 <= 0
+x73x65x2 - 1z73z65z2 <= 0
+x73x65x3 - 1z73z65z3 <= 0
+x73x69x2 - 1z73z69z2 <= 0
+x73x69x3 - 1z73z69z3 <= 0
+x73x47x3 - 1z73z47z3 <= 0
+x73x35x2 - 1z73z35z2 <= 0
+x73x7x2 - 1z73z7z2 <= 0
+x73x7x3 - 1z73z7z3 <= 0
+x73x53x3 - 1z73z53z3 <= 0
+x73x50x2 - 1z73z50z2 <= 0
+x73x29x2 - 1z73z29z2 <= 0
+x73x29x3 - 1z73z29z3 <= 0
+x73x3x3 - 1z73z3z3 <= 0
+x73x30x3 - 1z73z30z3 <= 0
+x73x83x3 - 1z73z83z3 <= 0
+x73x15x2 - 1z73z15z2 <= 0
+x73x59x3 - 1z73z59z3 <= 0
+x73x19x2 - 1z73z19z2 <= 0
+x95x1x3 - 2z95z1z3 <= 0
+x95x31x3 - 1z95z31z3 <= 0
+x95x62x3 - 2z95z62z3 <= 0
+x95x73x3 - 1z95z73z3 <= 0
+x95x25x3 - 1z95z25z3 <= 0
+x95x64x3 - 1z95z64z3 <= 0
+x95x63x3 - 1z95z63z3 <= 0
+x95x93x3 - 1z95z93z3 <= 0
+x95x65x3 - 1z95z65z3 <= 0
+x95x69x3 - 1z95z69z3 <= 0
+x95x47x3 - 1z95z47z3 <= 0
+x95x7x3 - 1z95z7z3 <= 0
+x95x53x3 - 1z95z53z3 <= 0
+x95x29x3 - 1z95z29z3 <= 0
+x95x3x3 - 1z95z3z3 <= 0
+x95x30x3 - 1z95z30z3 <= 0
+x95x83x3 - 1z95z83z3 <= 0
+x95x59x3 - 1z95z59z3 <= 0
+x37x1x1 - 1z37z1z1 <= 0
+x37x1x2 - 1z37z1z2 <= 0
+x37x73x2 - 1z37z73z2 <= 0
+x37x100x2 - 1z37z100z2 <= 0
+x37x71x1 - 1z37z71z1 <= 0
+x37x25x1 - 1z37z25z1 <= 0
+x37x64x1 - 1z37z64z1 <= 0
+x37x64x2 - 1z37z64z2 <= 0
+x37x63x1 - 1z37z63z1 <= 0
+x37x93x1 - 1z37z93z1 <= 0
+x37x65x2 - 1z37z65z2 <= 0
+x37x69x1 - 1z37z69z1 <= 0
+x37x69x2 - 1z37z69z2 <= 0
+x37x47x1 - 1z37z47z1 <= 0
+x37x35x1 - 1z37z35z1 <= 0
+x37x35x2 - 1z37z35z2 <= 0
+x37x7x1 - 1z37z7z1 <= 0
+x37x7x2 - 1z37z7z2 <= 0
+x37x53x1 - 1z37z53z1 <= 0
+x37x50x2 - 1z37z50z2 <= 0
+x37x29x1 - 1z37z29z1 <= 0
+x37x29x2 - 1z37z29z2 <= 0
+x37x3x1 - 1z37z3z1 <= 0
+x37x58x1 - 1z37z58z1 <= 0
+x37x67x1 - 1z37z67z1 <= 0
+x37x30x1 - 1z37z30z1 <= 0
+x37x83x1 - 1z37z83z1 <= 0
+x37x15x1 - 1z37z15z1 <= 0
+x37x15x2 - 1z37z15z2 <= 0
+x37x84x1 - 1z37z84z1 <= 0
+x37x8x1 - 1z37z8z1 <= 0
+x37x59x1 - 1z37z59z1 <= 0
+x37x19x2 - 1z37z19z2 <= 0
+x100x1x2 - 2z100z1z2 <= 0
+x100x37x2 - 1z100z37z2 <= 0
+x100x64x2 - 1z100z64z2 <= 0
+x100x65x2 - 1z100z65z2 <= 0
+x100x69x2 - 1z100z69z2 <= 0
+x100x35x2 - 1z100z35z2 <= 0
+x100x7x2 - 1z100z7z2 <= 0
+x100x50x2 - 2z100z50z2 <= 0
+x100x29x2 - 1z100z29z2 <= 0
+x100x15x2 - 1z100z15z2 <= 0
+x100x19x2 - 2z100z19z2 <= 0
+x71x1x1 - 2z71z1z1 <= 0
+x71x25x1 - 1z71z25z1 <= 0
+x71x64x1 - 1z71z64z1 <= 0
+x71x63x1 - 1z71z63z1 <= 0
+x71x93x1 - 1z71z93z1 <= 0
+x71x69x1 - 1z71z69z1 <= 0
+x71x47x1 - 1z71z47z1 <= 0
+x71x35x1 - 1z71z35z1 <= 0
+x71x7x1 - 1z71z7z1 <= 0
+x71x53x1 - 1z71z53z1 <= 0
+x71x29x1 - 1z71z29z1 <= 0
+x71x3x1 - 1z71z3z1 <= 0
+x71x58x1 - 2z71z58z1 <= 0
+x71x67x1 - 2z71z67z1 <= 0
+x71x30x1 - 1z71z30z1 <= 0
+x71x83x1 - 1z71z83z1 <= 0
+x71x15x1 - 1z71z15z1 <= 0
+x71x84x1 - 2z71z84z1 <= 0
+x71x8x1 - 2z71z8z1 <= 0
+x71x59x1 - 1z71z59z1 <= 0
+x25x1x1 - 1z25z1z1 <= 0
+x25x1x3 - 1z25z1z3 <= 0
+x25x62x3 - 1z25z62z3 <= 0
+x25x73x3 - 1z25z73z3 <= 0
+x25x37x1 - 1z25z37z1 <= 0
+x25x71x1 - 1z25z71z1 <= 0
+x25x64x1 - 1z25z64z1 <= 0
+x25x64x3 - 1z25z64z3 <= 0
+x25x63x1 - 1z25z63z1 <= 0
+x25x63x3 - 1z25z63z3 <= 0
+x25x93x1 - 1z25z93z1 <= 0
+x25x93x3 - 1z25z93z3 <= 0
+x25x65x3 - 1z25z65z3 <= 0
+x25x69x1 - 1z25z69z1 <= 0
+x25x69x3 - 1z25z69z3 <= 0
+x25x47x1 - 1z25z47z1 <= 0
+x25x47x3 - 1z25z47z3 <= 0
+x25x35x1 - 1z25z35z1 <= 0
+x25x7x1 - 1z25z7z1 <= 0
+x25x7x3 - 1z25z7z3 <= 0
+x25x53x1 - 1z25z53z1 <= 0
+x25x53x3 - 1z25z53z3 <= 0
+x25x29x1 - 1z25z29z1 <= 0
+x25x29x3 - 1z25z29z3 <= 0
+x25x3x1 - 1z25z3z1 <= 0
+x25x3x3 - 1z25z3z3 <= 0
+x25x58x1 - 1z25z58z1 <= 0
+x25x67x1 - 1z25z67z1 <= 0
+x25x30x1 - 1z25z30z1 <= 0
+x25x30x3 - 1z25z30z3 <= 0
+x25x83x1 - 1z25z83z1 <= 0
+x25x83x3 - 1z25z83z3 <= 0
+x25x15x1 - 1z25z15z1 <= 0
+x25x84x1 - 1z25z84z1 <= 0
+x25x8x1 - 1z25z8z1 <= 0
+x25x59x1 - 1z25z59z1 <= 0
+x25x59x3 - 1z25z59z3 <= 0
+x64x1x1 - 1z64z1z1 <= 0
+x64x1x2 - 1z64z1z2 <= 0
+x64x1x3 - 1z64z1z3 <= 0
+x64x100x2 - 1z64z100z2 <= 0
+x64x71x1 - 1z64z71z1 <= 0
+x64x25x1 - 1z64z25z1 <= 0
+x64x25x3 - 1z64z25z3 <= 0
+x64x63x1 - 1z64z63z1 <= 0
+x64x63x3 - 1z64z63z3 <= 0
+x64x93x1 - 1z64z93z1 <= 0
+x64x93x3 - 1z64z93z3 <= 0
+x64x69x1 - 1z64z69z1 <= 0
+x64x69x2 - 1z64z69z2 <= 0
+x64x69x3 - 1z64z69z3 <= 0
+x64x47x1 - 1z64z47z1 <= 0
+x64x47x3 - 1z64z47z3 <= 0
+x64x35x1 - 1z64z35z1 <= 0
+x64x35x2 - 1z64z35z2 <= 0
+x64x7x1 - 1z64z7z1 <= 0
+x64x7x2 - 1z64z7z2 <= 0
+x64x7x3 - 1z64z7z3 <= 0
+x64x53x1 - 1z64z53z1 <= 0
+x64x53x3 - 1z64z53z3 <= 0
+x64x50x2 - 1z64z50z2 <= 0
+x64x29x1 - 1z64z29z1 <= 0
+x64x29x2 - 1z64z29z2 <= 0
+x64x29x3 - 1z64z29z3 <= 0
+x64x3x1 - 1z64z3z1 <= 0
+x64x3x3 - 1z64z3z3 <= 0
+x64x58x1 - 1z64z58z1 <= 0
+x64x67x1 - 1z64z67z1 <= 0
+x64x30x1 - 1z64z30z1 <= 0
+x64x30x3 - 1z64z30z3 <= 0
+x64x83x1 - 1z64z83z1 <= 0
+x64x83x3 - 1z64z83z3 <= 0
+x64x15x1 - 1z64z15z1 <= 0
+x64x15x2 - 1z64z15z2 <= 0
+x64x84x1 - 1z64z84z1 <= 0
+x64x8x1 - 1z64z8z1 <= 0
+x64x59x1 - 1z64z59z1 <= 0
+x64x59x3 - 1z64z59z3 <= 0
+x64x19x2 - 1z64z19z2 <= 0
+x63x1x1 - 1z63z1z1 <= 0
+x63x1x3 - 1z63z1z3 <= 0
+x63x37x1 - 1z63z37z1 <= 0
+x63x25x1 - 1z63z25z1 <= 0
+x63x25x3 - 1z63z25z3 <= 0
+x63x64x1 - 1z63z64z1 <= 0
+x63x64x3 - 1z63z64z3 <= 0
+x63x93x1 - 1z63z93z1 <= 0
+x63x93x3 - 1z63z93z3 <= 0
+x63x7x1 - 1z63z7z1 <= 0
+x63x7x3 - 1z63z7z3 <= 0
+x63x53x1 - 1z63z53z1 <= 0
+x63x53x3 - 1z63z53z3 <= 0
+x63x29x1 - 1z63z29z1 <= 0
+x63x29x3 - 1z63z29z3 <= 0
+x63x3x1 - 1z63z3z1 <= 0
+x63x3x3 - 1z63z3z3 <= 0
+x63x67x1 - 1z63z67z1 <= 0
+x63x30x1 - 1z63z30z1 <= 0
+x63x30x3 - 1z63z30z3 <= 0
+x63x83x1 - 1z63z83z1 <= 0
+x63x83x3 - 1z63z83z3 <= 0
+x63x15x1 - 1z63z15z1 <= 0
+x63x84x1 - 1z63z84z1 <= 0
+x63x8x1 - 1z63z8z1 <= 0
+x63x59x1 - 1z63z59z1 <= 0
+x63x59x3 - 1z63z59z3 <= 0
+x93x1x1 - 1z93z1z1 <= 0
+x93x1x3 - 1z93z1z3 <= 0
+x93x71x1 - 1z93z71z1 <= 0
+x93x25x1 - 1z93z25z1 <= 0
+x93x25x3 - 1z93z25z3 <= 0
+x93x64x1 - 1z93z64z1 <= 0
+x93x64x3 - 1z93z64z3 <= 0
+x93x69x1 - 1z93z69z1 <= 0
+x93x69x3 - 1z93z69z3 <= 0
+x93x47x1 - 1z93z47z1 <= 0
+x93x47x3 - 1z93z47z3 <= 0
+x93x35x1 - 1z93z35z1 <= 0
+x93x53x1 - 1z93z53z1 <= 0
+x93x53x3 - 1z93z53z3 <= 0
+x93x29x1 - 1z93z29z1 <= 0
+x93x29x3 - 1z93z29z3 <= 0
+x93x3x1 - 1z93z3z1 <= 0
+x93x3x3 - 1z93z3z3 <= 0
+x93x58x1 - 1z93z58z1 <= 0
+x93x67x1 - 1z93z67z1 <= 0
+x93x30x1 - 1z93z30z1 <= 0
+x93x30x3 - 1z93z30z3 <= 0
+x93x83x1 - 1z93z83z1 <= 0
+x93x83x3 - 1z93z83z3 <= 0
+x93x15x1 - 1z93z15z1 <= 0
+x93x84x1 - 1z93z84z1 <= 0
+x93x8x1 - 1z93z8z1 <= 0
+x93x59x1 - 1z93z59z1 <= 0
+x93x59x3 - 1z93z59z3 <= 0
+x65x1x2 - 1z65z1z2 <= 0
+x65x1x3 - 1z65z1z3 <= 0
+x65x69x2 - 1z65z69z2 <= 0
+x65x69x3 - 1z65z69z3 <= 0
+x65x47x3 - 1z65z47z3 <= 0
+x65x35x2 - 1z65z35z2 <= 0
+x65x53x3 - 1z65z53z3 <= 0
+x65x50x2 - 1z65z50z2 <= 0
+x65x29x2 - 1z65z29z2 <= 0
+x65x29x3 - 1z65z29z3 <= 0
+x65x83x3 - 1z65z83z3 <= 0
+x65x59x3 - 1z65z59z3 <= 0
+x65x19x2 - 1z65z19z2 <= 0
+x69x1x1 - 1z69z1z1 <= 0
+x69x1x2 - 1z69z1z2 <= 0
+x69x1x3 - 1z69z1z3 <= 0
+x69x100x2 - 1z69z100z2 <= 0
+x69x71x1 - 1z69z71z1 <= 0
+x69x64x1 - 1z69z64z1 <= 0
+x69x64x2 - 1z69z64z2 <= 0
+x69x64x3 - 1z69z64z3 <= 0
+x69x93x1 - 1z69z93z1 <= 0
+x69x93x3 - 1z69z93z3 <= 0
+x69x65x2 - 1z69z65z2 <= 0
+x69x65x3 - 1z69z65z3 <= 0
+x69x47x1 - 1z69z47z1 <= 0
+x69x47x3 - 1z69z47z3 <= 0
+x69x35x1 - 1z69z35z1 <= 0
+x69x35x2 - 1z69z35z2 <= 0
+x69x53x1 - 1z69z53z1 <= 0
+x69x53x3 - 1z69z53z3 <= 0
+x69x50x2 - 1z69z50z2 <= 0
+x69x29x1 - 1z69z29z1 <= 0
+x69x29x2 - 1z69z29z2 <= 0
+x69x29x3 - 1z69z29z3 <= 0
+x69x58x1 - 1z69z58z1 <= 0
+x69x67x1 - 1z69z67z1 <= 0
+x69x83x1 - 1z69z83z1 <= 0
+x69x83x3 - 1z69z83z3 <= 0
+x69x15x1 - 1z69z15z1 <= 0
+x69x15x2 - 1z69z15z2 <= 0
+x69x84x1 - 1z69z84z1 <= 0
+x69x8x1 - 1z69z8z1 <= 0
+x69x59x1 - 1z69z59z1 <= 0
+x69x59x3 - 1z69z59z3 <= 0
+x69x19x2 - 1z69z19z2 <= 0
+x47x1x1 - 1z47z1z1 <= 0
+x47x1x3 - 1z47z1z3 <= 0
+x47x71x1 - 1z47z71z1 <= 0
+x47x64x1 - 1z47z64z1 <= 0
+x47x64x3 - 1z47z64z3 <= 0
+x47x93x1 - 1z47z93z1 <= 0
+x47x93x3 - 1z47z93z3 <= 0
+x47x65x3 - 1z47z65z3 <= 0
+x47x69x1 - 1z47z69z1 <= 0
+x47x69x3 - 1z47z69z3 <= 0
+x47x35x1 - 1z47z35z1 <= 0
+x47x53x1 - 1z47z53z1 <= 0
+x47x53x3 - 1z47z53z3 <= 0
+x47x29x1 - 1z47z29z1 <= 0
+x47x29x3 - 1z47z29z3 <= 0
+x47x58x1 - 1z47z58z1 <= 0
+x47x67x1 - 1z47z67z1 <= 0
+x47x83x1 - 1z47z83z1 <= 0
+x47x83x3 - 1z47z83z3 <= 0
+x47x15x1 - 1z47z15z1 <= 0
+x47x84x1 - 1z47z84z1 <= 0
+x47x8x1 - 1z47z8z1 <= 0
+x47x59x1 - 1z47z59z1 <= 0
+x47x59x3 - 1z47z59z3 <= 0
+x35x1x1 - 1z35z1z1 <= 0
+x35x1x2 - 1z35z1z2 <= 0
+x35x65x2 - 1z35z65z2 <= 0
+x35x69x1 - 1z35z69z1 <= 0
+x35x69x2 - 1z35z69z2 <= 0
+x35x47x1 - 1z35z47z1 <= 0
+x35x53x1 - 1z35z53z1 <= 0
+x35x50x2 - 1z35z50z2 <= 0
+x35x29x1 - 1z35z29z1 <= 0
+x35x29x2 - 1z35z29z2 <= 0
+x35x58x1 - 1z35z58z1 <= 0
+x35x67x1 - 1z35z67z1 <= 0
+x35x83x1 - 1z35z83z1 <= 0
+x35x8x1 - 1z35z8z1 <= 0
+x35x59x1 - 1z35z59z1 <= 0
+x35x19x2 - 1z35z19z2 <= 0
+x7x1x1 - 1z7z1z1 <= 0
+x7x1x2 - 1z7z1z2 <= 0
+x7x1x3 - 1z7z1z3 <= 0
+x7x29x1 - 1z7z29z1 <= 0
+x7x29x2 - 1z7z29z2 <= 0
+x7x29x3 - 1z7z29z3 <= 0
+x7x3x1 - 1z7z3z1 <= 0
+x7x3x3 - 1z7z3z3 <= 0
+x7x30x1 - 1z7z30z1 <= 0
+x7x30x3 - 1z7z30z3 <= 0
+x7x15x1 - 1z7z15z1 <= 0
+x7x15x2 - 1z7z15z2 <= 0
+x7x84x1 - 1z7z84z1 <= 0
+x7x8x1 - 1z7z8z1 <= 0
+x7x59x1 - 1z7z59z1 <= 0
+x7x59x3 - 1z7z59z3 <= 0
+x53x1x1 - 1z53z1z1 <= 0
+x53x1x3 - 1z53z1z3 <= 0
+x53x64x1 - 1z53z64z1 <= 0
+x53x64x3 - 1z53z64z3 <= 0
+x53x93x1 - 1z53z93z1 <= 0
+x53x93x3 - 1z53z93z3 <= 0
+x53x69x1 - 1z53z69z1 <= 0
+x53x69x3 - 1z53z69z3 <= 0
+x53x47x1 - 1z53z47z1 <= 0
+x53x47x3 - 1z53z47z3 <= 0
+x53x29x1 - 1z53z29z1 <= 0
+x53x29x3 - 1z53z29z3 <= 0
+x53x58x1 - 1z53z58z1 <= 0
+x53x67x1 - 1z53z67z1 <= 0
+x53x83x1 - 1z53z83z1 <= 0
+x53x83x3 - 1z53z83z3 <= 0
+x53x15x1 - 1z53z15z1 <= 0
+x53x84x1 - 1z53z84z1 <= 0
+x53x8x1 - 1z53z8z1 <= 0
+x53x59x1 - 1z53z59z1 <= 0
+x53x59x3 - 1z53z59z3 <= 0
+x50x1x2 - 2z50z1z2 <= 0
+x50x64x2 - 1z50z64z2 <= 0
+x50x69x2 - 1z50z69z2 <= 0
+x50x35x2 - 1z50z35z2 <= 0
+x50x29x2 - 1z50z29z2 <= 0
+x50x15x2 - 1z50z15z2 <= 0
+x50x19x2 - 2z50z19z2 <= 0
+x29x1x1 - 1z29z1z1 <= 0
+x29x1x2 - 1z29z1z2 <= 0
+x29x1x3 - 1z29z1z3 <= 0
+x29x53x1 - 1z29z53z1 <= 0
+x29x53x3 - 1z29z53z3 <= 0
+x29x50x2 - 1z29z50z2 <= 0
+x29x67x1 - 1z29z67z1 <= 0
+x29x83x1 - 1z29z83z1 <= 0
+x29x83x3 - 1z29z83z3 <= 0
+x29x15x1 - 1z29z15z1 <= 0
+x29x15x2 - 1z29z15z2 <= 0
+x29x84x1 - 1z29z84z1 <= 0
+x29x8x1 - 1z29z8z1 <= 0
+x29x59x1 - 1z29z59z1 <= 0
+x29x59x3 - 1z29z59z3 <= 0
+x3x1x1 - 1z3z1z1 <= 0
+x3x1x3 - 1z3z1z3 <= 0
+x3x7x1 - 1z3z7z1 <= 0
+x3x7x3 - 1z3z7z3 <= 0
+x3x30x1 - 1z3z30z1 <= 0
+x3x30x3 - 1z3z30z3 <= 0
+x3x15x1 - 1z3z15z1 <= 0
+x3x84x1 - 1z3z84z1 <= 0
+x58x1x1 - 2z58z1z1 <= 0
+x58x83x1 - 1z58z83z1 <= 0
+x58x8x1 - 2z58z8z1 <= 0
+x58x59x1 - 1z58z59z1 <= 0
+x67x1x1 - 2z67z1z1 <= 0
+x67x53x1 - 1z67z53z1 <= 0
+x67x29x1 - 1z67z29z1 <= 0
+x67x83x1 - 1z67z83z1 <= 0
+x67x84x1 - 2z67z84z1 <= 0
+x67x8x1 - 2z67z8z1 <= 0
+x67x59x1 - 1z67z59z1 <= 0
+x30x1x1 - 1z30z1z1 <= 0
+x30x1x3 - 1z30z1z3 <= 0
+x30x3x1 - 1z30z3z1 <= 0
+x30x3x3 - 1z30z3z3 <= 0
+x30x15x1 - 1z30z15z1 <= 0
+x30x84x1 - 1z30z84z1 <= 0
+x83x1x1 - 1z83z1z1 <= 0
+x83x1x3 - 1z83z1z3 <= 0
+x83x67x1 - 1z83z67z1 <= 0
+x83x8x1 - 1z83z8z1 <= 0
+x83x59x1 - 1z83z59z1 <= 0
+x83x59x3 - 1z83z59z3 <= 0
+x15x1x1 - 1z15z1z1 <= 0
+x15x1x2 - 1z15z1z2 <= 0
+x15x30x1 - 1z15z30z1 <= 0
+x15x84x1 - 1z15z84z1 <= 0
+x84x1x1 - 2z84z1z1 <= 0
+x84x30x1 - 1z84z30z1 <= 0
+x84x15x1 - 1z84z15z1 <= 0
+x8x1x1 - 2z8z1z1 <= 0
+x8x67x1 - 2z8z67z1 <= 0
+x8x83x1 - 1z8z83z1 <= 0
+x8x59x1 - 1z8z59z1 <= 0
+x59x1x1 - 1z59z1z1 <= 0
+x59x1x3 - 1z59z1z3 <= 0
+x59x67x1 - 1z59z67z1 <= 0
+x59x83x1 - 1z59z83z1 <= 0
+x59x83x3 - 1z59z83z3 <= 0
+x59x8x1 - 1z59z8z1 <= 0
+x19x1x2 - 2z19z1z2 <= 0
+
+s1 - s82 + 110z1z82z1 <= 108.143761
+s1 - s82 + 110z1z82z2 <= 108.143761
+s1 - s94 + 110z1z94z1 <= 108.191338
+s1 - s94 + 110z1z94z2 <= 108.191338
+s1 - s75 + 110z1z75z2 <= 108.239143
+s1 - s87 + 110z1z87z2 <= 108.261826
+s1 - s87 + 110z1z87z3 <= 108.261826
+s1 - s101 + 110z1z101z1 <= 108.282990
+s1 - s101 + 110z1z101z2 <= 108.282990
+s1 - s101 + 110z1z101z3 <= 108.282990
+s1 - s60 + 110z1z60z1 <= 108.320526
+s1 - s60 + 110z1z60z3 <= 108.320526
+s1 - s78 + 110z1z78z2 <= 108.299820
+s1 - s78 + 110z1z78z3 <= 108.299820
+s1 - s34 + 110z1z34z2 <= 108.386581
+s1 - s34 + 110z1z34z3 <= 108.386581
+s1 - s46 + 110z1z46z1 <= 108.280083
+s1 - s46 + 110z1z46z2 <= 108.280083
+s1 - s11 + 110z1z11z2 <= 108.408615
+s1 - s14 + 110z1z14z2 <= 108.511292
+s1 - s97 + 110z1z97z3 <= 108.430763
+s1 - s13 + 110z1z13z3 <= 108.565384
+s1 - s96 + 110z1z96z2 <= 108.533287
+s1 - s51 + 110z1z51z3 <= 108.668411
+s1 - s33 + 110z1z33z1 <= 108.743767
+s1 - s74 + 110z1z74z3 <= 108.724998
+s1 - s68 + 110z1z68z2 <= 108.973778
+s1 - s68 + 110z1z68z3 <= 108.973778
+s1 - s17 + 110z1z17z3 <= 109.239655
+s1 - s61 + 110z1z61z1 <= 109.259644
+s1 - s61 + 110z1z61z2 <= 109.259644
+s1 - s31 + 110z1z31z1 <= 109.319923
+s1 - s31 + 110z1z31z2 <= 109.319923
+s1 - s31 + 110z1z31z3 <= 109.319923
+s1 - s43 + 110z1z43z1 <= 108.613907
+s1 - s43 + 110z1z43z2 <= 108.613907
+s1 - s62 + 110z1z62z3 <= 109.505028
+s1 - s73 + 110z1z73z2 <= 109.485222
+s1 - s73 + 110z1z73z3 <= 109.485222
+s1 - s95 + 110z1z95z3 <= 109.373001
+s1 - s37 + 110z1z37z1 <= 109.449432
+s1 - s37 + 110z1z37z2 <= 109.449432
+s1 - s100 + 110z1z100z2 <= 109.474998
+s1 - s71 + 110z1z71z1 <= 109.447731
+s1 - s25 + 110z1z25z1 <= 109.686752
+s1 - s25 + 110z1z25z3 <= 109.686752
+s1 - s64 + 110z1z64z1 <= 109.730743
+s1 - s64 + 110z1z64z2 <= 109.730743
+s1 - s64 + 110z1z64z3 <= 109.730743
+s1 - s63 + 110z1z63z1 <= 109.209427
+s1 - s63 + 110z1z63z3 <= 109.209427
+s1 - s93 + 110z1z93z1 <= 109.675003
+s1 - s93 + 110z1z93z3 <= 109.675003
+s1 - s65 + 110z1z65z2 <= 108.560379
+s1 - s65 + 110z1z65z3 <= 108.560379
+s1 - s69 + 110z1z69z1 <= 109.349998
+s1 - s69 + 110z1z69z2 <= 109.349998
+s1 - s69 + 110z1z69z3 <= 109.349998
+s1 - s47 + 110z1z47z1 <= 109.284111
+s1 - s47 + 110z1z47z3 <= 109.284111
+s1 - s35 + 110z1z35z1 <= 108.781136
+s1 - s35 + 110z1z35z2 <= 108.781136
+s1 - s7 + 110z1z7z1 <= 108.568214
+s1 - s7 + 110z1z7z2 <= 108.568214
+s1 - s7 + 110z1z7z3 <= 108.568214
+s1 - s53 + 110z1z53z1 <= 109.786400
+s1 - s53 + 110z1z53z3 <= 109.786400
+s1 - s50 + 110z1z50z2 <= 109.630882
+s1 - s29 + 110z1z29z1 <= 109.804741
+s1 - s29 + 110z1z29z2 <= 109.804741
+s1 - s29 + 110z1z29z3 <= 109.804741
+s1 - s3 + 110z1z3z1 <= 108.210274
+s1 - s3 + 110z1z3z3 <= 108.210274
+s1 - s58 + 110z1z58z1 <= 108.345268
+s1 - s67 + 110z1z67z1 <= 109.750000
+s1 - s30 + 110z1z30z1 <= 108.331726
+s1 - s30 + 110z1z30z3 <= 108.331726
+s1 - s83 + 110z1z83z1 <= 109.464973
+s1 - s83 + 110z1z83z3 <= 109.464973
+s1 - s15 + 110z1z15z1 <= 108.898865
+s1 - s15 + 110z1z15z2 <= 108.898865
+s1 - s84 + 110z1z84z1 <= 108.777046
+s1 - s8 + 110z1z8z1 <= 109.463226
+s1 - s59 + 110z1z59z1 <= 109.642052
+s1 - s59 + 110z1z59z3 <= 109.642052
+s1 - s19 + 110z1z19z2 <= 108.322021
+s82 - s0 + 110z82z1z1 <= 109.000000
+s82 - s0 + 110z82z1z2 <= 109.000000
+s82 - s94 + 110z82z94z1 <= 108.865372
+s82 - s94 + 110z82z94z2 <= 108.865372
+s82 - s75 + 110z82z75z2 <= 108.762833
+s82 - s87 + 110z82z87z2 <= 108.824997
+s82 - s101 + 110z82z101z1 <= 108.823227
+s82 - s101 + 110z82z101z2 <= 108.823227
+s82 - s60 + 110z82z60z1 <= 108.819725
+s82 - s78 + 110z82z78z2 <= 108.695862
+s82 - s34 + 110z82z34z2 <= 108.730743
+s82 - s46 + 110z82z46z1 <= 108.604713
+s82 - s46 + 110z82z46z2 <= 108.604713
+s82 - s11 + 110z82z11z2 <= 108.729584
+s82 - s14 + 110z82z14z2 <= 108.618393
+s82 - s96 + 110z82z96z2 <= 108.422829
+s82 - s33 + 110z82z33z1 <= 108.303581
+s82 - s68 + 110z82z68z2 <= 108.125359
+s82 - s61 + 110z82z61z1 <= 107.702888
+s82 - s61 + 110z82z61z2 <= 107.702888
+s82 - s31 + 110z82z31z1 <= 107.709412
+s82 - s31 + 110z82z31z2 <= 107.709412
+s82 - s43 + 110z82z43z1 <= 107.498123
+s82 - s43 + 110z82z43z2 <= 107.498123
+s82 - s73 + 110z82z73z2 <= 107.629555
+s82 - s37 + 110z82z37z1 <= 107.499168
+s82 - s37 + 110z82z37z2 <= 107.499168
+s82 - s100 + 110z82z100z2 <= 107.473564
+s82 - s71 + 110z82z71z1 <= 107.443359
+s82 - s25 + 110z82z25z1 <= 107.440750
+s82 - s64 + 110z82z64z1 <= 107.388908
+s82 - s64 + 110z82z64z2 <= 107.388908
+s82 - s63 + 110z82z63z1 <= 107.331726
+s82 - s93 + 110z82z93z1 <= 107.359879
+s82 - s65 + 110z82z65z2 <= 107.199829
+s82 - s69 + 110z82z69z1 <= 107.288826
+s82 - s69 + 110z82z69z2 <= 107.288826
+s82 - s47 + 110z82z47z1 <= 107.263443
+s82 - s35 + 110z82z35z1 <= 107.161179
+s82 - s35 + 110z82z35z2 <= 107.161179
+s82 - s7 + 110z82z7z1 <= 107.074997
+s82 - s7 + 110z82z7z2 <= 107.074997
+s82 - s53 + 110z82z53z1 <= 107.223419
+s82 - s50 + 110z82z50z2 <= 107.217972
+s82 - s29 + 110z82z29z1 <= 107.114197
+s82 - s29 + 110z82z29z2 <= 107.114197
+s82 - s3 + 110z82z3z1 <= 106.899704
+s82 - s58 + 110z82z58z1 <= 106.944519
+s82 - s67 + 110z82z67z1 <= 107.094582
+s82 - s30 + 110z82z30z1 <= 106.844772
+s82 - s83 + 110z82z83z1 <= 107.006104
+s82 - s15 + 110z82z15z1 <= 106.925606
+s82 - s15 + 110z82z15z2 <= 106.925606
+s82 - s84 + 110z82z84z1 <= 106.842163
+s82 - s8 + 110z82z8z1 <= 106.924850
+s82 - s59 + 110z82z59z1 <= 106.929977
+s82 - s19 + 110z82z19z2 <= 106.773735
+s94 - s0 + 110z94z1z1 <= 109.000000
+s94 - s0 + 110z94z1z2 <= 109.000000
+s94 - s82 + 110z94z82z1 <= 108.865372
+s94 - s82 + 110z94z82z2 <= 108.865372
+s94 - s75 + 110z94z75z2 <= 108.659966
+s94 - s87 + 110z94z87z2 <= 108.929291
+s94 - s101 + 110z94z101z1 <= 108.753777
+s94 - s101 + 110z94z101z2 <= 108.753777
+s94 - s60 + 110z94z60z1 <= 108.798447
+s94 - s78 + 110z94z78z2 <= 108.824997
+s94 - s34 + 110z94z34z2 <= 108.804741
+s94 - s46 + 110z94z46z1 <= 108.738991
+s94 - s46 + 110z94z46z2 <= 108.738991
+s94 - s11 + 110z94z11z2 <= 108.723869
+s94 - s14 + 110z94z14z2 <= 108.679840
+s94 - s96 + 110z94z96z2 <= 108.539024
+s94 - s33 + 110z94z33z1 <= 108.395332
+s94 - s68 + 110z94z68z2 <= 108.136505
+s94 - s61 + 110z94z61z1 <= 107.786278
+s94 - s61 + 110z94z61z2 <= 107.786278
+s94 - s31 + 110z94z31z1 <= 107.784988
+s94 - s31 + 110z94z31z2 <= 107.784988
+s94 - s43 + 110z94z43z1 <= 107.437149
+s94 - s43 + 110z94z43z2 <= 107.437149
+s94 - s73 + 110z94z73z2 <= 107.661621
+s94 - s37 + 110z94z37z1 <= 107.512344
+s94 - s37 + 110z94z37z2 <= 107.512344
+s94 - s100 + 110z94z100z2 <= 107.549782
+s94 - s71 + 110z94z71z1 <= 107.523094
+s94 - s25 + 110z94z25z1 <= 107.479927
+s94 - s64 + 110z94z64z1 <= 107.443962
+s94 - s64 + 110z94z64z2 <= 107.443962
+s94 - s63 + 110z94z63z1 <= 107.320343
+s94 - s93 + 110z94z93z1 <= 107.424210
+s94 - s65 + 110z94z65z2 <= 107.324814
+s94 - s69 + 110z94z69z1 <= 107.377884
+s94 - s69 + 110z94z69z2 <= 107.377884
+s94 - s47 + 110z94z47z1 <= 107.356453
+s94 - s35 + 110z94z35z1 <= 107.277901
+s94 - s35 + 110z94z35z2 <= 107.277901
+s94 - s7 + 110z94z7z1 <= 107.021049
+s94 - s7 + 110z94z7z2 <= 107.021049
+s94 - s53 + 110z94z53z1 <= 107.284447
+s94 - s50 + 110z94z50z2 <= 107.289734
+s94 - s29 + 110z94z29z1 <= 107.148483
+s94 - s29 + 110z94z29z2 <= 107.148483
+s94 - s3 + 110z94z3z1 <= 106.827873
+s94 - s58 + 110z94z58z1 <= 107.072403
+s94 - s67 + 110z94z67z1 <= 107.158463
+s94 - s30 + 110z94z30z1 <= 106.782883
+s94 - s83 + 110z94z83z1 <= 107.086235
+s94 - s15 + 110z94z15z1 <= 106.899704
+s94 - s15 + 110z94z15z2 <= 106.899704
+s94 - s84 + 110z94z84z1 <= 106.810677
+s94 - s8 + 110z94z8z1 <= 107.002968
+s94 - s59 + 110z94z59z1 <= 106.996094
+s94 - s19 + 110z94z19z2 <= 106.899849
+s75 - s0 + 110z75z1z2 <= 109.000000
+s75 - s82 + 110z75z82z2 <= 108.762833
+s75 - s94 + 110z75z94z2 <= 108.659966
+s75 - s87 + 110z75z87z2 <= 108.663658
+s75 - s101 + 110z75z101z2 <= 108.888199
+s75 - s78 + 110z75z78z2 <= 108.534973
+s75 - s34 + 110z75z34z2 <= 108.651787
+s75 - s46 + 110z75z46z2 <= 108.429909
+s75 - s11 + 110z75z11z2 <= 108.775002
+s75 - s14 + 110z75z14z2 <= 108.599220
+s75 - s96 + 110z75z96z2 <= 108.326851
+s75 - s68 + 110z75z68z2 <= 108.257538
+s75 - s61 + 110z75z61z2 <= 107.718887
+s75 - s31 + 110z75z31z2 <= 107.741776
+s75 - s43 + 110z75z43z2 <= 107.724998
+s75 - s73 + 110z75z73z2 <= 107.743767
+s75 - s37 + 110z75z37z2 <= 107.644920
+s75 - s100 + 110z75z100z2 <= 107.509613
+s75 - s64 + 110z75z64z2 <= 107.467644
+s75 - s65 + 110z75z65z2 <= 107.108406
+s75 - s69 + 110z75z69z2 <= 107.299820
+s75 - s35 + 110z75z35z2 <= 107.099998
+s75 - s7 + 110z75z7z2 <= 107.298347
+s75 - s50 + 110z75z50z2 <= 107.267044
+s75 - s29 + 110z75z29z2 <= 107.232231
+s75 - s15 + 110z75z15z2 <= 107.125000
+s75 - s19 + 110z75z19z2 <= 106.680519
+s87 - s0 + 110z87z1z2 <= 109.000000
+s87 - s0 + 110z87z1z3 <= 109.000000
+s87 - s82 + 110z87z82z2 <= 108.824997
+s87 - s94 + 110z87z94z2 <= 108.929291
+s87 - s75 + 110z87z75z2 <= 108.663658
+s87 - s101 + 110z87z101z2 <= 108.769508
+s87 - s101 + 110z87z101z3 <= 108.769508
+s87 - s60 + 110z87z60z3 <= 108.832298
+s87 - s78 + 110z87z78z2 <= 108.865372
+s87 - s78 + 110z87z78z3 <= 108.865372
+s87 - s34 + 110z87z34z2 <= 108.875000
+s87 - s34 + 110z87z34z3 <= 108.875000
+s87 - s46 + 110z87z46z2 <= 108.764153
+s87 - s11 + 110z87z11z2 <= 108.773613
+s87 - s14 + 110z87z14z2 <= 108.750000
+s87 - s97 + 110z87z97z3 <= 108.428818
+s87 - s13 + 110z87z13z3 <= 108.694839
+s87 - s96 + 110z87z96z2 <= 108.596886
+s87 - s51 + 110z87z51z3 <= 108.593033
+s87 - s74 + 110z87z74z3 <= 108.438194
+s87 - s68 + 110z87z68z2 <= 108.201172
+s87 - s68 + 110z87z68z3 <= 108.201172
+s87 - s17 + 110z87z17z3 <= 108.014793
+s87 - s61 + 110z87z61z2 <= 107.855171
+s87 - s31 + 110z87z31z2 <= 107.854904
+s87 - s31 + 110z87z31z3 <= 107.854904
+s87 - s43 + 110z87z43z2 <= 107.479309
+s87 - s62 + 110z87z62z3 <= 107.754509
+s87 - s73 + 110z87z73z2 <= 107.730652
+s87 - s73 + 110z87z73z3 <= 107.730652
+s87 - s95 + 110z87z95z3 <= 107.717178
+s87 - s37 + 110z87z37z2 <= 107.578514
+s87 - s100 + 110z87z100z2 <= 107.619553
+s87 - s25 + 110z87z25z3 <= 107.549782
+s87 - s64 + 110z87z64z2 <= 107.514656
+s87 - s64 + 110z87z64z3 <= 107.514656
+s87 - s63 + 110z87z63z3 <= 107.380974
+s87 - s93 + 110z87z93z3 <= 107.494804
+s87 - s65 + 110z87z65z2 <= 107.374809
+s87 - s65 + 110z87z65z3 <= 107.374809
+s87 - s69 + 110z87z69z2 <= 107.445572
+s87 - s69 + 110z87z69z3 <= 107.445572
+s87 - s47 + 110z87z47z3 <= 107.423218
+s87 - s35 + 110z87z35z2 <= 107.334732
+s87 - s7 + 110z87z7z2 <= 107.067062
+s87 - s7 + 110z87z7z3 <= 107.067062
+s87 - s53 + 110z87z53z3 <= 107.355118
+s87 - s50 + 110z87z50z2 <= 107.359879
+s87 - s29 + 110z87z29z2 <= 107.217972
+s87 - s29 + 110z87z29z3 <= 107.217972
+s87 - s3 + 110z87z3z3 <= 106.865608
+s87 - s30 + 110z87z30z3 <= 106.825577
+s87 - s83 + 110z87z83z3 <= 107.155411
+s87 - s15 + 110z87z15z2 <= 106.956413
+s87 - s59 + 110z87z59z3 <= 107.066574
+s87 - s19 + 110z87z19z2 <= 106.948631
+s101 - s0 + 110z101z1z1 <= 109.000000
+s101 - s0 + 110z101z1z2 <= 109.000000
+s101 - s0 + 110z101z1z3 <= 109.000000
+s101 - s82 + 110z101z82z1 <= 108.823227
+s101 - s82 + 110z101z82z2 <= 108.823227
+s101 - s94 + 110z101z94z1 <= 108.753777
+s101 - s94 + 110z101z94z2 <= 108.753777
+s101 - s75 + 110z101z75z2 <= 108.888199
+s101 - s87 + 110z101z87z2 <= 108.769508
+s101 - s87 + 110z101z87z3 <= 108.769508
+s101 - s60 + 110z101z60z1 <= 108.920944
+s101 - s60 + 110z101z60z3 <= 108.920944
+s101 - s78 + 110z101z78z2 <= 108.644684
+s101 - s78 + 110z101z78z3 <= 108.644684
+s101 - s34 + 110z101z34z2 <= 108.762833
+s101 - s34 + 110z101z34z3 <= 108.762833
+s101 - s46 + 110z101z46z1 <= 108.539024
+s101 - s46 + 110z101z46z2 <= 108.539024
+s101 - s11 + 110z101z11z2 <= 108.865372
+s101 - s14 + 110z101z14z2 <= 108.698959
+s101 - s97 + 110z101z97z3 <= 108.642052
+s101 - s13 + 110z101z13z3 <= 108.666458
+s101 - s96 + 110z101z96z2 <= 108.435974
+s101 - s51 + 110z101z51z3 <= 108.556999
+s101 - s33 + 110z101z33z1 <= 108.370514
+s101 - s74 + 110z101z74z3 <= 108.324539
+s101 - s68 + 110z101z68z2 <= 108.284981
+s101 - s68 + 110z101z68z3 <= 108.284981
+s101 - s17 + 110z101z17z3 <= 108.042793
+s101 - s61 + 110z101z61z1 <= 107.797401
+s101 - s61 + 110z101z61z2 <= 107.797401
+s101 - s31 + 110z101z31z1 <= 107.814407
+s101 - s31 + 110z101z31z2 <= 107.814407
+s101 - s31 + 110z101z31z3 <= 107.814407
+s101 - s43 + 110z101z43z1 <= 107.671234
+s101 - s43 + 110z101z43z2 <= 107.671234
+s101 - s62 + 110z101z62z3 <= 107.777046
+s101 - s73 + 110z101z73z2 <= 107.779091
+s101 - s73 + 110z101z73z3 <= 107.779091
+s101 - s95 + 110z101z95z3 <= 107.667236
+s101 - s37 + 110z101z37z1 <= 107.661621
+s101 - s37 + 110z101z37z2 <= 107.661621
+s101 - s100 + 110z101z100z2 <= 107.580055
+s101 - s71 + 110z101z71z1 <= 107.545479
+s101 - s25 + 110z101z25z1 <= 107.585785
+s101 - s25 + 110z101z25z3 <= 107.585785
+s101 - s64 + 110z101z64z1 <= 107.519920
+s101 - s64 + 110z101z64z2 <= 107.519920
+s101 - s64 + 110z101z64z3 <= 107.519920
+s101 - s63 + 110z101z63z1 <= 107.504799
+s101 - s63 + 110z101z63z3 <= 107.504799
+s101 - s93 + 110z101z93z1 <= 107.481369
+s101 - s93 + 110z101z93z3 <= 107.481369
+s101 - s65 + 110z101z65z2 <= 107.213768
+s101 - s65 + 110z101z65z3 <= 107.213768
+s101 - s69 + 110z101z69z1 <= 107.378853
+s101 - s69 + 110z101z69z2 <= 107.378853
+s101 - s69 + 110z101z69z3 <= 107.378853
+s101 - s47 + 110z101z47z1 <= 107.347542
+s101 - s47 + 110z101z47z3 <= 107.347542
+s101 - s35 + 110z101z35z1 <= 107.199303
+s101 - s35 + 110z101z35z2 <= 107.199303
+s101 - s7 + 110z101z7z1 <= 107.249825
+s101 - s7 + 110z101z7z2 <= 107.249825
+s101 - s7 + 110z101z7z3 <= 107.249825
+s101 - s53 + 110z101z53z1 <= 107.349243
+s101 - s53 + 110z101z53z3 <= 107.349243
+s101 - s50 + 110z101z50z2 <= 107.331726
+s101 - s29 + 110z101z29z1 <= 107.264343
+s101 - s29 + 110z101z29z2 <= 107.264343
+s101 - s29 + 110z101z29z3 <= 107.264343
+s101 - s3 + 110z101z3z1 <= 107.068031
+s101 - s3 + 110z101z3z3 <= 107.068031
+s101 - s58 + 110z101z58z1 <= 106.949089
+s101 - s67 + 110z101z67z1 <= 107.217972
+s101 - s30 + 110z101z30z1 <= 107.017265
+s101 - s30 + 110z101z30z3 <= 107.017265
+s101 - s83 + 110z101z83z1 <= 107.110390
+s101 - s83 + 110z101z83z3 <= 107.110390
+s101 - s15 + 110z101z15z1 <= 107.101807
+s101 - s15 + 110z101z15z2 <= 107.101807
+s101 - s84 + 110z101z84z1 <= 107.018837
+s101 - s8 + 110z101z8z1 <= 107.032135
+s101 - s59 + 110z101z59z1 <= 107.051605
+s101 - s59 + 110z101z59z3 <= 107.051605
+s101 - s19 + 110z101z19z2 <= 106.785843
+s60 - s0 + 110z60z1z1 <= 109.000000
+s60 - s0 + 110z60z1z3 <= 109.000000
+s60 - s82 + 110z60z82z1 <= 108.819725
+s60 - s94 + 110z60z94z1 <= 108.798447
+s60 - s87 + 110z60z87z3 <= 108.832298
+s60 - s101 + 110z60z101z1 <= 108.920944
+s60 - s101 + 110z60z101z3 <= 108.920944
+s60 - s78 + 110z60z78z3 <= 108.717155
+s60 - s34 + 110z60z34z3 <= 108.841888
+s60 - s46 + 110z60z46z1 <= 108.611092
+s60 - s97 + 110z60z97z3 <= 108.596115
+s60 - s13 + 110z60z13z3 <= 108.730743
+s60 - s51 + 110z60z51z3 <= 108.619209
+s60 - s33 + 110z60z33z1 <= 108.440987
+s60 - s74 + 110z60z74z3 <= 108.397919
+s60 - s68 + 110z60z68z3 <= 108.305374
+s60 - s17 + 110z60z17z3 <= 108.080765
+s60 - s61 + 110z60z61z1 <= 107.857635
+s60 - s31 + 110z60z31z1 <= 107.870567
+s60 - s31 + 110z60z31z3 <= 107.870567
+s60 - s43 + 110z60z43z1 <= 107.638702
+s60 - s62 + 110z60z62z3 <= 107.815468
+s60 - s73 + 110z60z73z3 <= 107.809151
+s60 - s95 + 110z60z95z3 <= 107.725243
+s60 - s37 + 110z60z37z1 <= 107.679016
+s60 - s71 + 110z60z71z1 <= 107.602455
+s60 - s25 + 110z60z25z1 <= 107.619331
+s60 - s25 + 110z60z25z3 <= 107.619331
+s60 - s64 + 110z60z64z1 <= 107.562775
+s60 - s64 + 110z60z64z3 <= 107.562775
+s60 - s63 + 110z60z63z1 <= 107.505638
+s60 - s63 + 110z60z63z3 <= 107.505638
+s60 - s93 + 110z60z93z1 <= 107.529457
+s60 - s93 + 110z60z93z3 <= 107.529457
+s60 - s65 + 110z60z65z3 <= 107.291016
+s60 - s69 + 110z60z69z1 <= 107.440155
+s60 - s69 + 110z60z69z3 <= 107.440155
+s60 - s47 + 110z60z47z1 <= 107.410782
+s60 - s47 + 110z60z47z3 <= 107.410782
+s60 - s35 + 110z60z35z1 <= 107.273369
+s60 - s7 + 110z60z7z1 <= 107.222183
+s60 - s7 + 110z60z7z3 <= 107.222183
+s60 - s53 + 110z60z53z1 <= 107.394928
+s60 - s53 + 110z60z53z3 <= 107.394928
+s60 - s29 + 110z60z29z1 <= 107.293762
+s60 - s29 + 110z60z29z3 <= 107.293762
+s60 - s3 + 110z60z3z1 <= 107.028641
+s60 - s3 + 110z60z3z3 <= 107.028641
+s60 - s58 + 110z60z58z1 <= 107.027061
+s60 - s67 + 110z60z67z1 <= 107.264885
+s60 - s30 + 110z60z30z1 <= 106.984436
+s60 - s30 + 110z60z30z3 <= 106.984436
+s60 - s83 + 110z60z83z1 <= 107.166115
+s60 - s83 + 110z60z83z3 <= 107.166115
+s60 - s15 + 110z60z15z1 <= 107.092613
+s60 - s84 + 110z60z84z1 <= 107.005943
+s60 - s8 + 110z60z8z1 <= 107.086563
+s60 - s59 + 110z60z59z1 <= 107.099342
+s60 - s59 + 110z60z59z3 <= 107.099342
+s78 - s0 + 110z78z1z2 <= 109.000000
+s78 - s0 + 110z78z1z3 <= 109.000000
+s78 - s94 + 110z78z94z2 <= 108.824997
+s78 - s75 + 110z78z75z2 <= 108.534973
+s78 - s87 + 110z78z87z2 <= 108.865372
+s78 - s87 + 110z78z87z3 <= 108.865372
+s78 - s101 + 110z78z101z2 <= 108.644684
+s78 - s101 + 110z78z101z3 <= 108.644684
+s78 - s60 + 110z78z60z3 <= 108.717155
+s78 - s34 + 110z78z34z2 <= 108.841888
+s78 - s34 + 110z78z34z3 <= 108.841888
+s78 - s46 + 110z78z46z2 <= 108.893936
+s78 - s11 + 110z78z11z2 <= 108.686752
+s78 - s14 + 110z78z14z2 <= 108.748756
+s78 - s97 + 110z78z97z3 <= 108.326851
+s78 - s13 + 110z78z13z3 <= 108.695862
+s78 - s96 + 110z78z96z2 <= 108.707382
+s78 - s51 + 110z78z51z3 <= 108.619209
+s78 - s74 + 110z78z74z3 <= 108.528297
+s78 - s68 + 110z78z68z2 <= 108.186058
+s78 - s68 + 110z78z68z3 <= 108.186058
+s78 - s17 + 110z78z17z3 <= 108.038231
+s78 - s61 + 110z78z61z2 <= 107.929955
+s78 - s31 + 110z78z31z2 <= 107.920357
+s78 - s31 + 110z78z31z3 <= 107.920357
+s78 - s43 + 110z78z43z2 <= 107.405281
+s78 - s62 + 110z78z62z3 <= 107.786278
+s78 - s73 + 110z78z73z2 <= 107.747749
+s78 - s73 + 110z78z73z3 <= 107.747749
+s78 - s95 + 110z78z95z3 <= 107.789627
+s78 - s37 + 110z78z37z2 <= 107.576973
+s78 - s100 + 110z78z100z2 <= 107.687561
+s78 - s25 + 110z78z25z3 <= 107.576538
+s78 - s64 + 110z78z64z2 <= 107.559296
+s78 - s64 + 110z78z64z3 <= 107.559296
+s78 - s63 + 110z78z63z3 <= 107.355881
+s78 - s93 + 110z78z93z3 <= 107.550003
+s78 - s65 + 110z78z65z2 <= 107.499794
+s78 - s65 + 110z78z65z3 <= 107.499794
+s78 - s69 + 110z78z69z2 <= 107.529243
+s78 - s69 + 110z78z69z3 <= 107.529243
+s78 - s47 + 110z78z47z3 <= 107.511505
+s78 - s35 + 110z78z35z2 <= 107.450401
+s78 - s7 + 110z78z7z2 <= 107.002342
+s78 - s7 + 110z78z7z3 <= 107.002342
+s78 - s53 + 110z78z53z3 <= 107.407440
+s78 - s50 + 110z78z50z2 <= 107.424210
+s78 - s29 + 110z78z29z2 <= 107.241806
+s78 - s29 + 110z78z29z3 <= 107.241806
+s78 - s3 + 110z78z3z3 <= 106.784996
+s78 - s30 + 110z78z30z3 <= 106.754448
+s78 - s83 + 110z78z83z3 <= 107.229935
+s78 - s15 + 110z78z15z2 <= 106.919586
+s78 - s59 + 110z78z59z3 <= 107.125832
+s78 - s19 + 110z78z19z2 <= 107.074837
+s34 - s0 + 110z34z1z2 <= 109.000000
+s34 - s0 + 110z34z1z3 <= 109.000000
+s34 - s94 + 110z34z94z2 <= 108.804741
+s34 - s75 + 110z34z75z2 <= 108.651787
+s34 - s87 + 110z34z87z2 <= 108.875000
+s34 - s87 + 110z34z87z3 <= 108.875000
+s34 - s101 + 110z34z101z2 <= 108.762833
+s34 - s101 + 110z34z101z3 <= 108.762833
+s34 - s60 + 110z34z60z3 <= 108.841888
+s34 - s78 + 110z34z78z2 <= 108.841888
+s34 - s78 + 110z34z78z3 <= 108.841888
+s34 - s46 + 110z34z46z2 <= 108.742607
+s34 - s11 + 110z34z11z2 <= 108.839920
+s34 - s14 + 110z34z14z2 <= 108.875000
+s34 - s97 + 110z34z97z3 <= 108.479782
+s34 - s13 + 110z34z13z3 <= 108.819725
+s34 - s96 + 110z34z96z2 <= 108.671173
+s34 - s51 + 110z34z51z3 <= 108.717155
+s34 - s74 + 110z34z74z3 <= 108.539024
+s34 - s68 + 110z34z68z2 <= 108.319923
+s34 - s68 + 110z34z68z3 <= 108.319923
+s34 - s17 + 110z34z17z3 <= 108.139771
+s34 - s61 + 110z34z61z2 <= 107.970436
+s34 - s31 + 110z34z31z2 <= 107.973778
+s34 - s31 + 110z34z31z3 <= 107.973778
+s34 - s43 + 110z34z43z2 <= 107.562775
+s34 - s62 + 110z34z62z3 <= 107.879456
+s34 - s73 + 110z34z73z2 <= 107.855171
+s34 - s73 + 110z34z73z3 <= 107.855171
+s34 - s95 + 110z34z95z3 <= 107.833809
+s34 - s37 + 110z34z37z2 <= 107.699997
+s34 - s100 + 110z34z100z2 <= 107.738060
+s34 - s25 + 110z34z25z3 <= 107.674767
+s34 - s64 + 110z34z64z2 <= 107.638702
+s34 - s64 + 110z34z64z3 <= 107.638702
+s34 - s63 + 110z34z63z3 <= 107.494804
+s34 - s93 + 110z34z93z3 <= 107.617065
+s34 - s65 + 110z34z65z2 <= 107.444969
+s34 - s65 + 110z34z65z3 <= 107.444969
+s34 - s69 + 110z34z69z2 <= 107.557564
+s34 - s69 + 110z34z69z3 <= 107.557564
+s34 - s47 + 110z34z47z3 <= 107.532646
+s34 - s35 + 110z34z35z2 <= 107.420044
+s34 - s7 + 110z34z7z2 <= 107.157959
+s34 - s7 + 110z34z7z3 <= 107.157959
+s34 - s53 + 110z34z53z3 <= 107.478073
+s34 - s50 + 110z34z50z2 <= 107.479927
+s34 - s29 + 110z34z29z2 <= 107.342819
+s34 - s29 + 110z34z29z3 <= 107.342819
+s34 - s3 + 110z34z3z3 <= 106.943001
+s34 - s30 + 110z34z30z3 <= 106.911339
+s34 - s83 + 110z34z83z3 <= 107.272102
+s34 - s15 + 110z34z15z2 <= 107.064636
+s34 - s59 + 110z34z59z3 <= 107.188232
+s34 - s19 + 110z34z19z2 <= 107.017265
+s46 - s0 + 110z46z1z1 <= 109.000000
+s46 - s0 + 110z46z1z2 <= 109.000000
+s46 - s87 + 110z46z87z2 <= 108.764153
+s46 - s101 + 110z46z101z1 <= 108.539024
+s46 - s101 + 110z46z101z2 <= 108.539024
+s46 - s60 + 110z46z60z1 <= 108.611092
+s46 - s78 + 110z46z78z2 <= 108.893936
+s46 - s34 + 110z46z34z2 <= 108.742607
+s46 - s11 + 110z46z11z2 <= 108.583916
+s46 - s14 + 110z46z14z2 <= 108.671173
+s46 - s96 + 110z46z96z2 <= 108.734245
+s46 - s33 + 110z46z33z1 <= 108.534973
+s46 - s68 + 110z46z68z2 <= 108.121788
+s46 - s61 + 110z46z61z1 <= 107.938751
+s46 - s61 + 110z46z61z2 <= 107.938751
+s46 - s31 + 110z46z31z1 <= 107.920357
+s46 - s31 + 110z46z31z2 <= 107.920357
+s46 - s43 + 110z46z43z1 <= 107.313843
+s46 - s43 + 110z46z43z2 <= 107.313843
+s46 - s73 + 110z46z73z2 <= 107.709412
+s46 - s37 + 110z46z37z1 <= 107.526482
+s46 - s37 + 110z46z37z2 <= 107.526482
+s46 - s100 + 110z46z100z2 <= 107.691849
+s46 - s71 + 110z46z71z1 <= 107.673111
+s46 - s25 + 110z46z25z1 <= 107.546555
+s46 - s64 + 110z46z64z1 <= 107.543762
+s46 - s64 + 110z46z64z2 <= 107.543762
+s46 - s63 + 110z46z63z1 <= 107.291016
+s46 - s93 + 110z46z93z1 <= 107.543549
+s46 - s65 + 110z46z65z2 <= 107.571495
+s46 - s69 + 110z46z69z1 <= 107.549782
+s46 - s69 + 110z46z69z2 <= 107.549782
+s46 - s47 + 110z46z47z1 <= 107.536911
+s46 - s35 + 110z46z35z1 <= 107.508354
+s46 - s35 + 110z46z35z2 <= 107.508354
+s46 - s7 + 110z46z7z1 <= 106.915985
+s46 - s7 + 110z46z7z2 <= 106.915985
+s46 - s53 + 110z46z53z1 <= 107.399216
+s46 - s50 + 110z46z50z2 <= 107.426590
+s46 - s29 + 110z46z29z1 <= 107.211143
+s46 - s29 + 110z46z29z2 <= 107.211143
+s46 - s3 + 110z46z3z1 <= 106.691322
+s46 - s58 + 110z46z58z1 <= 107.324814
+s46 - s67 + 110z46z67z1 <= 107.280807
+s46 - s30 + 110z46z30z1 <= 106.665207
+s46 - s83 + 110z46z83z1 <= 107.242691
+s46 - s15 + 110z46z15z1 <= 106.848694
+s46 - s15 + 110z46z15z2 <= 106.848694
+s46 - s84 + 110z46z84z1 <= 106.750000
+s46 - s8 + 110z46z8z1 <= 107.156090
+s46 - s59 + 110z46z59z1 <= 107.124832
+s46 - s19 + 110z46z19z2 <= 107.149323
+s11 - s0 + 110z11z1z2 <= 109.000000
+s11 - s75 + 110z11z75z2 <= 108.775002
+s11 - s87 + 110z11z87z2 <= 108.773613
+s11 - s101 + 110z11z101z2 <= 108.865372
+s11 - s78 + 110z11z78z2 <= 108.686752
+s11 - s34 + 110z11z34z2 <= 108.839920
+s11 - s46 + 110z11z46z2 <= 108.583916
+s11 - s14 + 110z11z14z2 <= 108.823227
+s11 - s96 + 110z11z96z2 <= 108.540382
+s11 - s68 + 110z11z68z2 <= 108.395332
+s11 - s61 + 110z11z61z2 <= 107.931999
+s11 - s31 + 110z11z31z2 <= 107.948807
+s11 - s43 + 110z11z43z2 <= 107.705299
+s11 - s73 + 110z11z73z2 <= 107.898865
+s11 - s37 + 110z11z37z2 <= 107.768890
+s11 - s100 + 110z11z100z2 <= 107.714264
+s11 - s64 + 110z11z64z2 <= 107.649071
+s11 - s65 + 110z11z65z2 <= 107.331169
+s11 - s69 + 110z11z69z2 <= 107.513390
+s11 - s35 + 110z11z35z2 <= 107.324997
+s11 - s7 + 110z11z7z2 <= 107.293396
+s11 - s50 + 110z11z50z2 <= 107.464989
+s11 - s29 + 110z11z29z2 <= 107.383484
+s11 - s15 + 110z11z15z2 <= 107.175171
+s11 - s19 + 110z11z19z2 <= 106.903427
+s14 - s0 + 110z14z1z2 <= 109.000000
+s14 - s78 + 110z14z78z2 <= 108.748756
+s14 - s34 + 110z14z34z2 <= 108.875000
+s14 - s46 + 110z14z46z2 <= 108.671173
+s14 - s11 + 110z14z11z2 <= 108.823227
+s14 - s96 + 110z14z96z2 <= 108.708450
+s14 - s68 + 110z14z68z2 <= 108.435974
+s14 - s61 + 110z14z61z2 <= 108.083145
+s14 - s31 + 110z14z31z2 <= 108.091019
+s14 - s43 + 110z14z43z2 <= 107.639854
+s14 - s73 + 110z14z73z2 <= 107.979584
+s14 - s37 + 110z14z37z2 <= 107.820755
+s14 - s100 + 110z14z100z2 <= 107.855171
+s14 - s64 + 110z14z64z2 <= 107.762566
+s14 - s65 + 110z14z65z2 <= 107.507935
+s14 - s69 + 110z14z69z2 <= 107.667236
+s14 - s35 + 110z14z35z2 <= 107.499794
+s14 - s7 + 110z14z7z2 <= 107.244652
+s14 - s50 + 110z14z50z2 <= 107.599106
+s14 - s29 + 110z14z29z2 <= 107.467644
+s14 - s15 + 110z14z15z2 <= 107.170723
+s14 - s19 + 110z14z19z2 <= 107.080200
+s97 - s0 + 110z97z1z3 <= 109.000000
+s97 - s13 + 110z97z13z3 <= 108.514587
+s97 - s51 + 110z97z51z3 <= 108.451706
+s97 - s74 + 110z97z74z3 <= 108.182610
+s97 - s68 + 110z97z68z3 <= 108.451706
+s97 - s17 + 110z97z17z3 <= 108.154053
+s97 - s31 + 110z97z31z3 <= 107.840256
+s97 - s62 + 110z97z62z3 <= 107.903412
+s97 - s73 + 110z97z73z3 <= 107.945251
+s97 - s95 + 110z97z95z3 <= 107.688271
+s97 - s25 + 110z97z25z3 <= 107.743767
+s97 - s64 + 110z97z64z3 <= 107.634354
+s97 - s63 + 110z97z63z3 <= 107.790665
+s97 - s93 + 110z97z93z3 <= 107.568871
+s97 - s65 + 110z97z65z3 <= 107.069977
+s97 - s69 + 110z97z69z3 <= 107.387550
+s97 - s47 + 110z97z47z3 <= 107.343193
+s97 - s7 + 110z97z7z3 <= 107.599106
+s97 - s53 + 110z97z53z3 <= 107.453835
+s97 - s29 + 110z97z29z3 <= 107.449799
+s97 - s3 + 110z97z3z3 <= 107.425797
+s97 - s30 + 110z97z30z3 <= 107.371925
+s97 - s83 + 110z97z83z3 <= 107.162544
+s97 - s59 + 110z97z59z3 <= 107.151855
+s13 - s0 + 110z13z1z3 <= 109.000000
+s13 - s34 + 110z13z34z3 <= 108.819725
+s13 - s97 + 110z13z97z3 <= 108.514587
+s13 - s51 + 110z13z51z3 <= 108.888199
+s13 - s74 + 110z13z74z3 <= 108.646446
+s13 - s68 + 110z13z68z3 <= 108.490097
+s13 - s17 + 110z13z17z3 <= 108.319923
+s13 - s31 + 110z13z31z3 <= 108.137955
+s13 - s62 + 110z13z62z3 <= 108.058922
+s13 - s73 + 110z13z73z3 <= 108.035309
+s13 - s95 + 110z13z95z3 <= 107.993767
+s13 - s25 + 110z13z25z3 <= 107.854904
+s13 - s64 + 110z13z64z3 <= 107.815468
+s13 - s63 + 110z13z63z3 <= 107.659988
+s13 - s93 + 110z13z93z3 <= 107.789627
+s13 - s65 + 110z13z65z3 <= 107.524155
+s13 - s69 + 110z13z69z3 <= 107.709412
+s13 - s47 + 110z13z47z3 <= 107.679726
+s13 - s7 + 110z13z7z3 <= 107.288826
+s13 - s53 + 110z13z53z3 <= 107.652313
+s13 - s29 + 110z13z29z3 <= 107.523094
+s13 - s3 + 110z13z3z3 <= 107.054169
+s13 - s30 + 110z13z30z3 <= 107.035309
+s13 - s83 + 110z13z83z3 <= 107.433754
+s13 - s59 + 110z13z59z3 <= 107.359879
+s96 - s0 + 110z96z1z2 <= 109.000000
+s96 - s14 + 110z96z14z2 <= 108.708450
+s96 - s68 + 110z96z68z2 <= 108.288925
+s96 - s61 + 110z96z61z2 <= 108.204308
+s96 - s31 + 110z96z31z2 <= 108.183762
+s96 - s43 + 110z96z43z2 <= 107.410973
+s96 - s73 + 110z96z73z2 <= 107.938751
+s96 - s37 + 110z96z37z2 <= 107.737808
+s96 - s100 + 110z96z100z2 <= 107.956871
+s96 - s64 + 110z96z64z2 <= 107.799477
+s96 - s65 + 110z96z65z2 <= 107.772705
+s96 - s69 + 110z96z69z2 <= 107.814148
+s96 - s35 + 110z96z35z2 <= 107.737808
+s96 - s7 + 110z96z7z2 <= 107.038811
+s96 - s50 + 110z96z50z2 <= 107.691376
+s96 - s29 + 110z96z29z2 <= 107.453835
+s96 - s15 + 110z96z15z2 <= 107.021049
+s96 - s19 + 110z96z19z2 <= 107.345268
+s51 - s0 + 110z51z1z3 <= 109.000000
+s51 - s13 + 110z51z13z3 <= 108.888199
+s51 - s74 + 110z51z74z3 <= 108.730743
+s51 - s68 + 110z51z68z3 <= 108.550003
+s51 - s17 + 110z51z17z3 <= 108.416908
+s51 - s31 + 110z51z31z3 <= 108.249580
+s51 - s62 + 110z51z62z3 <= 108.159988
+s51 - s73 + 110z51z73z3 <= 108.127861
+s51 - s95 + 110z51z95z3 <= 108.105576
+s51 - s25 + 110z51z25z3 <= 107.952980
+s51 - s64 + 110z51z64z3 <= 107.921516
+s51 - s63 + 110z51z63z3 <= 107.721085
+s51 - s93 + 110z51z93z3 <= 107.898865
+s51 - s65 + 110z51z65z3 <= 107.611427
+s51 - s69 + 110z51z69z3 <= 107.820755
+s51 - s47 + 110z51z47z3 <= 107.790405
+s51 - s7 + 110z51z7z3 <= 107.313843
+s51 - s53 + 110z51z53z3 <= 107.760544
+s51 - s29 + 110z51z29z3 <= 107.619331
+s51 - s3 + 110z51z3z3 <= 107.063187
+s51 - s30 + 110z51z30z3 <= 107.055138
+s51 - s83 + 110z51z83z3 <= 107.545479
+s51 - s59 + 110z51z59z3 <= 107.469475
+s33 - s0 + 110z33z1z1 <= 109.000000
+s33 - s61 + 110z33z61z1 <= 108.389671
+s33 - s31 + 110z33z31z1 <= 108.381027
+s33 - s43 + 110z33z43z1 <= 107.554962
+s33 - s37 + 110z33z37z1 <= 107.945251
+s33 - s71 + 110z33z71z1 <= 108.125000
+s33 - s25 + 110z33z25z1 <= 108.001877
+s33 - s64 + 110z33z64z1 <= 108.008476
+s33 - s63 + 110z33z63z1 <= 107.671234
+s33 - s93 + 110z33z93z1 <= 108.007530
+s33 - s69 + 110z33z69z1 <= 107.982346
+s33 - s47 + 110z33z47z1 <= 107.959267
+s33 - s35 + 110z33z35z1 <= 107.824738
+s33 - s7 + 110z33z7z1 <= 107.203300
+s33 - s53 + 110z33z53z1 <= 107.863670
+s33 - s29 + 110z33z29z1 <= 107.667236
+s33 - s3 + 110z33z3z1 <= 106.930885
+s33 - s58 + 110z33z58z1 <= 107.543976
+s33 - s67 + 110z33z67z1 <= 107.743767
+s33 - s30 + 110z33z30z1 <= 106.938446
+s33 - s83 + 110z33z83z1 <= 107.689224
+s33 - s15 + 110z33z15z1 <= 107.213768
+s33 - s84 + 110z33z84z1 <= 107.104942
+s33 - s8 + 110z33z8z1 <= 107.604919
+s33 - s59 + 110z33z59z1 <= 107.585785
+s74 - s0 + 110z74z1z3 <= 109.000000
+s74 - s51 + 110z74z51z3 <= 108.730743
+s74 - s68 + 110z74z68z3 <= 108.395851
+s74 - s17 + 110z74z17z3 <= 108.397919
+s74 - s31 + 110z74z31z3 <= 108.379013
+s74 - s62 + 110z74z62z3 <= 108.185677
+s74 - s73 + 110z74z73z3 <= 108.112236
+s74 - s95 + 110z74z95z3 <= 108.256699
+s74 - s25 + 110z74z25z3 <= 107.972260
+s74 - s64 + 110z74z64z3 <= 107.992218
+s74 - s63 + 110z74z63z3 <= 107.616844
+s74 - s93 + 110z74z93z3 <= 108.000000
+s74 - s65 + 110z74z65z3 <= 107.877228
+s74 - s69 + 110z74z69z3 <= 108.000938
+s74 - s47 + 110z74z47z3 <= 107.982346
+s74 - s7 + 110z74z7z3 <= 107.138382
+s74 - s53 + 110z74z53z3 <= 107.854904
+s74 - s29 + 110z74z29z3 <= 107.639397
+s74 - s3 + 110z74z3z3 <= 106.863121
+s74 - s30 + 110z74z30z3 <= 106.872795
+s74 - s83 + 110z74z83z3 <= 107.699760
+s74 - s59 + 110z74z59z3 <= 107.584023
+s68 - s0 + 110z68z1z2 <= 109.000000
+s68 - s0 + 110z68z1z3 <= 109.000000
+s68 - s17 + 110z68z17z3 <= 108.695862
+s68 - s61 + 110z68z61z2 <= 108.284111
+s68 - s31 + 110z68z31z2 <= 108.345688
+s68 - s31 + 110z68z31z3 <= 108.345688
+s68 - s43 + 110z68z43z2 <= 108.084511
+s68 - s62 + 110z68z62z3 <= 108.451706
+s68 - s73 + 110z68z73z2 <= 108.484612
+s68 - s73 + 110z68z73z3 <= 108.484612
+s68 - s95 + 110z68z95z3 <= 108.198441
+s68 - s37 + 110z68z37z2 <= 108.373505
+s68 - s100 + 110z68z100z2 <= 108.148529
+s68 - s25 + 110z68z25z3 <= 108.284981
+s68 - s64 + 110z68z64z2 <= 108.182610
+s68 - s64 + 110z68z64z3 <= 108.182610
+s68 - s63 + 110z68z63z3 <= 108.168961
+s68 - s93 + 110z68z93z3 <= 108.113998
+s68 - s65 + 110z68z65z2 <= 107.443359
+s68 - s65 + 110z68z65z3 <= 107.443359
+s68 - s69 + 110z68z69z2 <= 107.899719
+s68 - s69 + 110z68z69z3 <= 107.899719
+s68 - s47 + 110z68z47z3 <= 107.847557
+s68 - s35 + 110z68z35z2 <= 107.528183
+s68 - s7 + 110z68z7z2 <= 107.741776
+s68 - s7 + 110z68z7z3 <= 107.741776
+s68 - s53 + 110z68z53z3 <= 108.001877
+s68 - s50 + 110z68z50z2 <= 107.944954
+s68 - s29 + 110z68z29z2 <= 107.974693
+s68 - s29 + 110z68z29z3 <= 107.974693
+s68 - s3 + 110z68z3z3 <= 107.464989
+s68 - s30 + 110z68z30z3 <= 107.476845
+s68 - s83 + 110z68z83z3 <= 107.700722
+s68 - s15 + 110z68z15z2 <= 107.724998
+s68 - s59 + 110z68z59z3 <= 107.699997
+s68 - s19 + 110z68z19z2 <= 107.042641
+s17 - s0 + 110z17z1z3 <= 109.000000
+s17 - s31 + 110z17z31z3 <= 108.628349
+s17 - s62 + 110z17z62z3 <= 108.734245
+s17 - s73 + 110z17z73z3 <= 108.707382
+s17 - s95 + 110z17z95z3 <= 108.490097
+s17 - s25 + 110z17z25z3 <= 108.534973
+s17 - s64 + 110z17z64z3 <= 108.472626
+s17 - s63 + 110z17z63z3 <= 108.199608
+s17 - s93 + 110z17z93z3 <= 108.414764
+s17 - s65 + 110z17z65z3 <= 107.664665
+s17 - s69 + 110z17z69z3 <= 108.196495
+s17 - s47 + 110z17z47z3 <= 108.140862
+s17 - s7 + 110z17z7z3 <= 107.647919
+s17 - s53 + 110z17z53z3 <= 108.295547
+s17 - s29 + 110z17z29z3 <= 108.202347
+s17 - s3 + 110z17z3z3 <= 107.332291
+s17 - s30 + 110z17z30z3 <= 107.377502
+s17 - s83 + 110z17z83z3 <= 108.004700
+s17 - s59 + 110z17z59z3 <= 107.993767
+s61 - s0 + 110z61z1z1 <= 109.000000
+s61 - s0 + 110z61z1z2 <= 109.000000
+s61 - s31 + 110z61z31z1 <= 108.909859
+s61 - s31 + 110z61z31z2 <= 108.909859
+s61 - s73 + 110z61z73z2 <= 108.438194
+s61 - s37 + 110z61z37z1 <= 108.193771
+s61 - s37 + 110z61z37z2 <= 108.193771
+s61 - s100 + 110z61z100z2 <= 108.750000
+s61 - s71 + 110z61z71z1 <= 108.734245
+s61 - s25 + 110z61z25z1 <= 108.411568
+s61 - s64 + 110z61z64z1 <= 108.522377
+s61 - s64 + 110z61z64z2 <= 108.522377
+s61 - s63 + 110z61z63z1 <= 107.855171
+s61 - s93 + 110z61z93z1 <= 108.572800
+s61 - s65 + 110z61z65z2 <= 108.098267
+s61 - s69 + 110z61z69z1 <= 108.580925
+s61 - s69 + 110z61z69z2 <= 108.580925
+s61 - s47 + 110z61z47z1 <= 108.543793
+s61 - s35 + 110z61z35z1 <= 108.227829
+s61 - s35 + 110z61z35z2 <= 108.227829
+s61 - s7 + 110z61z7z1 <= 107.245544
+s61 - s7 + 110z61z7z2 <= 107.245544
+s61 - s53 + 110z61z53z1 <= 108.428818
+s61 - s50 + 110z61z50z2 <= 108.484612
+s61 - s29 + 110z61z29z1 <= 108.124641
+s61 - s29 + 110z61z29z2 <= 108.124641
+s61 - s3 + 110z61z3z1 <= 106.914032
+s61 - s58 + 110z61z58z1 <= 107.828461
+s61 - s67 + 110z61z67z1 <= 108.326851
+s61 - s30 + 110z61z30z1 <= 106.977005
+s61 - s83 + 110z61z83z1 <= 108.299553
+s61 - s15 + 110z61z15z1 <= 107.412354
+s61 - s15 + 110z61z15z2 <= 107.412354
+s61 - s84 + 110z61z84z1 <= 107.289368
+s61 - s8 + 110z61z8z1 <= 108.214981
+s61 - s59 + 110z61z59z1 <= 108.179939
+s61 - s19 + 110z61z19z2 <= 107.730652
+s31 - s0 + 110z31z1z1 <= 109.000000
+s31 - s0 + 110z31z1z2 <= 109.000000
+s31 - s0 + 110z31z1z3 <= 109.000000
+s31 - s61 + 110z31z61z1 <= 108.909859
+s31 - s61 + 110z31z61z2 <= 108.909859
+s31 - s62 + 110z31z62z3 <= 108.664589
+s31 - s73 + 110z31z73z2 <= 108.528297
+s31 - s73 + 110z31z73z3 <= 108.528297
+s31 - s95 + 110z31z95z3 <= 108.847931
+s31 - s37 + 110z31z37z1 <= 108.283676
+s31 - s37 + 110z31z37z2 <= 108.283676
+s31 - s100 + 110z31z100z2 <= 108.764153
+s31 - s71 + 110z31z71z1 <= 108.730743
+s31 - s25 + 110z31z25z1 <= 108.494408
+s31 - s25 + 110z31z25z3 <= 108.494408
+s31 - s64 + 110z31z64z1 <= 108.587692
+s31 - s64 + 110z31z64z2 <= 108.587692
+s31 - s64 + 110z31z64z3 <= 108.587692
+s31 - s63 + 110z31z63z1 <= 107.945251
+s31 - s63 + 110z31z63z3 <= 107.945251
+s31 - s93 + 110z31z93z1 <= 108.618393
+s31 - s93 + 110z31z93z3 <= 108.618393
+s31 - s65 + 110z31z65z2 <= 108.010048
+s31 - s65 + 110z31z65z3 <= 108.010048
+s31 - s69 + 110z31z69z1 <= 108.547234
+s31 - s69 + 110z31z69z2 <= 108.547234
+s31 - s69 + 110z31z69z3 <= 108.547234
+s31 - s47 + 110z31z47z1 <= 108.500000
+s31 - s47 + 110z31z47z3 <= 108.500000
+s31 - s35 + 110z31z35z1 <= 108.146698
+s31 - s35 + 110z31z35z2 <= 108.146698
+s31 - s7 + 110z31z7z1 <= 107.334915
+s31 - s7 + 110z31z7z2 <= 107.334915
+s31 - s7 + 110z31z7z3 <= 107.334915
+s31 - s53 + 110z31z53z1 <= 108.472626
+s31 - s53 + 110z31z53z3 <= 108.472626
+s31 - s50 + 110z31z50z2 <= 108.503761
+s31 - s29 + 110z31z29z1 <= 108.196495
+s31 - s29 + 110z31z29z2 <= 108.196495
+s31 - s29 + 110z31z29z3 <= 108.196495
+s31 - s3 + 110z31z3z1 <= 107.002342
+s31 - s3 + 110z31z3z3 <= 107.002342
+s31 - s58 + 110z31z58z1 <= 107.741776
+s31 - s67 + 110z31z67z1 <= 108.359688
+s31 - s30 + 110z31z30z1 <= 107.066574
+s31 - s30 + 110z31z30z3 <= 107.066574
+s31 - s83 + 110z31z83z1 <= 108.295547
+s31 - s83 + 110z31z83z3 <= 108.295547
+s31 - s15 + 110z31z15z1 <= 107.501671
+s31 - s15 + 110z31z15z2 <= 107.501671
+s31 - s84 + 110z31z84z1 <= 107.378853
+s31 - s8 + 110z31z8z1 <= 108.215385
+s31 - s59 + 110z31z59z1 <= 108.204308
+s31 - s59 + 110z31z59z3 <= 108.204308
+s31 - s19 + 110z31z19z2 <= 107.647919
+s43 - s0 + 110z43z1z1 <= 109.000000
+s43 - s0 + 110z43z1z2 <= 109.000000
+s43 - s73 + 110z43z73z2 <= 107.982033
+s43 - s37 + 110z43z37z1 <= 108.151100
+s43 - s37 + 110z43z37z2 <= 108.151100
+s43 - s100 + 110z43z100z2 <= 107.457069
+s43 - s71 + 110z43z71z1 <= 107.401169
+s43 - s25 + 110z43z25z1 <= 107.852997
+s43 - s64 + 110z43z64z1 <= 107.656029
+s43 - s64 + 110z43z64z2 <= 107.656029
+s43 - s63 + 110z43z63z1 <= 108.370514
+s43 - s93 + 110z43z93z1 <= 107.536911
+s43 - s69 + 110z43z69z1 <= 107.199654
+s43 - s69 + 110z43z69z2 <= 107.199654
+s43 - s47 + 110z43z47z1 <= 107.132851
+s43 - s35 + 110z43z35z1 <= 106.711853
+s43 - s35 + 110z43z35z2 <= 106.711853
+s43 - s7 + 110z43z7z1 <= 108.568436
+s43 - s7 + 110z43z7z2 <= 108.568436
+s43 - s53 + 110z43z53z1 <= 107.502296
+s43 - s50 + 110z43z50z2 <= 107.371353
+s43 - s29 + 110z43z29z1 <= 107.749748
+s43 - s29 + 110z43z29z2 <= 107.749748
+s43 - s3 + 110z43z3z1 <= 108.373001
+s43 - s58 + 110z43z58z1 <= 106.309624
+s43 - s67 + 110z43z67z1 <= 107.391815
+s43 - s30 + 110z43z30z1 <= 108.345688
+s43 - s83 + 110z43z83z1 <= 107.131844
+s43 - s15 + 110z43z15z1 <= 108.257538
+s43 - s15 + 110z43z15z2 <= 108.257538
+s43 - s84 + 110z43z84z1 <= 108.229851
+s43 - s8 + 110z43z8z1 <= 107.101807
+s43 - s59 + 110z43z59z1 <= 107.256981
+s43 - s19 + 110z43z19z2 <= 106.212418
+s62 - s0 + 110z62z1z3 <= 109.000000
+s62 - s31 + 110z62z31z3 <= 108.664589
+s62 - s73 + 110z62z73z3 <= 108.858582
+s62 - s95 + 110z62z95z3 <= 108.593033
+s62 - s25 + 110z62z25z3 <= 108.786400
+s62 - s64 + 110z62z64z3 <= 108.730743
+s62 - s63 + 110z62z63z3 <= 108.278893
+s62 - s93 + 110z62z93z3 <= 108.649109
+s62 - s65 + 110z62z65z3 <= 107.687561
+s62 - s69 + 110z62z69z3 <= 108.349998
+s62 - s47 + 110z62z47z3 <= 108.284111
+s62 - s7 + 110z62z7z3 <= 107.656494
+s62 - s53 + 110z62z53z3 <= 108.549309
+s62 - s29 + 110z62z29z3 <= 108.451706
+s62 - s3 + 110z62z3z3 <= 107.316071
+s62 - s30 + 110z62z30z3 <= 107.390457
+s62 - s83 + 110z62z83z3 <= 108.224594
+s62 - s59 + 110z62z59z3 <= 108.247917
+s73 - s0 + 110z73z1z2 <= 109.000000
+s73 - s0 + 110z73z1z3 <= 109.000000
+s73 - s61 + 110z73z61z2 <= 108.438194
+s73 - s31 + 110z73z31z2 <= 108.528297
+s73 - s31 + 110z73z31z3 <= 108.528297
+s73 - s62 + 110z73z62z3 <= 108.858582
+s73 - s95 + 110z73z95z3 <= 108.451706
+s73 - s37 + 110z73z37z2 <= 108.753777
+s73 - s100 + 110z73z100z2 <= 108.472626
+s73 - s25 + 110z73z25z3 <= 108.798447
+s73 - s64 + 110z73z64z2 <= 108.650002
+s73 - s64 + 110z73z64z3 <= 108.650002
+s73 - s63 + 110z73z63z3 <= 108.416908
+s73 - s93 + 110z73z93z3 <= 108.543793
+s73 - s65 + 110z73z65z2 <= 107.546555
+s73 - s65 + 110z73z65z3 <= 107.546555
+s73 - s69 + 110z73z69z2 <= 108.217377
+s73 - s69 + 110z73z69z3 <= 108.217377
+s73 - s47 + 110z73z47z3 <= 108.150002
+s73 - s35 + 110z73z35z2 <= 107.706505
+s73 - s7 + 110z73z7z2 <= 107.797920
+s73 - s7 + 110z73z7z3 <= 107.797920
+s73 - s53 + 110z73z53z3 <= 108.472626
+s73 - s50 + 110z73z50z2 <= 108.370514
+s73 - s29 + 110z73z29z2 <= 108.484612
+s73 - s29 + 110z73z29z3 <= 108.484612
+s73 - s3 + 110z73z3z3 <= 107.457069
+s73 - s30 + 110z73z30z3 <= 107.531792
+s73 - s83 + 110z73z83z3 <= 108.121788
+s73 - s15 + 110z73z15z2 <= 107.969223
+s73 - s59 + 110z73z59z3 <= 108.181084
+s73 - s19 + 110z73z19z2 <= 107.207481
+s95 - s0 + 110z95z1z3 <= 109.000000
+s95 - s31 + 110z95z31z3 <= 108.847931
+s95 - s62 + 110z95z62z3 <= 108.593033
+s95 - s73 + 110z95z73z3 <= 108.451706
+s95 - s25 + 110z95z25z3 <= 108.474403
+s95 - s64 + 110z95z64z3 <= 108.621681
+s95 - s63 + 110z95z63z3 <= 107.879456
+s95 - s93 + 110z95z93z3 <= 108.695862
+s95 - s65 + 110z95z65z3 <= 108.089989
+s95 - s69 + 110z95z69z3 <= 108.698959
+s95 - s47 + 110z95z47z3 <= 108.649109
+s95 - s7 + 110z95z7z3 <= 107.249825
+s95 - s53 + 110z95z53z3 <= 108.556999
+s95 - s29 + 110z95z29z3 <= 108.221382
+s95 - s3 + 110z95z3z3 <= 106.909248
+s95 - s30 + 110z95z30z3 <= 106.984436
+s95 - s83 + 110z95z83z3 <= 108.438194
+s95 - s59 + 110z95z59z3 <= 108.319923
+s37 - s0 + 110z37z1z1 <= 109.000000
+s37 - s0 + 110z37z1z2 <= 109.000000
+s37 - s73 + 110z37z73z2 <= 108.753777
+s37 - s100 + 110z37z100z2 <= 108.256699
+s37 - s71 + 110z37z71z1 <= 108.202736
+s37 - s25 + 110z37z25z1 <= 108.697922
+s37 - s64 + 110z37z64z1 <= 108.496887
+s37 - s64 + 110z37z64z2 <= 108.496887
+s37 - s63 + 110z37z63z1 <= 108.659966
+s37 - s93 + 110z37z93z1 <= 108.373505
+s37 - s65 + 110z37z65z2 <= 107.309402
+s37 - s69 + 110z37z69z1 <= 108.014793
+s37 - s69 + 110z37z69z2 <= 108.014793
+s37 - s47 + 110z37z47z1 <= 107.944954
+s37 - s35 + 110z37z35z1 <= 107.479721
+s37 - s35 + 110z37z35z2 <= 107.479721
+s37 - s7 + 110z37z7z1 <= 108.023720
+s37 - s7 + 110z37z7z2 <= 108.023720
+s37 - s53 + 110z37z53z1 <= 108.350960
+s37 - s50 + 110z37z50z2 <= 108.215385
+s37 - s29 + 110z37z29z1 <= 108.540382
+s37 - s29 + 110z37z29z2 <= 108.540382
+s37 - s3 + 110z37z3z1 <= 107.674767
+s37 - s58 + 110z37z58z1 <= 107.052567
+s37 - s67 + 110z37z67z1 <= 108.239655
+s37 - s30 + 110z37z30z1 <= 107.762054
+s37 - s83 + 110z37z83z1 <= 107.979889
+s37 - s15 + 110z37z15z1 <= 108.215385
+s37 - s15 + 110z37z15z2 <= 108.215385
+s37 - s84 + 110z37z84z1 <= 108.093773
+s37 - s8 + 110z37z8z1 <= 107.950592
+s37 - s59 + 110z37z59z1 <= 108.098610
+s37 - s19 + 110z37z19z2 <= 106.983505
+s100 - s0 + 110z100z1z2 <= 109.000000
+s100 - s37 + 110z100z37z2 <= 108.256699
+s100 - s64 + 110z100z64z2 <= 108.707382
+s100 - s65 + 110z100z65z2 <= 108.035309
+s100 - s69 + 110z100z69z2 <= 108.738991
+s100 - s35 + 110z100z35z2 <= 108.221382
+s100 - s7 + 110z100z7z2 <= 107.280807
+s100 - s50 + 110z100z50z2 <= 108.734245
+s100 - s29 + 110z100z29z2 <= 108.313522
+s100 - s15 + 110z100z15z2 <= 107.508987
+s100 - s19 + 110z100z19z2 <= 107.726715
+s71 - s0 + 110z71z1z1 <= 109.000000
+s71 - s25 + 110z71z25z1 <= 108.484612
+s71 - s64 + 110z71z64z1 <= 108.664589
+s71 - s63 + 110z71z63z1 <= 107.868629
+s71 - s93 + 110z71z93z1 <= 108.769508
+s71 - s69 + 110z71z69z1 <= 108.793846
+s71 - s47 + 110z71z47z1 <= 108.730743
+s71 - s35 + 110z71z35z1 <= 108.273277
+s71 - s7 + 110z71z7z1 <= 107.226585
+s71 - s53 + 110z71z53z1 <= 108.649109
+s71 - s29 + 110z71z29z1 <= 108.278458
+s71 - s3 + 110z71z3z1 <= 106.879715
+s71 - s58 + 110z71z58z1 <= 107.839989
+s71 - s67 + 110z71z67z1 <= 108.572800
+s71 - s30 + 110z71z30z1 <= 106.965149
+s71 - s83 + 110z71z83z1 <= 108.562675
+s71 - s15 + 110z71z15z1 <= 107.459709
+s71 - s84 + 110z71z84z1 <= 107.334732
+s71 - s8 + 110z71z8z1 <= 108.479782
+s71 - s59 + 110z71z59z1 <= 108.438194
+s25 - s0 + 110z25z1z1 <= 109.000000
+s25 - s0 + 110z25z1z3 <= 109.000000
+s25 - s62 + 110z25z62z3 <= 108.786400
+s25 - s73 + 110z25z73z3 <= 108.798447
+s25 - s37 + 110z25z37z1 <= 108.697922
+s25 - s71 + 110z25z71z1 <= 108.484612
+s25 - s64 + 110z25z64z1 <= 108.798447
+s25 - s64 + 110z25z64z3 <= 108.798447
+s25 - s63 + 110z25z63z1 <= 108.379013
+s25 - s63 + 110z25z63z3 <= 108.379013
+s25 - s93 + 110z25z93z1 <= 108.674042
+s25 - s93 + 110z25z93z3 <= 108.674042
+s25 - s65 + 110z25z65z3 <= 107.571495
+s25 - s69 + 110z25z69z1 <= 108.308533
+s25 - s69 + 110z25z69z3 <= 108.308533
+s25 - s47 + 110z25z47z1 <= 108.238014
+s25 - s47 + 110z25z47z3 <= 108.238014
+s25 - s35 + 110z25z35z1 <= 107.758026
+s25 - s7 + 110z25z7z1 <= 107.729912
+s25 - s7 + 110z25z7z3 <= 107.729912
+s25 - s53 + 110z25z53z1 <= 108.646446
+s25 - s53 + 110z25z53z3 <= 108.646446
+s25 - s29 + 110z25z29z1 <= 108.664589
+s25 - s29 + 110z25z29z3 <= 108.664589
+s25 - s3 + 110z25z3z1 <= 107.377502
+s25 - s3 + 110z25z3z3 <= 107.377502
+s25 - s58 + 110z25z58z1 <= 107.324814
+s25 - s67 + 110z25z67z1 <= 108.525002
+s25 - s30 + 110z25z30z1 <= 107.473160
+s25 - s30 + 110z25z30z3 <= 107.473160
+s25 - s83 + 110z25z83z1 <= 108.278458
+s25 - s83 + 110z25z83z3 <= 108.278458
+s25 - s15 + 110z25z15z1 <= 107.973778
+s25 - s84 + 110z25z84z1 <= 107.848915
+s25 - s8 + 110z25z8z1 <= 108.243362
+s25 - s59 + 110z25z59z1 <= 108.370514
+s25 - s59 + 110z25z59z3 <= 108.370514
+s64 - s0 + 110z64z1z1 <= 109.000000
+s64 - s0 + 110z64z1z2 <= 109.000000
+s64 - s0 + 110z64z1z3 <= 109.000000
+s64 - s100 + 110z64z100z2 <= 108.707382
+s64 - s71 + 110z64z71z1 <= 108.664589
+s64 - s25 + 110z64z25z1 <= 108.798447
+s64 - s25 + 110z64z25z3 <= 108.798447
+s64 - s63 + 110z64z63z1 <= 108.179939
+s64 - s63 + 110z64z63z3 <= 108.179939
+s64 - s93 + 110z64z93z1 <= 108.875000
+s64 - s93 + 110z64z93z3 <= 108.875000
+s64 - s69 + 110z64z69z1 <= 108.505028
+s64 - s69 + 110z64z69z2 <= 108.505028
+s64 - s69 + 110z64z69z3 <= 108.505028
+s64 - s47 + 110z64z47z1 <= 108.434311
+s64 - s47 + 110z64z47z3 <= 108.434311
+s64 - s35 + 110z64z35z1 <= 107.944954
+s64 - s35 + 110z64z35z2 <= 107.944954
+s64 - s7 + 110z64z7z1 <= 107.529457
+s64 - s7 + 110z64z7z2 <= 107.529457
+s64 - s7 + 110z64z7z3 <= 107.529457
+s64 - s53 + 110z64z53z1 <= 108.818001
+s64 - s53 + 110z64z53z3 <= 108.818001
+s64 - s50 + 110z64z50z2 <= 108.714958
+s64 - s29 + 110z64z29z1 <= 108.599220
+s64 - s29 + 110z64z29z2 <= 108.599220
+s64 - s29 + 110z64z29z3 <= 108.599220
+s64 - s3 + 110z64z3z1 <= 107.176369
+s64 - s3 + 110z64z3z3 <= 107.176369
+s64 - s58 + 110z64z58z1 <= 107.508987
+s64 - s67 + 110z64z67z1 <= 108.683769
+s64 - s30 + 110z64z30z1 <= 107.274277
+s64 - s30 + 110z64z30z3 <= 107.274277
+s64 - s83 + 110z64z83z1 <= 108.469673
+s64 - s83 + 110z64z83z3 <= 108.469673
+s64 - s15 + 110z64z15z1 <= 107.789627
+s64 - s15 + 110z64z15z2 <= 107.789627
+s64 - s84 + 110z64z84z1 <= 107.664665
+s64 - s8 + 110z64z8z1 <= 108.425003
+s64 - s59 + 110z64z59z1 <= 108.517166
+s64 - s59 + 110z64z59z3 <= 108.517166
+s64 - s19 + 110z64z19z2 <= 107.459503
+s63 - s0 + 110z63z1z1 <= 109.000000
+s63 - s0 + 110z63z1z3 <= 109.000000
+s63 - s37 + 110z63z37z1 <= 108.659966
+s63 - s25 + 110z63z25z1 <= 108.379013
+s63 - s25 + 110z63z25z3 <= 108.379013
+s63 - s64 + 110z63z64z1 <= 108.179939
+s63 - s64 + 110z63z64z3 <= 108.179939
+s63 - s93 + 110z63z93z1 <= 108.054947
+s63 - s93 + 110z63z93z3 <= 108.054947
+s63 - s7 + 110z63z7z1 <= 108.348083
+s63 - s7 + 110z63z7z3 <= 108.348083
+s63 - s53 + 110z63z53z1 <= 108.060249
+s63 - s53 + 110z63z53z3 <= 108.060249
+s63 - s29 + 110z63z29z1 <= 108.367050
+s63 - s29 + 110z63z29z3 <= 108.367050
+s63 - s3 + 110z63z3z1 <= 107.992218
+s63 - s3 + 110z63z3z3 <= 107.992218
+s63 - s67 + 110z63z67z1 <= 107.969223
+s63 - s30 + 110z63z30z1 <= 108.094116
+s63 - s30 + 110z63z30z3 <= 108.094116
+s63 - s83 + 110z63z83z1 <= 107.691849
+s63 - s83 + 110z63z83z3 <= 107.691849
+s63 - s15 + 110z63z15z1 <= 108.539024
+s63 - s84 + 110z63z84z1 <= 108.422829
+s63 - s8 + 110z63z8z1 <= 107.676888
+s63 - s59 + 110z63z59z1 <= 107.852997
+s63 - s59 + 110z63z59z3 <= 107.852997
+s93 - s0 + 110z93z1z1 <= 109.000000
+s93 - s0 + 110z93z1z3 <= 109.000000
+s93 - s71 + 110z93z71z1 <= 108.769508
+s93 - s25 + 110z93z25z1 <= 108.674042
+s93 - s25 + 110z93z25z3 <= 108.674042
+s93 - s64 + 110z93z64z1 <= 108.875000
+s93 - s64 + 110z93z64z3 <= 108.875000
+s93 - s69 + 110z93z69z1 <= 108.628349
+s93 - s69 + 110z93z69z3 <= 108.628349
+s93 - s47 + 110z93z47z1 <= 108.557701
+s93 - s47 + 110z93z47z3 <= 108.557701
+s93 - s35 + 110z93z35z1 <= 108.063919
+s93 - s53 + 110z93z53z1 <= 108.854225
+s93 - s53 + 110z93z53z3 <= 108.854225
+s93 - s29 + 110z93z29z1 <= 108.508827
+s93 - s29 + 110z93z29z3 <= 108.508827
+s93 - s3 + 110z93z3z1 <= 107.051605
+s93 - s3 + 110z93z3z3 <= 107.051605
+s93 - s58 + 110z93z58z1 <= 107.627045
+s93 - s67 + 110z93z67z1 <= 108.734245
+s93 - s30 + 110z93z30z1 <= 107.149323
+s93 - s30 + 110z93z30z3 <= 107.149323
+s93 - s83 + 110z93z83z1 <= 108.574997
+s93 - s83 + 110z93z83z3 <= 108.574997
+s93 - s15 + 110z93z15z1 <= 107.668411
+s93 - s84 + 110z93z84z1 <= 107.543549
+s93 - s8 + 110z93z8z1 <= 108.519112
+s93 - s59 + 110z93z59z1 <= 108.569885
+s93 - s59 + 110z93z59z3 <= 108.569885
+s65 - s0 + 110z65z1z2 <= 109.000000
+s65 - s0 + 110z65z1z3 <= 109.000000
+s65 - s69 + 110z65z69z2 <= 108.209427
+s65 - s69 + 110z65z69z3 <= 108.209427
+s65 - s47 + 110z65z47z3 <= 108.271988
+s65 - s35 + 110z65z35z2 <= 108.748756
+s65 - s53 + 110z65z53z3 <= 107.773979
+s65 - s50 + 110z65z50z2 <= 107.924713
+s65 - s29 + 110z65z29z2 <= 107.375000
+s65 - s29 + 110z65z29z3 <= 107.375000
+s65 - s83 + 110z65z83z3 <= 107.972260
+s65 - s59 + 110z65z59z3 <= 107.716209
+s65 - s19 + 110z65z19z2 <= 108.572067
+s69 - s0 + 110z69z1z1 <= 109.000000
+s69 - s0 + 110z69z1z2 <= 109.000000
+s69 - s0 + 110z69z1z3 <= 109.000000
+s69 - s100 + 110z69z100z2 <= 108.738991
+s69 - s71 + 110z69z71z1 <= 108.793846
+s69 - s64 + 110z69z64z1 <= 108.505028
+s69 - s64 + 110z69z64z2 <= 108.505028
+s69 - s64 + 110z69z64z3 <= 108.505028
+s69 - s93 + 110z69z93z1 <= 108.628349
+s69 - s93 + 110z69z93z3 <= 108.628349
+s69 - s65 + 110z69z65z2 <= 108.209427
+s69 - s65 + 110z69z65z3 <= 108.209427
+s69 - s47 + 110z69z47z1 <= 108.929291
+s69 - s47 + 110z69z47z3 <= 108.929291
+s69 - s35 + 110z69z35z1 <= 108.429367
+s69 - s35 + 110z69z35z2 <= 108.429367
+s69 - s53 + 110z69z53z1 <= 108.563393
+s69 - s53 + 110z69z53z3 <= 108.563393
+s69 - s50 + 110z69z50z2 <= 108.714958
+s69 - s29 + 110z69z29z1 <= 108.161476
+s69 - s29 + 110z69z29z2 <= 108.161476
+s69 - s29 + 110z69z29z3 <= 108.161476
+s69 - s58 + 110z69z58z1 <= 107.992218
+s69 - s67 + 110z69z67z1 <= 108.547234
+s69 - s83 + 110z69z83z1 <= 108.674042
+s69 - s83 + 110z69z83z3 <= 108.674042
+s69 - s15 + 110z69z15z1 <= 107.297058
+s69 - s15 + 110z69z15z2 <= 107.297058
+s69 - s84 + 110z69z84z1 <= 107.172264
+s69 - s8 + 110z69z8z1 <= 108.583916
+s69 - s59 + 110z69z59z1 <= 108.465561
+s69 - s59 + 110z69z59z3 <= 108.465561
+s69 - s19 + 110z69z19z2 <= 107.953278
+s47 - s0 + 110z47z1z1 <= 109.000000
+s47 - s0 + 110z47z1z3 <= 109.000000
+s47 - s71 + 110z47z71z1 <= 108.730743
+s47 - s64 + 110z47z64z1 <= 108.434311
+s47 - s64 + 110z47z64z3 <= 108.434311
+s47 - s93 + 110z47z93z1 <= 108.557701
+s47 - s93 + 110z47z93z3 <= 108.557701
+s47 - s65 + 110z47z65z3 <= 108.271988
+s47 - s69 + 110z47z69z1 <= 108.929291
+s47 - s69 + 110z47z69z3 <= 108.929291
+s47 - s35 + 110z47z35z1 <= 108.496887
+s47 - s53 + 110z47z53z1 <= 108.496887
+s47 - s53 + 110z47z53z3 <= 108.496887
+s47 - s29 + 110z47z29z1 <= 108.094116
+s47 - s29 + 110z47z29z3 <= 108.094116
+s47 - s58 + 110z47z58z1 <= 108.060249
+s47 - s67 + 110z47z67z1 <= 108.490097
+s47 - s83 + 110z47z83z1 <= 108.651787
+s47 - s83 + 110z47z83z3 <= 108.651787
+s47 - s15 + 110z47z15z1 <= 107.226585
+s47 - s84 + 110z47z84z1 <= 107.101807
+s47 - s8 + 110z47z8z1 <= 108.563393
+s47 - s59 + 110z47z59z1 <= 108.422829
+s47 - s59 + 110z47z59z3 <= 108.422829
+s35 - s0 + 110z35z1z1 <= 109.000000
+s35 - s0 + 110z35z1z2 <= 109.000000
+s35 - s65 + 110z35z65z2 <= 108.748756
+s35 - s69 + 110z35z69z1 <= 108.429367
+s35 - s69 + 110z35z69z2 <= 108.429367
+s35 - s47 + 110z35z47z1 <= 108.496887
+s35 - s53 + 110z35z53z1 <= 107.993767
+s35 - s50 + 110z35z50z2 <= 108.149635
+s35 - s29 + 110z35z29z1 <= 107.591103
+s35 - s29 + 110z35z29z2 <= 107.591103
+s35 - s58 + 110z35z58z1 <= 108.562675
+s35 - s67 + 110z35z67z1 <= 107.995949
+s35 - s83 + 110z35z83z1 <= 108.218575
+s35 - s8 + 110z35z8z1 <= 108.148529
+s35 - s59 + 110z35z59z1 <= 107.960167
+s35 - s19 + 110z35z19z2 <= 108.500000
+s7 - s0 + 110z7z1z1 <= 109.000000
+s7 - s0 + 110z7z1z2 <= 109.000000
+s7 - s0 + 110z7z1z3 <= 109.000000
+s7 - s29 + 110z7z29z1 <= 107.741776
+s7 - s29 + 110z7z29z2 <= 107.741776
+s7 - s29 + 110z7z29z3 <= 107.741776
+s7 - s3 + 110z7z3z1 <= 108.642052
+s7 - s3 + 110z7z3z3 <= 108.642052
+s7 - s30 + 110z7z30z1 <= 108.729584
+s7 - s30 + 110z7z30z3 <= 108.729584
+s7 - s15 + 110z7z15z1 <= 108.539024
+s7 - s15 + 110z7z15z2 <= 108.539024
+s7 - s84 + 110z7z84z1 <= 108.574997
+s7 - s8 + 110z7z8z1 <= 107.031975
+s7 - s59 + 110z7z59z1 <= 107.217270
+s7 - s59 + 110z7z59z3 <= 107.217270
+s53 - s0 + 110z53z1z1 <= 109.000000
+s53 - s0 + 110z53z1z3 <= 109.000000
+s53 - s64 + 110z53z64z1 <= 108.818001
+s53 - s64 + 110z53z64z3 <= 108.818001
+s53 - s93 + 110z53z93z1 <= 108.854225
+s53 - s93 + 110z53z93z3 <= 108.854225
+s53 - s69 + 110z53z69z1 <= 108.563393
+s53 - s69 + 110z53z69z3 <= 108.563393
+s53 - s47 + 110z53z47z1 <= 108.496887
+s53 - s47 + 110z53z47z3 <= 108.496887
+s53 - s29 + 110z53z29z1 <= 108.596886
+s53 - s29 + 110z53z29z3 <= 108.596886
+s53 - s58 + 110z53z58z1 <= 107.557343
+s53 - s67 + 110z53z67z1 <= 108.865372
+s53 - s83 + 110z53z83z1 <= 108.628349
+s53 - s83 + 110z53z83z3 <= 108.628349
+s53 - s15 + 110z53z15z1 <= 107.709412
+s53 - s84 + 110z53z84z1 <= 107.585785
+s53 - s8 + 110z53z8z1 <= 108.596886
+s53 - s59 + 110z53z59z1 <= 108.697922
+s53 - s59 + 110z53z59z3 <= 108.697922
+s50 - s0 + 110z50z1z2 <= 109.000000
+s50 - s64 + 110z50z64z2 <= 108.714958
+s50 - s69 + 110z50z69z2 <= 108.714958
+s50 - s35 + 110z50z35z2 <= 108.149635
+s50 - s29 + 110z50z29z2 <= 108.438194
+s50 - s15 + 110z50z15z2 <= 107.550430
+s50 - s19 + 110z50z19z2 <= 107.689224
+s29 - s0 + 110z29z1z1 <= 109.000000
+s29 - s0 + 110z29z1z2 <= 109.000000
+s29 - s0 + 110z29z1z3 <= 109.000000
+s29 - s53 + 110z29z53z1 <= 108.596886
+s29 - s53 + 110z29z53z3 <= 108.596886
+s29 - s50 + 110z29z50z2 <= 108.438194
+s29 - s67 + 110z29z67z1 <= 108.557701
+s29 - s83 + 110z29z83z1 <= 108.273277
+s29 - s83 + 110z29z83z3 <= 108.273277
+s29 - s15 + 110z29z15z1 <= 108.089989
+s29 - s15 + 110z29z15z2 <= 108.089989
+s29 - s84 + 110z29z84z1 <= 107.969223
+s29 - s8 + 110z29z8z1 <= 108.278893
+s29 - s59 + 110z29z59z1 <= 108.474403
+s29 - s59 + 110z29z59z3 <= 108.474403
+s3 - s0 + 110z3z1z1 <= 109.000000
+s3 - s0 + 110z3z1z3 <= 109.000000
+s3 - s7 + 110z3z7z1 <= 108.642052
+s3 - s7 + 110z3z7z3 <= 108.642052
+s3 - s30 + 110z3z30z1 <= 108.809608
+s3 - s30 + 110z3z30z3 <= 108.809608
+s3 - s15 + 110z3z15z1 <= 108.223389
+s3 - s84 + 110z3z84z1 <= 108.298218
+s58 - s0 + 110z58z1z1 <= 109.000000
+s58 - s83 + 110z58z83z1 <= 107.804955
+s58 - s8 + 110z58z8z1 <= 107.744514
+s58 - s59 + 110z58z59z1 <= 107.543976
+s67 - s0 + 110z67z1z1 <= 109.000000
+s67 - s53 + 110z67z53z1 <= 108.865372
+s67 - s29 + 110z67z29z1 <= 108.557701
+s67 - s83 + 110z67z83z1 <= 108.714958
+s67 - s84 + 110z67z84z1 <= 107.527542
+s67 - s8 + 110z67z8z1 <= 108.707382
+s67 - s59 + 110z67z59z1 <= 108.832298
+s30 - s0 + 110z30z1z1 <= 109.000000
+s30 - s0 + 110z30z1z3 <= 109.000000
+s30 - s3 + 110z30z3z1 <= 108.809608
+s30 - s3 + 110z30z3z3 <= 108.809608
+s30 - s15 + 110z30z15z1 <= 108.387115
+s30 - s84 + 110z30z84z1 <= 108.474403
+s83 - s0 + 110z83z1z1 <= 109.000000
+s83 - s0 + 110z83z1z3 <= 109.000000
+s83 - s67 + 110z83z67z1 <= 108.714958
+s83 - s8 + 110z83z8z1 <= 108.909859
+s83 - s59 + 110z83z59z1 <= 108.738991
+s83 - s59 + 110z83z59z3 <= 108.738991
+s15 - s0 + 110z15z1z1 <= 109.000000
+s15 - s0 + 110z15z1z2 <= 109.000000
+s15 - s30 + 110z15z30z1 <= 108.387115
+s15 - s84 + 110z15z84z1 <= 108.875000
+s84 - s0 + 110z84z1z1 <= 109.000000
+s84 - s30 + 110z84z30z1 <= 108.474403
+s84 - s15 + 110z84z15z1 <= 108.875000
+s8 - s0 + 110z8z1z1 <= 109.000000
+s8 - s67 + 110z8z67z1 <= 108.707382
+s8 - s83 + 110z8z83z1 <= 108.909859
+s8 - s59 + 110z8z59z1 <= 108.784943
+s59 - s0 + 110z59z1z1 <= 109.000000
+s59 - s0 + 110z59z1z3 <= 109.000000
+s59 - s67 + 110z59z67z1 <= 108.832298
+s59 - s83 + 110z59z83z1 <= 108.738991
+s59 - s83 + 110z59z83z3 <= 108.738991
+s59 - s8 + 110z59z8z1 <= 108.784943
+s19 - s0 + 110z19z1z2 <= 109.000000
+
+Bounds
+s1 = 0.000000
+2.475880 <= s82 <= 4.475880
+2.745910 <= s94 <= 4.745910
+3.001670 <= s75 <= 5.001670
+3.023240 <= s87 <= 5.023240
+3.061050 <= s101 <= 5.061050
+3.182770 <= s60 <= 5.182770
+3.354100 <= s78 <= 5.354100
+3.500000 <= s34 <= 5.500000
+3.511410 <= s46 <= 5.511410
+3.538360 <= s11 <= 5.538360
+3.982460 <= s14 <= 5.982460
+4.123110 <= s97 <= 6.123110
+4.186880 <= s13 <= 6.186880
+4.518850 <= s96 <= 6.518850
+4.622770 <= s51 <= 6.622770
+5.162360 <= s33 <= 7.162360
+5.235460 <= s74 <= 7.235460
+5.920300 <= s68 <= 7.920300
+6.859300 <= s17 <= 8.859300
+7.600660 <= s61 <= 9.600660
+7.602630 <= s31 <= 9.602630
+7.844740 <= s43 <= 9.844740
+7.919600 <= s62 <= 9.919600
+7.939770 <= s73 <= 9.939770
+8.154140 <= s95 <= 10.154100
+8.405360 <= s37 <= 10.405400
+8.544590 <= s100 <= 10.544600
+8.653320 <= s71 <= 10.653300
+8.704600 <= s25 <= 10.704600
+8.919640 <= s64 <= 10.919600
+8.944270 <= s63 <= 10.944300
+9.027180 <= s93 <= 11.027200
+9.141120 <= s65 <= 11.141100
+9.228220 <= s69 <= 11.228200
+9.305910 <= s47 <= 11.305900
+9.464140 <= s35 <= 11.464100
+9.570790 <= s7 <= 11.570800
+9.577580 <= s53 <= 11.577600
+9.580190 <= s50 <= 11.580200
+10.000500 <= s29 <= 12.000500
+10.012500 <= s3 <= 12.012500
+10.060300 <= s58 <= 12.060300
+10.089600 <= s67 <= 12.089600
+10.369700 <= s30 <= 12.369700
+10.401000 <= s83 <= 12.401000
+10.440300 <= s15 <= 12.440300
+10.720500 <= s84 <= 12.720500
+10.733600 <= s8 <= 12.733600
+10.744800 <= s59 <= 12.744800
+10.791200 <= s19 <= 12.791200
+0.000000 <= s0 <= 100000.000000
+
+General
+x1x82x1 x1x82x2 x1x94x1 x1x94x2 x1x75x2 x1x87x2 x1x87x3 x1x101x1 x1x101x2 x1x101x3 x1x60x1 x1x60x3 x1x78x2 x1x78x3 x1x34x2 x1x34x3 x1x46x1 x1x46x2 x1x11x2 x1x14x2 x1x97x3 x1x13x3 x1x96x2 x1x51x3 x1x33x1 x1x74x3 x1x68x2 x1x68x3 x1x17x3 x1x61x1 x1x61x2 x1x31x1 x1x31x2 x1x31x3 x1x43x1 x1x43x2 x1x62x3 x1x73x2 x1x73x3 x1x95x3 x1x37x1 x1x37x2 x1x100x2 x1x71x1 x1x25x1 x1x25x3 x1x64x1 x1x64x2 x1x64x3 x1x63x1 x1x63x3 x1x93x1 x1x93x3 x1x65x2 x1x65x3 x1x69x1 x1x69x2 x1x69x3 x1x47x1 x1x47x3 x1x35x1 x1x35x2 x1x7x1 x1x7x2 x1x7x3 x1x53x1 x1x53x3 x1x50x2 x1x29x1 x1x29x2 x1x29x3 x1x3x1 x1x3x3 x1x58x1 x1x67x1 x1x30x1 x1x30x3 x1x83x1 x1x83x3 x1x15x1 x1x15x2 x1x84x1 x1x8x1 x1x59x1 x1x59x3 x1x19x2 
+x82x1x1 x82x1x2 x82x94x1 x82x94x2 x82x75x2 x82x87x2 x82x101x1 x82x101x2 x82x60x1 x82x78x2 x82x34x2 x82x46x1 x82x46x2 x82x11x2 x82x14x2 x82x96x2 x82x33x1 x82x68x2 x82x61x1 x82x61x2 x82x31x1 x82x31x2 x82x43x1 x82x43x2 x82x73x2 x82x37x1 x82x37x2 x82x100x2 x82x71x1 x82x25x1 x82x64x1 x82x64x2 x82x63x1 x82x93x1 x82x65x2 x82x69x1 x82x69x2 x82x47x1 x82x35x1 x82x35x2 x82x7x1 x82x7x2 x82x53x1 x82x50x2 x82x29x1 x82x29x2 x82x3x1 x82x58x1 x82x67x1 x82x30x1 x82x83x1 x82x15x1 x82x15x2 x82x84x1 x82x8x1 x82x59x1 x82x19x2 
+x94x1x1 x94x1x2 x94x82x1 x94x82x2 x94x75x2 x94x87x2 x94x101x1 x94x101x2 x94x60x1 x94x78x2 x94x34x2 x94x46x1 x94x46x2 x94x11x2 x94x14x2 x94x96x2 x94x33x1 x94x68x2 x94x61x1 x94x61x2 x94x31x1 x94x31x2 x94x43x1 x94x43x2 x94x73x2 x94x37x1 x94x37x2 x94x100x2 x94x71x1 x94x25x1 x94x64x1 x94x64x2 x94x63x1 x94x93x1 x94x65x2 x94x69x1 x94x69x2 x94x47x1 x94x35x1 x94x35x2 x94x7x1 x94x7x2 x94x53x1 x94x50x2 x94x29x1 x94x29x2 x94x3x1 x94x58x1 x94x67x1 x94x30x1 x94x83x1 x94x15x1 x94x15x2 x94x84x1 x94x8x1 x94x59x1 x94x19x2 
+x75x1x2 x75x82x2 x75x94x2 x75x87x2 x75x101x2 x75x78x2 x75x34x2 x75x46x2 x75x11x2 x75x14x2 x75x96x2 x75x68x2 x75x61x2 x75x31x2 x75x43x2 x75x73x2 x75x37x2 x75x100x2 x75x64x2 x75x65x2 x75x69x2 x75x35x2 x75x7x2 x75x50x2 x75x29x2 x75x15x2 x75x19x2 
+x87x1x2 x87x1x3 x87x82x2 x87x94x2 x87x75x2 x87x101x2 x87x101x3 x87x60x3 x87x78x2 x87x78x3 x87x34x2 x87x34x3 x87x46x2 x87x11x2 x87x14x2 x87x97x3 x87x13x3 x87x96x2 x87x51x3 x87x74x3 x87x68x2 x87x68x3 x87x17x3 x87x61x2 x87x31x2 x87x31x3 x87x43x2 x87x62x3 x87x73x2 x87x73x3 x87x95x3 x87x37x2 x87x100x2 x87x25x3 x87x64x2 x87x64x3 x87x63x3 x87x93x3 x87x65x2 x87x65x3 x87x69x2 x87x69x3 x87x47x3 x87x35x2 x87x7x2 x87x7x3 x87x53x3 x87x50x2 x87x29x2 x87x29x3 x87x3x3 x87x30x3 x87x83x3 x87x15x2 x87x59x3 x87x19x2 
+x101x1x1 x101x1x2 x101x1x3 x101x82x1 x101x82x2 x101x94x1 x101x94x2 x101x75x2 x101x87x2 x101x87x3 x101x60x1 x101x60x3 x101x78x2 x101x78x3 x101x34x2 x101x34x3 x101x46x1 x101x46x2 x101x11x2 x101x14x2 x101x97x3 x101x13x3 x101x96x2 x101x51x3 x101x33x1 x101x74x3 x101x68x2 x101x68x3 x101x17x3 x101x61x1 x101x61x2 x101x31x1 x101x31x2 x101x31x3 x101x43x1 x101x43x2 x101x62x3 x101x73x2 x101x73x3 x101x95x3 x101x37x1 x101x37x2 x101x100x2 x101x71x1 x101x25x1 x101x25x3 x101x64x1 x101x64x2 x101x64x3 x101x63x1 x101x63x3 x101x93x1 x101x93x3 x101x65x2 x101x65x3 x101x69x1 x101x69x2 x101x69x3 x101x47x1 x101x47x3 x101x35x1 x101x35x2 x101x7x1 x101x7x2 x101x7x3 x101x53x1 x101x53x3 x101x50x2 x101x29x1 x101x29x2 x101x29x3 x101x3x1 x101x3x3 x101x58x1 x101x67x1 x101x30x1 x101x30x3 x101x83x1 x101x83x3 x101x15x1 x101x15x2 x101x84x1 x101x8x1 x101x59x1 x101x59x3 x101x19x2 
+x60x1x1 x60x1x3 x60x82x1 x60x94x1 x60x87x3 x60x101x1 x60x101x3 x60x78x3 x60x34x3 x60x46x1 x60x97x3 x60x13x3 x60x51x3 x60x33x1 x60x74x3 x60x68x3 x60x17x3 x60x61x1 x60x31x1 x60x31x3 x60x43x1 x60x62x3 x60x73x3 x60x95x3 x60x37x1 x60x71x1 x60x25x1 x60x25x3 x60x64x1 x60x64x3 x60x63x1 x60x63x3 x60x93x1 x60x93x3 x60x65x3 x60x69x1 x60x69x3 x60x47x1 x60x47x3 x60x35x1 x60x7x1 x60x7x3 x60x53x1 x60x53x3 x60x29x1 x60x29x3 x60x3x1 x60x3x3 x60x58x1 x60x67x1 x60x30x1 x60x30x3 x60x83x1 x60x83x3 x60x15x1 x60x84x1 x60x8x1 x60x59x1 x60x59x3 
+x78x1x2 x78x1x3 x78x94x2 x78x75x2 x78x87x2 x78x87x3 x78x101x2 x78x101x3 x78x60x3 x78x34x2 x78x34x3 x78x46x2 x78x11x2 x78x14x2 x78x97x3 x78x13x3 x78x96x2 x78x51x3 x78x74x3 x78x68x2 x78x68x3 x78x17x3 x78x61x2 x78x31x2 x78x31x3 x78x43x2 x78x62x3 x78x73x2 x78x73x3 x78x95x3 x78x37x2 x78x100x2 x78x25x3 x78x64x2 x78x64x3 x78x63x3 x78x93x3 x78x65x2 x78x65x3 x78x69x2 x78x69x3 x78x47x3 x78x35x2 x78x7x2 x78x7x3 x78x53x3 x78x50x2 x78x29x2 x78x29x3 x78x3x3 x78x30x3 x78x83x3 x78x15x2 x78x59x3 x78x19x2 
+x34x1x2 x34x1x3 x34x94x2 x34x75x2 x34x87x2 x34x87x3 x34x101x2 x34x101x3 x34x60x3 x34x78x2 x34x78x3 x34x46x2 x34x11x2 x34x14x2 x34x97x3 x34x13x3 x34x96x2 x34x51x3 x34x74x3 x34x68x2 x34x68x3 x34x17x3 x34x61x2 x34x31x2 x34x31x3 x34x43x2 x34x62x3 x34x73x2 x34x73x3 x34x95x3 x34x37x2 x34x100x2 x34x25x3 x34x64x2 x34x64x3 x34x63x3 x34x93x3 x34x65x2 x34x65x3 x34x69x2 x34x69x3 x34x47x3 x34x35x2 x34x7x2 x34x7x3 x34x53x3 x34x50x2 x34x29x2 x34x29x3 x34x3x3 x34x30x3 x34x83x3 x34x15x2 x34x59x3 x34x19x2 
+x46x1x1 x46x1x2 x46x87x2 x46x101x1 x46x101x2 x46x60x1 x46x78x2 x46x34x2 x46x11x2 x46x14x2 x46x96x2 x46x33x1 x46x68x2 x46x61x1 x46x61x2 x46x31x1 x46x31x2 x46x43x1 x46x43x2 x46x73x2 x46x37x1 x46x37x2 x46x100x2 x46x71x1 x46x25x1 x46x64x1 x46x64x2 x46x63x1 x46x93x1 x46x65x2 x46x69x1 x46x69x2 x46x47x1 x46x35x1 x46x35x2 x46x7x1 x46x7x2 x46x53x1 x46x50x2 x46x29x1 x46x29x2 x46x3x1 x46x58x1 x46x67x1 x46x30x1 x46x83x1 x46x15x1 x46x15x2 x46x84x1 x46x8x1 x46x59x1 x46x19x2 
+x11x1x2 x11x75x2 x11x87x2 x11x101x2 x11x78x2 x11x34x2 x11x46x2 x11x14x2 x11x96x2 x11x68x2 x11x61x2 x11x31x2 x11x43x2 x11x73x2 x11x37x2 x11x100x2 x11x64x2 x11x65x2 x11x69x2 x11x35x2 x11x7x2 x11x50x2 x11x29x2 x11x15x2 x11x19x2 
+x14x1x2 x14x78x2 x14x34x2 x14x46x2 x14x11x2 x14x96x2 x14x68x2 x14x61x2 x14x31x2 x14x43x2 x14x73x2 x14x37x2 x14x100x2 x14x64x2 x14x65x2 x14x69x2 x14x35x2 x14x7x2 x14x50x2 x14x29x2 x14x15x2 x14x19x2 
+x97x1x3 x97x13x3 x97x51x3 x97x74x3 x97x68x3 x97x17x3 x97x31x3 x97x62x3 x97x73x3 x97x95x3 x97x25x3 x97x64x3 x97x63x3 x97x93x3 x97x65x3 x97x69x3 x97x47x3 x97x7x3 x97x53x3 x97x29x3 x97x3x3 x97x30x3 x97x83x3 x97x59x3 
+x13x1x3 x13x34x3 x13x97x3 x13x51x3 x13x74x3 x13x68x3 x13x17x3 x13x31x3 x13x62x3 x13x73x3 x13x95x3 x13x25x3 x13x64x3 x13x63x3 x13x93x3 x13x65x3 x13x69x3 x13x47x3 x13x7x3 x13x53x3 x13x29x3 x13x3x3 x13x30x3 x13x83x3 x13x59x3 
+x96x1x2 x96x14x2 x96x68x2 x96x61x2 x96x31x2 x96x43x2 x96x73x2 x96x37x2 x96x100x2 x96x64x2 x96x65x2 x96x69x2 x96x35x2 x96x7x2 x96x50x2 x96x29x2 x96x15x2 x96x19x2 
+x51x1x3 x51x13x3 x51x74x3 x51x68x3 x51x17x3 x51x31x3 x51x62x3 x51x73x3 x51x95x3 x51x25x3 x51x64x3 x51x63x3 x51x93x3 x51x65x3 x51x69x3 x51x47x3 x51x7x3 x51x53x3 x51x29x3 x51x3x3 x51x30x3 x51x83x3 x51x59x3 
+x33x1x1 x33x61x1 x33x31x1 x33x43x1 x33x37x1 x33x71x1 x33x25x1 x33x64x1 x33x63x1 x33x93x1 x33x69x1 x33x47x1 x33x35x1 x33x7x1 x33x53x1 x33x29x1 x33x3x1 x33x58x1 x33x67x1 x33x30x1 x33x83x1 x33x15x1 x33x84x1 x33x8x1 x33x59x1 
+x74x1x3 x74x51x3 x74x68x3 x74x17x3 x74x31x3 x74x62x3 x74x73x3 x74x95x3 x74x25x3 x74x64x3 x74x63x3 x74x93x3 x74x65x3 x74x69x3 x74x47x3 x74x7x3 x74x53x3 x74x29x3 x74x3x3 x74x30x3 x74x83x3 x74x59x3 
+x68x1x2 x68x1x3 x68x17x3 x68x61x2 x68x31x2 x68x31x3 x68x43x2 x68x62x3 x68x73x2 x68x73x3 x68x95x3 x68x37x2 x68x100x2 x68x25x3 x68x64x2 x68x64x3 x68x63x3 x68x93x3 x68x65x2 x68x65x3 x68x69x2 x68x69x3 x68x47x3 x68x35x2 x68x7x2 x68x7x3 x68x53x3 x68x50x2 x68x29x2 x68x29x3 x68x3x3 x68x30x3 x68x83x3 x68x15x2 x68x59x3 x68x19x2 
+x17x1x3 x17x31x3 x17x62x3 x17x73x3 x17x95x3 x17x25x3 x17x64x3 x17x63x3 x17x93x3 x17x65x3 x17x69x3 x17x47x3 x17x7x3 x17x53x3 x17x29x3 x17x3x3 x17x30x3 x17x83x3 x17x59x3 
+x61x1x1 x61x1x2 x61x31x1 x61x31x2 x61x73x2 x61x37x1 x61x37x2 x61x100x2 x61x71x1 x61x25x1 x61x64x1 x61x64x2 x61x63x1 x61x93x1 x61x65x2 x61x69x1 x61x69x2 x61x47x1 x61x35x1 x61x35x2 x61x7x1 x61x7x2 x61x53x1 x61x50x2 x61x29x1 x61x29x2 x61x3x1 x61x58x1 x61x67x1 x61x30x1 x61x83x1 x61x15x1 x61x15x2 x61x84x1 x61x8x1 x61x59x1 x61x19x2 
+x31x1x1 x31x1x2 x31x1x3 x31x61x1 x31x61x2 x31x62x3 x31x73x2 x31x73x3 x31x95x3 x31x37x1 x31x37x2 x31x100x2 x31x71x1 x31x25x1 x31x25x3 x31x64x1 x31x64x2 x31x64x3 x31x63x1 x31x63x3 x31x93x1 x31x93x3 x31x65x2 x31x65x3 x31x69x1 x31x69x2 x31x69x3 x31x47x1 x31x47x3 x31x35x1 x31x35x2 x31x7x1 x31x7x2 x31x7x3 x31x53x1 x31x53x3 x31x50x2 x31x29x1 x31x29x2 x31x29x3 x31x3x1 x31x3x3 x31x58x1 x31x67x1 x31x30x1 x31x30x3 x31x83x1 x31x83x3 x31x15x1 x31x15x2 x31x84x1 x31x8x1 x31x59x1 x31x59x3 x31x19x2 
+x43x1x1 x43x1x2 x43x73x2 x43x37x1 x43x37x2 x43x100x2 x43x71x1 x43x25x1 x43x64x1 x43x64x2 x43x63x1 x43x93x1 x43x69x1 x43x69x2 x43x47x1 x43x35x1 x43x35x2 x43x7x1 x43x7x2 x43x53x1 x43x50x2 x43x29x1 x43x29x2 x43x3x1 x43x58x1 x43x67x1 x43x30x1 x43x83x1 x43x15x1 x43x15x2 x43x84x1 x43x8x1 x43x59x1 x43x19x2 
+x62x1x3 x62x31x3 x62x73x3 x62x95x3 x62x25x3 x62x64x3 x62x63x3 x62x93x3 x62x65x3 x62x69x3 x62x47x3 x62x7x3 x62x53x3 x62x29x3 x62x3x3 x62x30x3 x62x83x3 x62x59x3 
+x73x1x2 x73x1x3 x73x61x2 x73x31x2 x73x31x3 x73x62x3 x73x95x3 x73x37x2 x73x100x2 x73x25x3 x73x64x2 x73x64x3 x73x63x3 x73x93x3 x73x65x2 x73x65x3 x73x69x2 x73x69x3 x73x47x3 x73x35x2 x73x7x2 x73x7x3 x73x53x3 x73x50x2 x73x29x2 x73x29x3 x73x3x3 x73x30x3 x73x83x3 x73x15x2 x73x59x3 x73x19x2 
+x95x1x3 x95x31x3 x95x62x3 x95x73x3 x95x25x3 x95x64x3 x95x63x3 x95x93x3 x95x65x3 x95x69x3 x95x47x3 x95x7x3 x95x53x3 x95x29x3 x95x3x3 x95x30x3 x95x83x3 x95x59x3 
+x37x1x1 x37x1x2 x37x73x2 x37x100x2 x37x71x1 x37x25x1 x37x64x1 x37x64x2 x37x63x1 x37x93x1 x37x65x2 x37x69x1 x37x69x2 x37x47x1 x37x35x1 x37x35x2 x37x7x1 x37x7x2 x37x53x1 x37x50x2 x37x29x1 x37x29x2 x37x3x1 x37x58x1 x37x67x1 x37x30x1 x37x83x1 x37x15x1 x37x15x2 x37x84x1 x37x8x1 x37x59x1 x37x19x2 
+x100x1x2 x100x37x2 x100x64x2 x100x65x2 x100x69x2 x100x35x2 x100x7x2 x100x50x2 x100x29x2 x100x15x2 x100x19x2 
+x71x1x1 x71x25x1 x71x64x1 x71x63x1 x71x93x1 x71x69x1 x71x47x1 x71x35x1 x71x7x1 x71x53x1 x71x29x1 x71x3x1 x71x58x1 x71x67x1 x71x30x1 x71x83x1 x71x15x1 x71x84x1 x71x8x1 x71x59x1 
+x25x1x1 x25x1x3 x25x62x3 x25x73x3 x25x37x1 x25x71x1 x25x64x1 x25x64x3 x25x63x1 x25x63x3 x25x93x1 x25x93x3 x25x65x3 x25x69x1 x25x69x3 x25x47x1 x25x47x3 x25x35x1 x25x7x1 x25x7x3 x25x53x1 x25x53x3 x25x29x1 x25x29x3 x25x3x1 x25x3x3 x25x58x1 x25x67x1 x25x30x1 x25x30x3 x25x83x1 x25x83x3 x25x15x1 x25x84x1 x25x8x1 x25x59x1 x25x59x3 
+x64x1x1 x64x1x2 x64x1x3 x64x100x2 x64x71x1 x64x25x1 x64x25x3 x64x63x1 x64x63x3 x64x93x1 x64x93x3 x64x69x1 x64x69x2 x64x69x3 x64x47x1 x64x47x3 x64x35x1 x64x35x2 x64x7x1 x64x7x2 x64x7x3 x64x53x1 x64x53x3 x64x50x2 x64x29x1 x64x29x2 x64x29x3 x64x3x1 x64x3x3 x64x58x1 x64x67x1 x64x30x1 x64x30x3 x64x83x1 x64x83x3 x64x15x1 x64x15x2 x64x84x1 x64x8x1 x64x59x1 x64x59x3 x64x19x2 
+x63x1x1 x63x1x3 x63x37x1 x63x25x1 x63x25x3 x63x64x1 x63x64x3 x63x93x1 x63x93x3 x63x7x1 x63x7x3 x63x53x1 x63x53x3 x63x29x1 x63x29x3 x63x3x1 x63x3x3 x63x67x1 x63x30x1 x63x30x3 x63x83x1 x63x83x3 x63x15x1 x63x84x1 x63x8x1 x63x59x1 x63x59x3 
+x93x1x1 x93x1x3 x93x71x1 x93x25x1 x93x25x3 x93x64x1 x93x64x3 x93x69x1 x93x69x3 x93x47x1 x93x47x3 x93x35x1 x93x53x1 x93x53x3 x93x29x1 x93x29x3 x93x3x1 x93x3x3 x93x58x1 x93x67x1 x93x30x1 x93x30x3 x93x83x1 x93x83x3 x93x15x1 x93x84x1 x93x8x1 x93x59x1 x93x59x3 
+x65x1x2 x65x1x3 x65x69x2 x65x69x3 x65x47x3 x65x35x2 x65x53x3 x65x50x2 x65x29x2 x65x29x3 x65x83x3 x65x59x3 x65x19x2 
+x69x1x1 x69x1x2 x69x1x3 x69x100x2 x69x71x1 x69x64x1 x69x64x2 x69x64x3 x69x93x1 x69x93x3 x69x65x2 x69x65x3 x69x47x1 x69x47x3 x69x35x1 x69x35x2 x69x53x1 x69x53x3 x69x50x2 x69x29x1 x69x29x2 x69x29x3 x69x58x1 x69x67x1 x69x83x1 x69x83x3 x69x15x1 x69x15x2 x69x84x1 x69x8x1 x69x59x1 x69x59x3 x69x19x2 
+x47x1x1 x47x1x3 x47x71x1 x47x64x1 x47x64x3 x47x93x1 x47x93x3 x47x65x3 x47x69x1 x47x69x3 x47x35x1 x47x53x1 x47x53x3 x47x29x1 x47x29x3 x47x58x1 x47x67x1 x47x83x1 x47x83x3 x47x15x1 x47x84x1 x47x8x1 x47x59x1 x47x59x3 
+x35x1x1 x35x1x2 x35x65x2 x35x69x1 x35x69x2 x35x47x1 x35x53x1 x35x50x2 x35x29x1 x35x29x2 x35x58x1 x35x67x1 x35x83x1 x35x8x1 x35x59x1 x35x19x2 
+x7x1x1 x7x1x2 x7x1x3 x7x29x1 x7x29x2 x7x29x3 x7x3x1 x7x3x3 x7x30x1 x7x30x3 x7x15x1 x7x15x2 x7x84x1 x7x8x1 x7x59x1 x7x59x3 
+x53x1x1 x53x1x3 x53x64x1 x53x64x3 x53x93x1 x53x93x3 x53x69x1 x53x69x3 x53x47x1 x53x47x3 x53x29x1 x53x29x3 x53x58x1 x53x67x1 x53x83x1 x53x83x3 x53x15x1 x53x84x1 x53x8x1 x53x59x1 x53x59x3 
+x50x1x2 x50x64x2 x50x69x2 x50x35x2 x50x29x2 x50x15x2 x50x19x2 
+x29x1x1 x29x1x2 x29x1x3 x29x53x1 x29x53x3 x29x50x2 x29x67x1 x29x83x1 x29x83x3 x29x15x1 x29x15x2 x29x84x1 x29x8x1 x29x59x1 x29x59x3 
+x3x1x1 x3x1x3 x3x7x1 x3x7x3 x3x30x1 x3x30x3 x3x15x1 x3x84x1 
+x58x1x1 x58x83x1 x58x8x1 x58x59x1 
+x67x1x1 x67x53x1 x67x29x1 x67x83x1 x67x84x1 x67x8x1 x67x59x1 
+x30x1x1 x30x1x3 x30x3x1 x30x3x3 x30x15x1 x30x84x1 
+x83x1x1 x83x1x3 x83x67x1 x83x8x1 x83x59x1 x83x59x3 
+x15x1x1 x15x1x2 x15x30x1 x15x84x1 
+x84x1x1 x84x30x1 x84x15x1 
+x8x1x1 x8x67x1 x8x83x1 x8x59x1 
+x59x1x1 x59x1x3 x59x67x1 x59x83x1 x59x83x3 x59x8x1 
+x19x1x2 
+
+Binaries
+y82 y94 y75 y87 y101 y60 y78 y34 y46 y11 y14 y97 y13 y96 y51 y33 y74 y68 y17 y61 y31 y43 y62 y73 y95 y37 y100 y71 y25 y64 y63 y93 y65 y69 y47 y35 y7 y53 y50 y29 y3 y58 y67 y30 y83 y15 y84 y8 y59 y19 
+z1z82z1 z1z82z2 z1z94z1 z1z94z2 z1z75z2 z1z87z2 z1z87z3 z1z101z1 z1z101z2 z1z101z3 z1z60z1 z1z60z3 z1z78z2 z1z78z3 z1z34z2 z1z34z3 z1z46z1 z1z46z2 z1z11z2 z1z14z2 z1z97z3 z1z13z3 z1z96z2 z1z51z3 z1z33z1 z1z74z3 z1z68z2 z1z68z3 z1z17z3 z1z61z1 z1z61z2 z1z31z1 z1z31z2 z1z31z3 z1z43z1 z1z43z2 z1z62z3 z1z73z2 z1z73z3 z1z95z3 z1z37z1 z1z37z2 z1z100z2 z1z71z1 z1z25z1 z1z25z3 z1z64z1 z1z64z2 z1z64z3 z1z63z1 z1z63z3 z1z93z1 z1z93z3 z1z65z2 z1z65z3 z1z69z1 z1z69z2 z1z69z3 z1z47z1 z1z47z3 z1z35z1 z1z35z2 z1z7z1 z1z7z2 z1z7z3 z1z53z1 z1z53z3 z1z50z2 z1z29z1 z1z29z2 z1z29z3 z1z3z1 z1z3z3 z1z58z1 z1z67z1 z1z30z1 z1z30z3 z1z83z1 z1z83z3 z1z15z1 z1z15z2 z1z84z1 z1z8z1 z1z59z1 z1z59z3 z1z19z2 
+z82z1z1 z82z1z2 z82z94z1 z82z94z2 z82z75z2 z82z87z2 z82z101z1 z82z101z2 z82z60z1 z82z78z2 z82z34z2 z82z46z1 z82z46z2 z82z11z2 z82z14z2 z82z96z2 z82z33z1 z82z68z2 z82z61z1 z82z61z2 z82z31z1 z82z31z2 z82z43z1 z82z43z2 z82z73z2 z82z37z1 z82z37z2 z82z100z2 z82z71z1 z82z25z1 z82z64z1 z82z64z2 z82z63z1 z82z93z1 z82z65z2 z82z69z1 z82z69z2 z82z47z1 z82z35z1 z82z35z2 z82z7z1 z82z7z2 z82z53z1 z82z50z2 z82z29z1 z82z29z2 z82z3z1 z82z58z1 z82z67z1 z82z30z1 z82z83z1 z82z15z1 z82z15z2 z82z84z1 z82z8z1 z82z59z1 z82z19z2 
+z94z1z1 z94z1z2 z94z82z1 z94z82z2 z94z75z2 z94z87z2 z94z101z1 z94z101z2 z94z60z1 z94z78z2 z94z34z2 z94z46z1 z94z46z2 z94z11z2 z94z14z2 z94z96z2 z94z33z1 z94z68z2 z94z61z1 z94z61z2 z94z31z1 z94z31z2 z94z43z1 z94z43z2 z94z73z2 z94z37z1 z94z37z2 z94z100z2 z94z71z1 z94z25z1 z94z64z1 z94z64z2 z94z63z1 z94z93z1 z94z65z2 z94z69z1 z94z69z2 z94z47z1 z94z35z1 z94z35z2 z94z7z1 z94z7z2 z94z53z1 z94z50z2 z94z29z1 z94z29z2 z94z3z1 z94z58z1 z94z67z1 z94z30z1 z94z83z1 z94z15z1 z94z15z2 z94z84z1 z94z8z1 z94z59z1 z94z19z2 
+z75z1z2 z75z82z2 z75z94z2 z75z87z2 z75z101z2 z75z78z2 z75z34z2 z75z46z2 z75z11z2 z75z14z2 z75z96z2 z75z68z2 z75z61z2 z75z31z2 z75z43z2 z75z73z2 z75z37z2 z75z100z2 z75z64z2 z75z65z2 z75z69z2 z75z35z2 z75z7z2 z75z50z2 z75z29z2 z75z15z2 z75z19z2 
+z87z1z2 z87z1z3 z87z82z2 z87z94z2 z87z75z2 z87z101z2 z87z101z3 z87z60z3 z87z78z2 z87z78z3 z87z34z2 z87z34z3 z87z46z2 z87z11z2 z87z14z2 z87z97z3 z87z13z3 z87z96z2 z87z51z3 z87z74z3 z87z68z2 z87z68z3 z87z17z3 z87z61z2 z87z31z2 z87z31z3 z87z43z2 z87z62z3 z87z73z2 z87z73z3 z87z95z3 z87z37z2 z87z100z2 z87z25z3 z87z64z2 z87z64z3 z87z63z3 z87z93z3 z87z65z2 z87z65z3 z87z69z2 z87z69z3 z87z47z3 z87z35z2 z87z7z2 z87z7z3 z87z53z3 z87z50z2 z87z29z2 z87z29z3 z87z3z3 z87z30z3 z87z83z3 z87z15z2 z87z59z3 z87z19z2 
+z101z1z1 z101z1z2 z101z1z3 z101z82z1 z101z82z2 z101z94z1 z101z94z2 z101z75z2 z101z87z2 z101z87z3 z101z60z1 z101z60z3 z101z78z2 z101z78z3 z101z34z2 z101z34z3 z101z46z1 z101z46z2 z101z11z2 z101z14z2 z101z97z3 z101z13z3 z101z96z2 z101z51z3 z101z33z1 z101z74z3 z101z68z2 z101z68z3 z101z17z3 z101z61z1 z101z61z2 z101z31z1 z101z31z2 z101z31z3 z101z43z1 z101z43z2 z101z62z3 z101z73z2 z101z73z3 z101z95z3 z101z37z1 z101z37z2 z101z100z2 z101z71z1 z101z25z1 z101z25z3 z101z64z1 z101z64z2 z101z64z3 z101z63z1 z101z63z3 z101z93z1 z101z93z3 z101z65z2 z101z65z3 z101z69z1 z101z69z2 z101z69z3 z101z47z1 z101z47z3 z101z35z1 z101z35z2 z101z7z1 z101z7z2 z101z7z3 z101z53z1 z101z53z3 z101z50z2 z101z29z1 z101z29z2 z101z29z3 z101z3z1 z101z3z3 z101z58z1 z101z67z1 z101z30z1 z101z30z3 z101z83z1 z101z83z3 z101z15z1 z101z15z2 z101z84z1 z101z8z1 z101z59z1 z101z59z3 z101z19z2 
+z60z1z1 z60z1z3 z60z82z1 z60z94z1 z60z87z3 z60z101z1 z60z101z3 z60z78z3 z60z34z3 z60z46z1 z60z97z3 z60z13z3 z60z51z3 z60z33z1 z60z74z3 z60z68z3 z60z17z3 z60z61z1 z60z31z1 z60z31z3 z60z43z1 z60z62z3 z60z73z3 z60z95z3 z60z37z1 z60z71z1 z60z25z1 z60z25z3 z60z64z1 z60z64z3 z60z63z1 z60z63z3 z60z93z1 z60z93z3 z60z65z3 z60z69z1 z60z69z3 z60z47z1 z60z47z3 z60z35z1 z60z7z1 z60z7z3 z60z53z1 z60z53z3 z60z29z1 z60z29z3 z60z3z1 z60z3z3 z60z58z1 z60z67z1 z60z30z1 z60z30z3 z60z83z1 z60z83z3 z60z15z1 z60z84z1 z60z8z1 z60z59z1 z60z59z3 
+z78z1z2 z78z1z3 z78z94z2 z78z75z2 z78z87z2 z78z87z3 z78z101z2 z78z101z3 z78z60z3 z78z34z2 z78z34z3 z78z46z2 z78z11z2 z78z14z2 z78z97z3 z78z13z3 z78z96z2 z78z51z3 z78z74z3 z78z68z2 z78z68z3 z78z17z3 z78z61z2 z78z31z2 z78z31z3 z78z43z2 z78z62z3 z78z73z2 z78z73z3 z78z95z3 z78z37z2 z78z100z2 z78z25z3 z78z64z2 z78z64z3 z78z63z3 z78z93z3 z78z65z2 z78z65z3 z78z69z2 z78z69z3 z78z47z3 z78z35z2 z78z7z2 z78z7z3 z78z53z3 z78z50z2 z78z29z2 z78z29z3 z78z3z3 z78z30z3 z78z83z3 z78z15z2 z78z59z3 z78z19z2 
+z34z1z2 z34z1z3 z34z94z2 z34z75z2 z34z87z2 z34z87z3 z34z101z2 z34z101z3 z34z60z3 z34z78z2 z34z78z3 z34z46z2 z34z11z2 z34z14z2 z34z97z3 z34z13z3 z34z96z2 z34z51z3 z34z74z3 z34z68z2 z34z68z3 z34z17z3 z34z61z2 z34z31z2 z34z31z3 z34z43z2 z34z62z3 z34z73z2 z34z73z3 z34z95z3 z34z37z2 z34z100z2 z34z25z3 z34z64z2 z34z64z3 z34z63z3 z34z93z3 z34z65z2 z34z65z3 z34z69z2 z34z69z3 z34z47z3 z34z35z2 z34z7z2 z34z7z3 z34z53z3 z34z50z2 z34z29z2 z34z29z3 z34z3z3 z34z30z3 z34z83z3 z34z15z2 z34z59z3 z34z19z2 
+z46z1z1 z46z1z2 z46z87z2 z46z101z1 z46z101z2 z46z60z1 z46z78z2 z46z34z2 z46z11z2 z46z14z2 z46z96z2 z46z33z1 z46z68z2 z46z61z1 z46z61z2 z46z31z1 z46z31z2 z46z43z1 z46z43z2 z46z73z2 z46z37z1 z46z37z2 z46z100z2 z46z71z1 z46z25z1 z46z64z1 z46z64z2 z46z63z1 z46z93z1 z46z65z2 z46z69z1 z46z69z2 z46z47z1 z46z35z1 z46z35z2 z46z7z1 z46z7z2 z46z53z1 z46z50z2 z46z29z1 z46z29z2 z46z3z1 z46z58z1 z46z67z1 z46z30z1 z46z83z1 z46z15z1 z46z15z2 z46z84z1 z46z8z1 z46z59z1 z46z19z2 
+z11z1z2 z11z75z2 z11z87z2 z11z101z2 z11z78z2 z11z34z2 z11z46z2 z11z14z2 z11z96z2 z11z68z2 z11z61z2 z11z31z2 z11z43z2 z11z73z2 z11z37z2 z11z100z2 z11z64z2 z11z65z2 z11z69z2 z11z35z2 z11z7z2 z11z50z2 z11z29z2 z11z15z2 z11z19z2 
+z14z1z2 z14z78z2 z14z34z2 z14z46z2 z14z11z2 z14z96z2 z14z68z2 z14z61z2 z14z31z2 z14z43z2 z14z73z2 z14z37z2 z14z100z2 z14z64z2 z14z65z2 z14z69z2 z14z35z2 z14z7z2 z14z50z2 z14z29z2 z14z15z2 z14z19z2 
+z97z1z3 z97z13z3 z97z51z3 z97z74z3 z97z68z3 z97z17z3 z97z31z3 z97z62z3 z97z73z3 z97z95z3 z97z25z3 z97z64z3 z97z63z3 z97z93z3 z97z65z3 z97z69z3 z97z47z3 z97z7z3 z97z53z3 z97z29z3 z97z3z3 z97z30z3 z97z83z3 z97z59z3 
+z13z1z3 z13z34z3 z13z97z3 z13z51z3 z13z74z3 z13z68z3 z13z17z3 z13z31z3 z13z62z3 z13z73z3 z13z95z3 z13z25z3 z13z64z3 z13z63z3 z13z93z3 z13z65z3 z13z69z3 z13z47z3 z13z7z3 z13z53z3 z13z29z3 z13z3z3 z13z30z3 z13z83z3 z13z59z3 
+z96z1z2 z96z14z2 z96z68z2 z96z61z2 z96z31z2 z96z43z2 z96z73z2 z96z37z2 z96z100z2 z96z64z2 z96z65z2 z96z69z2 z96z35z2 z96z7z2 z96z50z2 z96z29z2 z96z15z2 z96z19z2 
+z51z1z3 z51z13z3 z51z74z3 z51z68z3 z51z17z3 z51z31z3 z51z62z3 z51z73z3 z51z95z3 z51z25z3 z51z64z3 z51z63z3 z51z93z3 z51z65z3 z51z69z3 z51z47z3 z51z7z3 z51z53z3 z51z29z3 z51z3z3 z51z30z3 z51z83z3 z51z59z3 
+z33z1z1 z33z61z1 z33z31z1 z33z43z1 z33z37z1 z33z71z1 z33z25z1 z33z64z1 z33z63z1 z33z93z1 z33z69z1 z33z47z1 z33z35z1 z33z7z1 z33z53z1 z33z29z1 z33z3z1 z33z58z1 z33z67z1 z33z30z1 z33z83z1 z33z15z1 z33z84z1 z33z8z1 z33z59z1 
+z74z1z3 z74z51z3 z74z68z3 z74z17z3 z74z31z3 z74z62z3 z74z73z3 z74z95z3 z74z25z3 z74z64z3 z74z63z3 z74z93z3 z74z65z3 z74z69z3 z74z47z3 z74z7z3 z74z53z3 z74z29z3 z74z3z3 z74z30z3 z74z83z3 z74z59z3 
+z68z1z2 z68z1z3 z68z17z3 z68z61z2 z68z31z2 z68z31z3 z68z43z2 z68z62z3 z68z73z2 z68z73z3 z68z95z3 z68z37z2 z68z100z2 z68z25z3 z68z64z2 z68z64z3 z68z63z3 z68z93z3 z68z65z2 z68z65z3 z68z69z2 z68z69z3 z68z47z3 z68z35z2 z68z7z2 z68z7z3 z68z53z3 z68z50z2 z68z29z2 z68z29z3 z68z3z3 z68z30z3 z68z83z3 z68z15z2 z68z59z3 z68z19z2 
+z17z1z3 z17z31z3 z17z62z3 z17z73z3 z17z95z3 z17z25z3 z17z64z3 z17z63z3 z17z93z3 z17z65z3 z17z69z3 z17z47z3 z17z7z3 z17z53z3 z17z29z3 z17z3z3 z17z30z3 z17z83z3 z17z59z3 
+z61z1z1 z61z1z2 z61z31z1 z61z31z2 z61z73z2 z61z37z1 z61z37z2 z61z100z2 z61z71z1 z61z25z1 z61z64z1 z61z64z2 z61z63z1 z61z93z1 z61z65z2 z61z69z1 z61z69z2 z61z47z1 z61z35z1 z61z35z2 z61z7z1 z61z7z2 z61z53z1 z61z50z2 z61z29z1 z61z29z2 z61z3z1 z61z58z1 z61z67z1 z61z30z1 z61z83z1 z61z15z1 z61z15z2 z61z84z1 z61z8z1 z61z59z1 z61z19z2 
+z31z1z1 z31z1z2 z31z1z3 z31z61z1 z31z61z2 z31z62z3 z31z73z2 z31z73z3 z31z95z3 z31z37z1 z31z37z2 z31z100z2 z31z71z1 z31z25z1 z31z25z3 z31z64z1 z31z64z2 z31z64z3 z31z63z1 z31z63z3 z31z93z1 z31z93z3 z31z65z2 z31z65z3 z31z69z1 z31z69z2 z31z69z3 z31z47z1 z31z47z3 z31z35z1 z31z35z2 z31z7z1 z31z7z2 z31z7z3 z31z53z1 z31z53z3 z31z50z2 z31z29z1 z31z29z2 z31z29z3 z31z3z1 z31z3z3 z31z58z1 z31z67z1 z31z30z1 z31z30z3 z31z83z1 z31z83z3 z31z15z1 z31z15z2 z31z84z1 z31z8z1 z31z59z1 z31z59z3 z31z19z2 
+z43z1z1 z43z1z2 z43z73z2 z43z37z1 z43z37z2 z43z100z2 z43z71z1 z43z25z1 z43z64z1 z43z64z2 z43z63z1 z43z93z1 z43z69z1 z43z69z2 z43z47z1 z43z35z1 z43z35z2 z43z7z1 z43z7z2 z43z53z1 z43z50z2 z43z29z1 z43z29z2 z43z3z1 z43z58z1 z43z67z1 z43z30z1 z43z83z1 z43z15z1 z43z15z2 z43z84z1 z43z8z1 z43z59z1 z43z19z2 
+z62z1z3 z62z31z3 z62z73z3 z62z95z3 z62z25z3 z62z64z3 z62z63z3 z62z93z3 z62z65z3 z62z69z3 z62z47z3 z62z7z3 z62z53z3 z62z29z3 z62z3z3 z62z30z3 z62z83z3 z62z59z3 
+z73z1z2 z73z1z3 z73z61z2 z73z31z2 z73z31z3 z73z62z3 z73z95z3 z73z37z2 z73z100z2 z73z25z3 z73z64z2 z73z64z3 z73z63z3 z73z93z3 z73z65z2 z73z65z3 z73z69z2 z73z69z3 z73z47z3 z73z35z2 z73z7z2 z73z7z3 z73z53z3 z73z50z2 z73z29z2 z73z29z3 z73z3z3 z73z30z3 z73z83z3 z73z15z2 z73z59z3 z73z19z2 
+z95z1z3 z95z31z3 z95z62z3 z95z73z3 z95z25z3 z95z64z3 z95z63z3 z95z93z3 z95z65z3 z95z69z3 z95z47z3 z95z7z3 z95z53z3 z95z29z3 z95z3z3 z95z30z3 z95z83z3 z95z59z3 
+z37z1z1 z37z1z2 z37z73z2 z37z100z2 z37z71z1 z37z25z1 z37z64z1 z37z64z2 z37z63z1 z37z93z1 z37z65z2 z37z69z1 z37z69z2 z37z47z1 z37z35z1 z37z35z2 z37z7z1 z37z7z2 z37z53z1 z37z50z2 z37z29z1 z37z29z2 z37z3z1 z37z58z1 z37z67z1 z37z30z1 z37z83z1 z37z15z1 z37z15z2 z37z84z1 z37z8z1 z37z59z1 z37z19z2 
+z100z1z2 z100z37z2 z100z64z2 z100z65z2 z100z69z2 z100z35z2 z100z7z2 z100z50z2 z100z29z2 z100z15z2 z100z19z2 
+z71z1z1 z71z25z1 z71z64z1 z71z63z1 z71z93z1 z71z69z1 z71z47z1 z71z35z1 z71z7z1 z71z53z1 z71z29z1 z71z3z1 z71z58z1 z71z67z1 z71z30z1 z71z83z1 z71z15z1 z71z84z1 z71z8z1 z71z59z1 
+z25z1z1 z25z1z3 z25z62z3 z25z73z3 z25z37z1 z25z71z1 z25z64z1 z25z64z3 z25z63z1 z25z63z3 z25z93z1 z25z93z3 z25z65z3 z25z69z1 z25z69z3 z25z47z1 z25z47z3 z25z35z1 z25z7z1 z25z7z3 z25z53z1 z25z53z3 z25z29z1 z25z29z3 z25z3z1 z25z3z3 z25z58z1 z25z67z1 z25z30z1 z25z30z3 z25z83z1 z25z83z3 z25z15z1 z25z84z1 z25z8z1 z25z59z1 z25z59z3 
+z64z1z1 z64z1z2 z64z1z3 z64z100z2 z64z71z1 z64z25z1 z64z25z3 z64z63z1 z64z63z3 z64z93z1 z64z93z3 z64z69z1 z64z69z2 z64z69z3 z64z47z1 z64z47z3 z64z35z1 z64z35z2 z64z7z1 z64z7z2 z64z7z3 z64z53z1 z64z53z3 z64z50z2 z64z29z1 z64z29z2 z64z29z3 z64z3z1 z64z3z3 z64z58z1 z64z67z1 z64z30z1 z64z30z3 z64z83z1 z64z83z3 z64z15z1 z64z15z2 z64z84z1 z64z8z1 z64z59z1 z64z59z3 z64z19z2 
+z63z1z1 z63z1z3 z63z37z1 z63z25z1 z63z25z3 z63z64z1 z63z64z3 z63z93z1 z63z93z3 z63z7z1 z63z7z3 z63z53z1 z63z53z3 z63z29z1 z63z29z3 z63z3z1 z63z3z3 z63z67z1 z63z30z1 z63z30z3 z63z83z1 z63z83z3 z63z15z1 z63z84z1 z63z8z1 z63z59z1 z63z59z3 
+z93z1z1 z93z1z3 z93z71z1 z93z25z1 z93z25z3 z93z64z1 z93z64z3 z93z69z1 z93z69z3 z93z47z1 z93z47z3 z93z35z1 z93z53z1 z93z53z3 z93z29z1 z93z29z3 z93z3z1 z93z3z3 z93z58z1 z93z67z1 z93z30z1 z93z30z3 z93z83z1 z93z83z3 z93z15z1 z93z84z1 z93z8z1 z93z59z1 z93z59z3 
+z65z1z2 z65z1z3 z65z69z2 z65z69z3 z65z47z3 z65z35z2 z65z53z3 z65z50z2 z65z29z2 z65z29z3 z65z83z3 z65z59z3 z65z19z2 
+z69z1z1 z69z1z2 z69z1z3 z69z100z2 z69z71z1 z69z64z1 z69z64z2 z69z64z3 z69z93z1 z69z93z3 z69z65z2 z69z65z3 z69z47z1 z69z47z3 z69z35z1 z69z35z2 z69z53z1 z69z53z3 z69z50z2 z69z29z1 z69z29z2 z69z29z3 z69z58z1 z69z67z1 z69z83z1 z69z83z3 z69z15z1 z69z15z2 z69z84z1 z69z8z1 z69z59z1 z69z59z3 z69z19z2 
+z47z1z1 z47z1z3 z47z71z1 z47z64z1 z47z64z3 z47z93z1 z47z93z3 z47z65z3 z47z69z1 z47z69z3 z47z35z1 z47z53z1 z47z53z3 z47z29z1 z47z29z3 z47z58z1 z47z67z1 z47z83z1 z47z83z3 z47z15z1 z47z84z1 z47z8z1 z47z59z1 z47z59z3 
+z35z1z1 z35z1z2 z35z65z2 z35z69z1 z35z69z2 z35z47z1 z35z53z1 z35z50z2 z35z29z1 z35z29z2 z35z58z1 z35z67z1 z35z83z1 z35z8z1 z35z59z1 z35z19z2 
+z7z1z1 z7z1z2 z7z1z3 z7z29z1 z7z29z2 z7z29z3 z7z3z1 z7z3z3 z7z30z1 z7z30z3 z7z15z1 z7z15z2 z7z84z1 z7z8z1 z7z59z1 z7z59z3 
+z53z1z1 z53z1z3 z53z64z1 z53z64z3 z53z93z1 z53z93z3 z53z69z1 z53z69z3 z53z47z1 z53z47z3 z53z29z1 z53z29z3 z53z58z1 z53z67z1 z53z83z1 z53z83z3 z53z15z1 z53z84z1 z53z8z1 z53z59z1 z53z59z3 
+z50z1z2 z50z64z2 z50z69z2 z50z35z2 z50z29z2 z50z15z2 z50z19z2 
+z29z1z1 z29z1z2 z29z1z3 z29z53z1 z29z53z3 z29z50z2 z29z67z1 z29z83z1 z29z83z3 z29z15z1 z29z15z2 z29z84z1 z29z8z1 z29z59z1 z29z59z3 
+z3z1z1 z3z1z3 z3z7z1 z3z7z3 z3z30z1 z3z30z3 z3z15z1 z3z84z1 
+z58z1z1 z58z83z1 z58z8z1 z58z59z1 
+z67z1z1 z67z53z1 z67z29z1 z67z83z1 z67z84z1 z67z8z1 z67z59z1 
+z30z1z1 z30z1z3 z30z3z1 z30z3z3 z30z15z1 z30z84z1 
+z83z1z1 z83z1z3 z83z67z1 z83z8z1 z83z59z1 z83z59z3 
+z15z1z1 z15z1z2 z15z30z1 z15z84z1 
+z84z1z1 z84z30z1 z84z15z1 
+z8z1z1 z8z67z1 z8z83z1 z8z59z1 
+z59z1z1 z59z1z3 z59z67z1 z59z83z1 z59z83z3 z59z8z1 
+z19z1z2 
+
+End
